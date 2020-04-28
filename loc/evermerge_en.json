@@ -1,0 +1,6191 @@
+[
+  {
+    "quest.completed": "Quest"
+  },
+  {
+    "quest.completed2": "Completed"
+  },
+  {
+    "quest.card.new": "New Quest"
+  },
+  {
+    "quest.arrow.new": "New Quest"
+  },
+  {
+    "quest.arrow.progress": "Progress"
+  },
+  {
+    "gameboard.bubble.message.castle.build": "Castle:\\n{0}"
+  },
+  {
+    "gameboard.bubble.message.castle.make": "Make for: {0}"
+  },
+  {
+    "gameboard.bubble.message.piece": "Build in:\\n{0}"
+  },
+  {
+    "gameboard.bubble.message.obstacle": "Remove in:\\n{0}"
+  },
+  {
+    "gameboard.bubble.message.mine": "Mine in:"
+  },
+  {
+    "gameboard.bubble.message.production": "Harvest {0}"
+  },
+  {
+    "gameboard.bubble.message.fog": "Clear Fog"
+  },
+  {
+    "gameboard.bubble.button.send": "Send {0}"
+  },
+  {
+    "gameboard.bubble.button.wait": "Wait\\n{0}"
+  },
+  {
+    "gameboard.bubble.button.deadfield": "Remove {0}"
+  },
+  {
+    "gameboard.bubble.button.obstacle": "Cut {0}"
+  },
+  {
+    "gameboard.bubble.button.mine": "Mine {0}"
+  },
+  {
+    "gameboard.bubble.button.eventobject": "Create {0}"
+  },
+  {
+    "gameboard.bubble.button.finish": "Finish {0}"
+  },
+  {
+    "window.main.orders": "Orders"
+  },
+  {
+    "window.main.collection": "Discoveries"
+  },
+  {
+    "window.main.market": "Market"
+  },
+  {
+    "window.main.remove": "Remove"
+  },
+  {
+    "window.main.event": "Coming Soon"
+  },
+  {
+    "window.main.eventTimer": "Time Left"
+  },
+  {
+    "window.main.mainGame": "Main Game"
+  },
+  {
+    "window.main.hint.merge": "Merge 5 {0} and get 2 {1}"
+  },
+  {
+    "window.chest.title": "Open Chest"
+  },
+  {
+    "window.chest.sack.title": "Open Sack"
+  },
+  {
+    "window.chest.message": "Want to open this chest?"
+  },
+  {
+    "window.chest.sack.message": "Want to open this sack?"
+  },
+  {
+    "window.chest.chance": "May contain:"
+  },
+  {
+    "window.exchange.ingredients.title": "Ingredients"
+  },
+  {
+    "window.exchange.ingredients.message": "Buy missing ingredients"
+  },
+  {
+    "window.exchange.ingredients.tutor": "Find missing ingredients"
+  },
+  {
+    "window.convert.ingredients.title": "Exchange"
+  },
+  {
+    "window.convert.ingredients.message": "The season is over"
+  },
+  {
+    "window.nexLevel.title": "Next Level!"
+  },
+  {
+    "window.nexLevel.header": "New Recipe!"
+  },
+  {
+    "window.orders.title": "Orders"
+  },
+  {
+    "window.orders.message.orders.empty": "Produce orders for characters to earn <sprite name=icon_Mana> and <sprite name=icon_Coins>"
+  },
+  {
+    "window.orders.message.ingredients.empty": "You have no ingredients.\\nKeep playing!"
+  },
+  {
+    "window.orders.toggle.orders": "Orders"
+  },
+  {
+    "window.orders.toggle.recipes": "Recipes"
+  },
+  {
+    "window.orders.toggle.ingredients": "Ingredients"
+  },
+  {
+    "window.orders.required": "Required:"
+  },
+  {
+    "window.orders.button.convert": "Convert"
+  },
+  {
+    "window.remove.title": "Remove"
+  },
+  {
+    "window.remove.message": "Are you sure you want to permanently delete this object?"
+  },
+  {
+    "window.remove.hint.title": "How to Use"
+  },
+  {
+    "window.remove.hint.message": "Drag the shovel icon to the object you want to remove!"
+  },
+  {
+    "window.timerComplete.title": "Complete Now"
+  },
+  {
+    "window.timerComplete.message.default": "Complete this action now?"
+  },
+  {
+    "window.timerComplete.message.castle": "Complete this action now?"
+  },
+  {
+    "window.timerComplete.message.piece": "Complete this action now?"
+  },
+  {
+    "window.timerComplete.message.piece.eventGame": "Complete this action now and earn {0}?"
+  },
+  {
+    "window.timerComplete.message.production": "Complete this action now?"
+  },
+  {
+    "window.timerComplete.message.ad": "Watch a video to speed up the timer!"
+  },
+  {
+    "window.timerComplete.message.useSoftEvent": "*You can speed up timers with {0} today!"
+  },
+  {
+    "window.timerComplete.button.ad.finish": "Finish Now!"
+  },
+  {
+    "window.codex.title": "Discoveries"
+  },
+  {
+    "window.codex.toggle.characters": "Heroes"
+  },
+  {
+    "window.codex.toggle.main": "Buildings"
+  },
+  {
+    "window.codex.toggle.production": "Products"
+  },
+  {
+    "window.codex.toggle.chests": "Chests"
+  },
+  {
+    "window.codex.toggle.other": "Other"
+  },
+  {
+    "window.codex.branch.A": "Wood Branch"
+  },
+  {
+    "window.codex.branch.B": "Stone Branch"
+  },
+  {
+    "window.codex.branch.C": "Wagon Branch"
+  },
+  {
+    "window.codex.branch.D": "Coral Branch"
+  },
+  {
+    "window.codex.branch.E": "Moon Branch"
+  },
+  {
+    "window.codex.branch.F": "Magical Wood Branch"
+  },
+  {
+    "window.codex.branch.G": "Flower Branch"
+  },
+  {
+    "window.codex.branch.H": "Circus Branch"
+  },
+  {
+    "window.codex.branch.I": "Lighthouse Branch"
+  },
+  {
+    "window.codex.branch.J": "Water Lily Branch"
+  },
+  {
+    "window.codex.branch.K": "Magical Apple Branch"
+  },
+  {
+    "window.codex.branch.E1_A": "Unicorn Branch"
+  },
+  {
+    "window.codex.branch.E2_A": "Flooficore Branch"
+  },
+  {
+    "window.codex.branch.SN_A": "Spring Bloom Branch"
+  },
+  {
+    "window.codex.branch.EXT_A": "Magic Plants Branch"
+  },
+  {
+    "window.codex.branch.EXT_B": ""
+  },
+  {
+    "window.codex.branch.EXT_C": ""
+  },
+  {
+    "window.codex.branch.EXT_D": ""
+  },
+  {
+    "window.codex.branch.EXT_E": ""
+  },
+  {
+    "window.codex.branch.E1_SP_A": "Diamond Tree Branch"
+  },
+  {
+    "window.codex.branch.E1_SP_B": "Magic Lamp Branch"
+  },
+  {
+    "window.codex.branch.E1_SP_C": "Mushroom Branch"
+  },
+  {
+    "window.codex.branch.E1_SP_D": "Magic Flower Branch"
+  },
+  {
+    "window.codex.branch.PR_A": "Wheat"
+  },
+  {
+    "window.codex.branch.PR_B": "Apple"
+  },
+  {
+    "window.codex.branch.PR_C": "Candies"
+  },
+  {
+    "window.codex.branch.PR_D": "Carrot"
+  },
+  {
+    "window.codex.branch.PR_E": "Mushroom"
+  },
+  {
+    "window.codex.branch.PR_F": "Corn"
+  },
+  {
+    "window.codex.branch.PR_G": "Mango"
+  },
+  {
+    "window.codex.branch.PR_H": "Rainbow Flower"
+  },
+  {
+    "window.codex.branch.PR_I": "Sugar Cane"
+  },
+  {
+    "window.codex.branch.PR_J": "PR_J"
+  },
+  {
+    "window.codex.branch.PR_K": "PR_K"
+  },
+  {
+    "window.codex.branch.SK_PR": "Sacks of Seeds"
+  },
+  {
+    "window.codex.branch.CH_A": "Wood"
+  },
+  {
+    "window.codex.branch.CH_B": "Stone"
+  },
+  {
+    "window.codex.branch.CH_C": "Wagons"
+  },
+  {
+    "window.codex.branch.CH_D": "Coral"
+  },
+  {
+    "window.codex.branch.CH_E": "Moon"
+  },
+  {
+    "window.codex.branch.CH_F": "Magical Wood"
+  },
+  {
+    "window.codex.branch.CH_G": "Flower"
+  },
+  {
+    "window.codex.branch.CH_H": "Circus"
+  },
+  {
+    "window.codex.branch.CH_I": "Lighthouse"
+  },
+  {
+    "window.codex.branch.CH_J": "Water Lily"
+  },
+  {
+    "window.codex.branch.CH_K": "Magical Apple"
+  },
+  {
+    "window.codex.branch.E1_CH_A": "Rainbow"
+  },
+  {
+    "window.codex.branch.E1_CH_B": "Magical"
+  },
+  {
+    "window.codex.branch.E2_CH_A": "Magical Lily"
+  },
+  {
+    "window.codex.branch.E2_CH_B": "Magical Whirl"
+  },
+  {
+    "window.codex.branch.SN_CH_A": "Spring Bloom"
+  },
+  {
+    "window.codex.branch.CH_TR": "Treasure Chest"
+  },
+  {
+    "window.codex.branch.Mana": "Wands"
+  },
+  {
+    "window.codex.branch.Soft": "Coins"
+  },
+  {
+    "window.codex.branch.Hard": "Rubies"
+  },
+  {
+    "window.codex.branch.Boost_WR": "Red Gnome"
+  },
+  {
+    "window.codex.branch.Boost_CR": "Magic Crystal"
+  },
+  {
+    "window.codex.branch.HL_A": "Wood Source"
+  },
+  {
+    "window.codex.branch.HL_B": "Stone Source"
+  },
+  {
+    "window.codex.branch.HL_C": "Wagon Source"
+  },
+  {
+    "window.codex.branch.HL_D": "Coral Source"
+  },
+  {
+    "window.codex.branch.HL_E": "Moon Source"
+  },
+  {
+    "window.codex.branch.HL_F": "Magical Wood Source"
+  },
+  {
+    "window.codex.branch.HL_G": "Flower Source"
+  },
+  {
+    "window.codex.branch.HL_H": "Circus Source"
+  },
+  {
+    "window.codex.branch.HL_I": "Lighthouse Source"
+  },
+  {
+    "window.codex.branch.HL_J": "Water Lily Source"
+  },
+  {
+    "window.codex.branch.HL_K": "Magical Apple Source"
+  },
+  {
+    "window.market.title": "Market"
+  },
+  {
+    "window.market.message": "New items will appear in"
+  },
+  {
+    "window.market.button.reset": "Reset {0}"
+  },
+  {
+    "window.market.item.claimed": "Claimed"
+  },
+  {
+    "window.market.item.locked": "Locked"
+  },
+  {
+    "window.market.item.locked.message": "Available at \\nLevel {0}"
+  },
+  {
+    "window.market.item.capacity": "{0} left"
+  },
+  {
+    "window.market.confirmation.title": "Confirm"
+  },
+  {
+    "window.market.confirmation.message": "Do you want to reset all slots?"
+  },
+  {
+    "window.market.description.title": "Description"
+  },
+  {
+    "window.market.description.lock": "Available at Level {0}"
+  },
+  {
+    "window.market.description.coins": "Pack of coins! They allow you to buy <sprite name=icon_Energy> or useful goods in the Market."
+  },
+  {
+    "window.market.description.ingredients": "You need ingredients to complete orders and earn <sprite name=icon_Mana>"
+  },
+  {
+    "window.market.description.chest": "This chest contains {0} and other useful stuff. At least {0} items."
+  },
+  {
+    "window.market.description.sack": "Sack of seeds. Contains ingredients and seeds."
+  },
+  {
+    "window.market.description.boost_cr_part": "Fragment of Magic Crystal. If you collect enough pieces, you can create the whole Magic Crystal."
+  },
+  {
+    "window.market.description.boost_cr": "Magic Crystal allows you to make merges when there aren't enough pieces. It's kinda like... magic!"
+  },
+  {
+    "window.market.description.free_chest": "FREE Chest that can contain a lot of different and useful items."
+  },
+  {
+    "window.market.description.free_sn_chest": "FREE Spring Bloom Chest that can contain useful seasonal pieces."
+  },
+  {
+    "window.market.description.sn_chest": "A Spring Bloom Chest with seasonal pieces inside."
+  },
+  {
+    "window.market.description.npc_chest": "A Magic Chest with character pieces inside."
+  },
+  {
+    "window.market.description.piece": "Use these pieces to build houses"
+  },
+  {
+    "window.market.description.seasonal": "Use these pieces to build seasonal objects."
+  },
+  {
+    "window.market.description.worker": "A Red Gnome provides 1 HOUR total of reduced build time. Apply it to several short build timers or reduce a long build timer by 1 hour. If additional time is left after 1 hour, building will finish at the normal rate."
+  },
+  {
+    "window.market.description.unicorn.event": "A Rainbow Orb! Use it to create Unicorns."
+  },
+  {
+    "window.market.description.fluffy.event": "A sleeping Floofle! Use it to create Flooficores."
+  },
+  {
+    "window.market.hint": "The same odds for\\nany amount from this range"
+  },
+  {
+    "window.market.hint.message": "Contents of {0}"
+  },
+  {
+    "window.market.hint.characters": "Hero Pieces, {0}"
+  },
+  {
+    "window.market.hint.ingredient": "Ingredient Pieces, {0}"
+  },
+  {
+    "window.market.hint.production": "Product Pieces, {0}"
+  },
+  {
+    "window.market.hint.event": "Event Pieces, {0}"
+  },
+  {
+    "window.market.hint.other": "Currency Pieces, {0}"
+  },
+  {
+    "window.market.hint.A": "Wood Pieces, {0}"
+  },
+  {
+    "window.market.hint.B": "Stone Pieces, {0}"
+  },
+  {
+    "window.market.hint.C": "Wagon Pieces, {0}"
+  },
+  {
+    "window.market.hint.D": "Coral Pieces, {0}"
+  },
+  {
+    "window.market.hint.E": "Moon Pieces, {0}"
+  },
+  {
+    "window.market.hint.F": "Magical Wood Pieces, {0}"
+  },
+  {
+    "window.market.hint.G": "Flower Pieces, {0}"
+  },
+  {
+    "window.market.hint.H": "Circus Pieces, {0}"
+  },
+  {
+    "window.market.hint.I": "Lighthouse Pieces, {0}"
+  },
+  {
+    "window.market.hint.J": "Water Lily Pieces, {0}"
+  },
+  {
+    "window.market.hint.K": "Magical Apple Pieces, {0}"
+  },
+  {
+    "window.confirmation.title": "Confirm"
+  },
+  {
+    "window.confirmation.message": "Do you want to make this purchase?"
+  },
+  {
+    "window.shop.energy.title": "Energy Shop"
+  },
+  {
+    "window.shop.energy.message": "Buy energy to keep progressing! "
+  },
+  {
+    "window.shop.energy.item.locked": "Locked"
+  },
+  {
+    "window.shop.energy.item.claimed": "Claimed"
+  },
+  {
+    "window.shop.energy.item.ad": "Video Ad"
+  },
+  {
+    "window.shop.energy.item1": "Scratch Ticket"
+  },
+  {
+    "window.shop.energy.item2": "Energy Pack"
+  },
+  {
+    "window.shop.energy.item3": "Advanced Pack"
+  },
+  {
+    "window.shop.energy.item4": "Bonus Energy"
+  },
+  {
+    "window.shop.energy.item5": "Energy 5"
+  },
+  {
+    "window.shop.energy.disappear": "Disappears in\\n{0}"
+  },
+  {
+    "window.shop.energy.remark": "*Reset in {0}"
+  },
+  {
+    "window.shop.energy.first": "Play the lottery!"
+  },
+  {
+    "window.shop.coins.title": "Coin Shop"
+  },
+  {
+    "window.shop.coins.message": "Buy coins here!"
+  },
+  {
+    "window.shop.coins.item1": "Handful of Coins"
+  },
+  {
+    "window.shop.coins.item2": "Pouch of Coins"
+  },
+  {
+    "window.shop.coins.item3": "Chest of Coins"
+  },
+  {
+    "window.shop.coins.item4": "Coins 4"
+  },
+  {
+    "window.shop.coins.item5": "Coins 5"
+  },
+  {
+    "window.shop.crystals.title": "Shop"
+  },
+  {
+    "window.shop.crystals.message": "Speed up production with more rubies!"
+  },
+  {
+    "window.shop.crystals.item1": "Peasant's Pouch of Rubies"
+  },
+  {
+    "window.shop.crystals.item2": "Shopkeeper's Sack of Rubies"
+  },
+  {
+    "window.shop.crystals.item3": "Merchant's Chest of Rubies"
+  },
+  {
+    "window.shop.crystals.item4": "Nobility's Vault of Rubies"
+  },
+  {
+    "window.shop.crystals.item5": "Royalty's Treasury of Rubies"
+  },
+  {
+    "window.shop.crystals.item6": "Nearly a Mountain of Rubies"
+  },
+  {
+    "window.shop.crystals.bonus": "Bonus:"
+  },
+  {
+    "window.offer.title": "Special Offer"
+  },
+  {
+    "window.shop.offer.item1": "Level 10 Offer"
+  },
+  {
+    "window.shop.offer.item2": "Apprentice Pack"
+  },
+  {
+    "window.shop.offer.item3": "Event Pack"
+  },
+  {
+    "window.shop.offer.item4": "Event Pack"
+  },
+  {
+    "window.shop.offer.thank": "Thank you for your purchase!"
+  },
+  {
+    "window.shop.tag.best": "Best Value!"
+  },
+  {
+    "window.shop.tag.popular": "Most Popular!"
+  },
+  {
+    "window.version.title": "Versions"
+  },
+  {
+    "window.version.game": "Game"
+  },
+  {
+    "window.version.server": "Server"
+  },
+  {
+    "window.version.assets": "Assets"
+  },
+  {
+    "window.version.patches.installed": "Patches installed"
+  },
+  {
+    "window.version.patches.pending": "Patches pending"
+  },
+  {
+    "window.version.support.id": "User Support ID"
+  },
+  {
+    "window.version.install.id": "Install ID"
+  },
+  {
+    "window.notHave.title.mana": "Clear Fog"
+  },
+  {
+    "window.notHave.message.mana": "You need {0} to unlock this area \\nKeep playing!"
+  },
+  {
+    "window.notHave.title.crystals": "Oops!"
+  },
+  {
+    "window.notHave.message.crystals": "You don't have enough {0}!"
+  },
+  {
+    "window.quit.title": "Quit"
+  },
+  {
+    "window.quit.message": "Are you sure you want to quit playing?"
+  },
+  {
+    "window.quit.accept": "Yes"
+  },
+  {
+    "window.quit.cancel": "No"
+  },
+  {
+    "window.dailyReward.title": "Daily Reward"
+  },
+  {
+    "window.dailyReward.message": "Come back every day for your daily REWARD!"
+  },
+  {
+    "window.dailyReward.message.reset": "If you skip a day, progress will reset."
+  },
+  {
+    "window.dailyReward.item.claimed": "Claimed"
+  },
+  {
+    "window.dailyReward.item.locked": "Locked"
+  },
+  {
+    "window.dailyReward.item.day": "Day {0}"
+  },
+  {
+    "message.error.freeSpace": "Not enough free space!"
+  },
+  {
+    "message.error.pieceLock": "Clear the piece blocking the way!"
+  },
+  {
+    "message.error.notComplete": "Resource production isn't complete!"
+  },
+  {
+    "message.error.fogLevel": "Reach Level {0} for fog access!"
+  },
+  {
+    "message.error.fogHero": "You need to unlock {0} for fog access!"
+  },
+  {
+    "message.error.fogPiece": "You need {0} for fog access!"
+  },
+  {
+    "message.error.fogLock": "Coming soon!"
+  },
+  {
+    "message.error.action": "Can't do that yet!"
+  },
+  {
+    "message.error.workingHere": "That job's full boss!"
+  },
+  {
+    "message.error.workerBusy": "All your workers are busy!"
+  },
+  {
+    "message.error.notReady": "It's not ready yet!"
+  },
+  {
+    "message.error.manaClick": "There is no fog ready to be cleared. Keep playing."
+  },
+  {
+    "message.error.manaDrag": "Tap to claim mana"
+  },
+  {
+    "message.error.unlimitedEnergy": "Unlimited energy is already active."
+  },
+  {
+    "message.error.extraWorker": "Extra worker is already active."
+  },
+  {
+    "message.error.noMagicWands": "There are no Magic Wands nearby."
+  },
+  {
+    "message.error.clickOnBubble": "Finish the previous action first."
+  },
+  {
+    "message.error.timeLeft": "Time Left: {0}"
+  },
+  {
+    "message.error.zeroCurrency": "Merge {0} to get a {1}"
+  },
+  {
+    "common.button.ok": "OK"
+  },
+  {
+    "common.button.yes": "Yes"
+  },
+  {
+    "common.button.no": "No"
+  },
+  {
+    "common.button.cancel": "Cancel"
+  },
+  {
+    "common.button.stop": "Stop"
+  },
+  {
+    "common.button.play": "Play"
+  },
+  {
+    "common.button.claim": "Claim"
+  },
+  {
+    "common.button.claimReward": "Claim Reward {0}"
+  },
+  {
+    "common.button.produce": "Make"
+  },
+  {
+    "common.button.unlock": "Open"
+  },
+  {
+    "common.button.find": "Find"
+  },
+  {
+    "common.button.free": "Free"
+  },
+  {
+    "common.button.buy": "Buy {0}"
+  },
+  {
+    "common.button.buyFor": "Buy {0}"
+  },
+  {
+    "common.button.buyAll": "Buy All {0}"
+  },
+  {
+    "common.button.buyNow": "Buy Now"
+  },
+  {
+    "common.button.show": "Show"
+  },
+  {
+    "common.button.override": "Override"
+  },
+  {
+    "common.button.ad": "Watch Ad"
+  },
+  {
+    "common.button.connect": "Connect"
+  },
+  {
+    "common.button.collect": "Collect"
+  },
+  {
+    "common.button.soldOut": "Sold Out"
+  },
+  {
+    "common.button.ready": "Start"
+  },
+  {
+    "common.button.sell": "Sell"
+  },
+  {
+    "common.title.error": "Error"
+  },
+  {
+    "common.message.sale": "SALE!"
+  },
+  {
+    "common.message.sold": "SOLD!"
+  },
+  {
+    "common.message.reward": "Reward: {0}"
+  },
+  {
+    "common.message.tradeFor": "Trade for:"
+  },
+  {
+    "common.message.tapToContinue": "Tap to continue..."
+  },
+  {
+    "common.message.level": "Level {0}"
+  },
+  {
+    "common.message.comingSoon": "Coming soon!"
+  },
+  {
+    "common.message.message": "Message"
+  },
+  {
+    "common.message.notImplemented": "Not Implemented"
+  },
+  {
+    "common.message.cheatCurrency": "Do you want to cheat and get {0} for free?"
+  },
+  {
+    "common.title.forbidden": "Whoops!"
+  },
+  {
+    "common.message.forbidden": "Complete the tutorial first"
+  },
+  {
+    "common.message.forbidden.market": "Continue playing to unlock Market"
+  },
+  {
+    "common.message.unavailable.candy": "Candy Tree!"
+  },
+  {
+    "common.message.unavailable.orders": "Continue playing "
+  },
+  {
+    "common.message.no.internet.title": "No Connection"
+  },
+  {
+    "common.message.no.internet.message": "Please check your internet connection and try again."
+  },
+  {
+    "common.abbreviation.kilo": "K"
+  },
+  {
+    "common.abbreviation.mega": "M"
+  },
+  {
+    "common.abbreviation.day": "d"
+  },
+  {
+    "common.abbreviation.hour": "h"
+  },
+  {
+    "common.abbreviation.minute": "m"
+  },
+  {
+    "common.abbreviation.second": "s"
+  },
+  {
+    "piece.description.NPC_Locked": "Keep playing to collect this mysterious character..."
+  },
+  {
+    "piece.description.NPC_A": "Cursed to sleep for 100 years, Sleeping Beauty's developed a bit of a caffeine addiction to ward off future snoozes. Even the fog couldn't put her to sleep!"
+  },
+  {
+    "piece.description.NPC_B": "A classic con artist who can talk his way out of any sticky situation, Puss in Boots has schemed his way to fortune through trickery and skillful swordplay. Never call him 'Kitty.'"
+  },
+  {
+    "piece.description.NPC_C": "Legend says it took five huge storks to deliver the (already gigantic) American folk hero Paul Bunyan to his parents. He was in flannel before it was mainstream."
+  },
+  {
+    "piece.description.NPC_D": "The youngest daughter of the Sea King, the Little Mermaid is fascinated by life on land and takes pleasure in teaching the strange customs of her native ocean kingdom to those around her. "
+  },
+  {
+    "piece.description.NPC_E": "The free-spirited Peter Pan has opted out of adulthood and decided not to grow up. A thrill seeker with a penchant for rebellion, he's made his name in EverMerge for breaking every rule."
+  },
+  {
+    "piece.description.NPC_F": "Red Riding Hood's trusting nature often makes her a target, so it's a good thing Lady Luck is always on her side. She has a bit of a thing for men in plaid."
+  },
+  {
+    "piece.description.NPC_G": "With the best hair in all the land, Rapunzel suffers from a streak of vanity and has made it her personal mission to spread beauty and style across the land of EverMerge."
+  },
+  {
+    "piece.description.NPC_H": "Known for being an adorable brat and a little too brutally honest, no one in the Kingdom is safe from Pinocchio's pranks. To quote Geppetto, he's 'a bit of a handful.'"
+  },
+  {
+    "piece.description.NPC_I": "Nobody has actually ever seen the silver-tongued Sinbad on a ship, but he always returns with vast riches. He WILL try to sell you on his latest business venture."
+  },
+  {
+    "piece.description.NPC_J": "After the pint-sized Thumbelina earned her fairy wings, she settled into domestic life. Nowadays, she's hosting cozy tea parties and making plenty of flower arrangements! Just don't get on her bad side... She's small, but fierce."
+  },
+  {
+    "piece.description.NPC_K": "After so many people she trusted tried to off her, Snow White's become suspicious of everyone she meets. She also hates apples. Can you blame her?"
+  },
+  {
+    "piece.description.NPC_L": "A budding shoe entrepreneur, Cinderella is relieved to finally be free of her evil stepmother and stepsisters. She's not great at goodbyes. Especially at parties."
+  },
+  {
+    "piece.description.NPC_M": "The wizard Merlin can figure out how to build a hydro-powered time machine out of nothing more than tin cans, an old car engine, and some zeal. He can't, however, remember where he put his pen."
+  },
+  {
+    "piece.name.A1": "Log"
+  },
+  {
+    "piece.name.A2": "Timber"
+  },
+  {
+    "piece.name.A3": "Wooden Frame"
+  },
+  {
+    "piece.name.A4": "Wooden Building"
+  },
+  {
+    "piece.name.A5": "Wooden House"
+  },
+  {
+    "piece.name.A6": "Rich House"
+  },
+  {
+    "piece.name.A7": "Grand House"
+  },
+  {
+    "piece.name.A8": "Wooden Mansion"
+  },
+  {
+    "piece.name.AM": "Castle Beauty"
+  },
+  {
+    "piece.name.B1": "Stone"
+  },
+  {
+    "piece.name.B2": "Stone Pile"
+  },
+  {
+    "piece.name.B3": "Stone Frame"
+  },
+  {
+    "piece.name.B4": "Stone Building"
+  },
+  {
+    "piece.name.B5": "Stone House"
+  },
+  {
+    "piece.name.B6": "Big Stone House"
+  },
+  {
+    "piece.name.B7": "Rich House"
+  },
+  {
+    "piece.name.B8": "Stone Mansion"
+  },
+  {
+    "piece.name.B9": "Stone Palace"
+  },
+  {
+    "piece.name.BM": "Castle Boots"
+  },
+  {
+    "piece.name.C1": "Cart Pieces"
+  },
+  {
+    "piece.name.C2": "Cart Frame"
+  },
+  {
+    "piece.name.C3": "Small Cart"
+  },
+  {
+    "piece.name.C4": "Large Cart"
+  },
+  {
+    "piece.name.C5": "Wagon"
+  },
+  {
+    "piece.name.C6": "Big Wagon"
+  },
+  {
+    "piece.name.C7": "Grand Wagon"
+  },
+  {
+    "piece.name.C8": "Wagon Mansion"
+  },
+  {
+    "piece.name.C9": "Wagon Palace"
+  },
+  {
+    "piece.name.CM": "Castle Bunyan"
+  },
+  {
+    "piece.name.D1": "Small Coral"
+  },
+  {
+    "piece.name.D2": "Coral"
+  },
+  {
+    "piece.name.D3": "Big Coral"
+  },
+  {
+    "piece.name.D4": "Coral and Shell"
+  },
+  {
+    "piece.name.D5": "Small Shell House"
+  },
+  {
+    "piece.name.D6": "Shell House"
+  },
+  {
+    "piece.name.D7": "Rich Shell House"
+  },
+  {
+    "piece.name.D8": "Shell Mansion"
+  },
+  {
+    "piece.name.D9": "Shell Palace"
+  },
+  {
+    "piece.name.D10": "Shell Chateau"
+  },
+  {
+    "piece.name.DM": "Castle Mermaid"
+  },
+  {
+    "piece.name.E1": "Moon Stone"
+  },
+  {
+    "piece.name.E2": "Moon Pile"
+  },
+  {
+    "piece.name.E3": "Moon Hut"
+  },
+  {
+    "piece.name.E4": "Moon House"
+  },
+  {
+    "piece.name.E5": "Rich Moon House"
+  },
+  {
+    "piece.name.E6": "Grand Moon House"
+  },
+  {
+    "piece.name.E7": "Moon Mansion"
+  },
+  {
+    "piece.name.E8": "Moon Palace"
+  },
+  {
+    "piece.name.E9": "Moon Chateau"
+  },
+  {
+    "piece.name.E10": "Grand Moon Chateau"
+  },
+  {
+    "piece.name.EM": "Castle Pan"
+  },
+  {
+    "piece.name.F1": "Acorn"
+  },
+  {
+    "piece.name.F2": "Several Acorns"
+  },
+  {
+    "piece.name.F3": "Acorn Hut"
+  },
+  {
+    "piece.name.F4": "Acorn House"
+  },
+  {
+    "piece.name.F5": "Forest House"
+  },
+  {
+    "piece.name.F6": "Rich Forest House"
+  },
+  {
+    "piece.name.F7": "Forest Mansion"
+  },
+  {
+    "piece.name.F8": "Grand Forest House"
+  },
+  {
+    "piece.name.F9": "Grand Forest Mansion"
+  },
+  {
+    "piece.name.F10": "Forest Chateau"
+  },
+  {
+    "piece.name.FM": "Castle Red"
+  },
+  {
+    "piece.name.G1": "Small Flower"
+  },
+  {
+    "piece.name.G2": "Flower Bud"
+  },
+  {
+    "piece.name.G3": "Fairy Flower"
+  },
+  {
+    "piece.name.G4": "Big Fairy Flower"
+  },
+  {
+    "piece.name.G5": "Flower Cottage"
+  },
+  {
+    "piece.name.G6": "Flower House"
+  },
+  {
+    "piece.name.G7": "Big Flower House"
+  },
+  {
+    "piece.name.G8": "Flower Mansion"
+  },
+  {
+    "piece.name.G9": "Flower Palace"
+  },
+  {
+    "piece.name.G10": "Flower Chateau"
+  },
+  {
+    "piece.name.G11": "Grand Flower Chateau"
+  },
+  {
+    "piece.name.GM": "Castle Rapunzel"
+  },
+  {
+    "piece.name.H1": "Canvas Roll"
+  },
+  {
+    "piece.name.H2": "Tent Frame"
+  },
+  {
+    "piece.name.H3": "Small Tent"
+  },
+  {
+    "piece.name.H4": "Big Tent"
+  },
+  {
+    "piece.name.H5": "Circus Tent"
+  },
+  {
+    "piece.name.H6": "Big Circus Tent"
+  },
+  {
+    "piece.name.H7": "Rich Circus Tent"
+  },
+  {
+    "piece.name.H8": "Grand Circus Tent"
+  },
+  {
+    "piece.name.H9": "Circus Mansion"
+  },
+  {
+    "piece.name.H10": "Circus Palace"
+  },
+  {
+    "piece.name.H11": "Circus Villa"
+  },
+  {
+    "piece.name.HM": "Castle Pinocchio"
+  },
+  {
+    "piece.name.I1": "Stone Brick"
+  },
+  {
+    "piece.name.I2": "Stone Bricks"
+  },
+  {
+    "piece.name.I3": "Stone Walls"
+  },
+  {
+    "piece.name.I4": "Stone Building"
+  },
+  {
+    "piece.name.I5": "Lighthouse Hut"
+  },
+  {
+    "piece.name.I6": "Simple Lighthouse"
+  },
+  {
+    "piece.name.I7": "Lighthouse"
+  },
+  {
+    "piece.name.I8": "Rich Lighthouse"
+  },
+  {
+    "piece.name.I9": "Grand Lighthouse"
+  },
+  {
+    "piece.name.I10": "Lighthouse Palace"
+  },
+  {
+    "piece.name.I11": "Lighthouse Villa"
+  },
+  {
+    "piece.name.I12": "Grand Lighthouse Villa"
+  },
+  {
+    "piece.name.IM": "Castle Sinbad"
+  },
+  {
+    "piece.name.J1": "Small Lily"
+  },
+  {
+    "piece.name.J2": "Lily Bud"
+  },
+  {
+    "piece.name.J3": "Blooming Lily"
+  },
+  {
+    "piece.name.J4": "Water Lily"
+  },
+  {
+    "piece.name.J5": "Big Water Lily"
+  },
+  {
+    "piece.name.J6": "Water Lily Pond"
+  },
+  {
+    "piece.name.J7": "Fancy Lily Pond"
+  },
+  {
+    "piece.name.J8": "Water Lily Cottage"
+  },
+  {
+    "piece.name.J9": "Water Lily Mansion"
+  },
+  {
+    "piece.name.J10": "Water Lily Palace"
+  },
+  {
+    "piece.name.J11": "Water Lily Chateau"
+  },
+  {
+    "piece.name.J12": "Grand Water Lily Chateau"
+  },
+  {
+    "piece.name.J13": "Water Lily Villa"
+  },
+  {
+    "piece.name.JM": "Castle Thumbelina"
+  },
+  {
+    "piece.name.K1": "Leaf"
+  },
+  {
+    "piece.name.K2": "Pile of Leaves"
+  },
+  {
+    "piece.name.K3": "Leaf Hut"
+  },
+  {
+    "piece.name.K4": "Apple Hut"
+  },
+  {
+    "piece.name.K5": "Fancy Apple Hut"
+  },
+  {
+    "piece.name.K6": "Apple Cottage"
+  },
+  {
+    "piece.name.K7": "Large Apple Cottage"
+  },
+  {
+    "piece.name.K8": "Apple House"
+  },
+  {
+    "piece.name.K9": "Fancy Apple House"
+  },
+  {
+    "piece.name.K10": "Apple Mansion"
+  },
+  {
+    "piece.name.K11": "Apple Palace"
+  },
+  {
+    "piece.name.K12": "Apple Chateau"
+  },
+  {
+    "piece.name.K13": "Grand Apple Chateau"
+  },
+  {
+    "piece.name.K14": "Apple Villa"
+  },
+  {
+    "piece.name.KM": "Castle Snow"
+  },
+  {
+    "piece.name.E1_A1": "Rainbow Essence"
+  },
+  {
+    "piece.name.E1_A2": "Rainbow Sphere"
+  },
+  {
+    "piece.name.E1_A3": "Pokey"
+  },
+  {
+    "piece.name.E1_A4": "Periwinkle Fuzzbottom"
+  },
+  {
+    "piece.name.E1_A5": "Chaz"
+  },
+  {
+    "piece.name.E1_A6": "Euni McHorn"
+  },
+  {
+    "piece.name.E1_A7": "Mr. Ned"
+  },
+  {
+    "piece.name.E1_A8": "Pixie Crust"
+  },
+  {
+    "piece.name.E2_A1": "Floofle"
+  },
+  {
+    "piece.name.E2_A2": "Arnold"
+  },
+  {
+    "piece.name.E2_A3": "Fluffybottom"
+  },
+  {
+    "piece.name.E2_A4": "Furnando"
+  },
+  {
+    "piece.name.E2_A5": "Pom-Pom"
+  },
+  {
+    "piece.name.E2_A6": "Ruffles"
+  },
+  {
+    "piece.name.E2_A7": "Purrincess"
+  },
+  {
+    "piece.name.E2_A8": "Fuzzy Wuzzy"
+  },
+  {
+    "piece.name.SN_A1": "Melting Bud"
+  },
+  {
+    "piece.name.SN_A2": "Spring Bud"
+  },
+  {
+    "piece.name.SN_A3": "Spring Bloom"
+  },
+  {
+    "piece.name.SN_A4": "Spring Flowers"
+  },
+  {
+    "piece.name.SN_A5": "Buzzing Spring Tree"
+  },
+  {
+    "piece.name.SN_A6": "Butterfly Spring Tree"
+  },
+  {
+    "piece.name.SN_A7": "Blossoming Spring Tree"
+  },
+  {
+    "piece.name.SN_A8": "Hatching Spring Tree"
+  },
+  {
+    "piece.name.SN_A9": "Flourishing Spring Tree"
+  },
+  {
+    "piece.name.SN_A10": "Blissful Spring Tree"
+  },
+  {
+    "piece.name.SN_A11": "Spring Bloom Haven"
+  },
+  {
+    "piece.name.EXT_A1": "Small Plant"
+  },
+  {
+    "piece.name.EXT_A2": "Small Flower"
+  },
+  {
+    "piece.name.EXT_A3": "Flower"
+  },
+  {
+    "piece.name.EXT_A4": "Blooming Flower"
+  },
+  {
+    "piece.name.EXT_A5": "Magic Flower"
+  },
+  {
+    "piece.name.EXT_A6": "Big Magic Flower"
+  },
+  {
+    "piece.name.EXT_A7": "Butterflower"
+  },
+  {
+    "piece.name.EXT_A8": "Butterfly"
+  },
+  {
+    "piece.name.EXT_A9": "Butterfly Sanctuary"
+  },
+  {
+    "piece.name.EXT_B1": "EXT_B1"
+  },
+  {
+    "piece.name.EXT_B2": "EXT_B2"
+  },
+  {
+    "piece.name.EXT_B3": "EXT_B3"
+  },
+  {
+    "piece.name.EXT_B4": "EXT_B4"
+  },
+  {
+    "piece.name.EXT_B5": "EXT_B5"
+  },
+  {
+    "piece.name.EXT_B6": "EXT_B6"
+  },
+  {
+    "piece.name.EXT_B7": "EXT_B7"
+  },
+  {
+    "piece.name.EXT_B8": "EXT_B8"
+  },
+  {
+    "piece.name.EXT_BM": "EXT_B9"
+  },
+  {
+    "piece.name.EXT_C1": "EXT_C1"
+  },
+  {
+    "piece.name.EXT_C2": "EXT_C2"
+  },
+  {
+    "piece.name.EXT_C3": "EXT_C3"
+  },
+  {
+    "piece.name.EXT_C4": "EXT_C4"
+  },
+  {
+    "piece.name.EXT_C5": "EXT_C5"
+  },
+  {
+    "piece.name.EXT_C6": "EXT_C6"
+  },
+  {
+    "piece.name.EXT_C7": "EXT_C7"
+  },
+  {
+    "piece.name.EXT_C8": "EXT_C8"
+  },
+  {
+    "piece.name.EXT_CM": "EXT_C9"
+  },
+  {
+    "piece.name.EXT_D1": "EXT_D1"
+  },
+  {
+    "piece.name.EXT_D2": "EXT_D2"
+  },
+  {
+    "piece.name.EXT_D3": "EXT_D3"
+  },
+  {
+    "piece.name.EXT_D4": "EXT_D4"
+  },
+  {
+    "piece.name.EXT_D5": "EXT_D5"
+  },
+  {
+    "piece.name.EXT_D6": "EXT_D6"
+  },
+  {
+    "piece.name.EXT_D7": "EXT_D7"
+  },
+  {
+    "piece.name.EXT_D8": "EXT_D8"
+  },
+  {
+    "piece.name.EXT_DM": "EXT_D9"
+  },
+  {
+    "piece.name.EXT_E1": "EXT_E1"
+  },
+  {
+    "piece.name.EXT_E2": "EXT_E2"
+  },
+  {
+    "piece.name.EXT_E3": "EXT_E3"
+  },
+  {
+    "piece.name.EXT_E4": "EXT_E4"
+  },
+  {
+    "piece.name.EXT_E5": "EXT_E5"
+  },
+  {
+    "piece.name.EXT_E6": "EXT_E6"
+  },
+  {
+    "piece.name.EXT_E7": "EXT_E7"
+  },
+  {
+    "piece.name.EXT_E8": "EXT_E8"
+  },
+  {
+    "piece.name.EXT_EM": "EXT_E9"
+  },
+  {
+    "piece.name.E1_SP_A1": "Diamond Sprout"
+  },
+  {
+    "piece.name.E1_SP_A2": "Diamond Seedling"
+  },
+  {
+    "piece.name.E1_SP_A3": "Small Diamond Bush"
+  },
+  {
+    "piece.name.E1_SP_A4": "Diamond Bush"
+  },
+  {
+    "piece.name.E1_SP_A5": "Small Diamond Tree"
+  },
+  {
+    "piece.name.E1_SP_A6": "Diamond Tree"
+  },
+  {
+    "piece.name.E1_SP_A7": "Big Diamond Tree"
+  },
+  {
+    "piece.name.E1_SP_A8": "Diamond Fruit Tree"
+  },
+  {
+    "piece.name.E1_SP_B1": "Magic Lamp Seed"
+  },
+  {
+    "piece.name.E1_SP_B2": "Magic Lamp Sprout"
+  },
+  {
+    "piece.name.E1_SP_B3": "Small Magic Lamp"
+  },
+  {
+    "piece.name.E1_SP_B4": "Magic Lamp"
+  },
+  {
+    "piece.name.E1_SP_B5": "Big Magic Lamp"
+  },
+  {
+    "piece.name.E1_SP_B6": "Blossoming Magic Lamp"
+  },
+  {
+    "piece.name.E1_SP_B7": "Elder Magic Lamp"
+  },
+  {
+    "piece.name.E1_SP_B8": "Supreme Magic Lamp"
+  },
+  {
+    "piece.name.E1_SP_C1": "Blue Spore"
+  },
+  {
+    "piece.name.E1_SP_C2": "Tiny Mushroom "
+  },
+  {
+    "piece.name.E1_SP_C3": "Mushrooms"
+  },
+  {
+    "piece.name.E1_SP_C4": "Mushroom Family"
+  },
+  {
+    "piece.name.E1_SP_C5": "Glowing Mushrooms"
+  },
+  {
+    "piece.name.E1_SP_C6": "Giant Mushrooms"
+  },
+  {
+    "piece.name.E1_SP_C7": "Royal Mushrooms"
+  },
+  {
+    "piece.name.E1_SP_C8": "Mushroom Forest"
+  },
+  {
+    "piece.name.E1_SP_D1": "Sprout"
+  },
+  {
+    "piece.name.E1_SP_D2": "Little Flower"
+  },
+  {
+    "piece.name.E1_SP_D3": "Flower"
+  },
+  {
+    "piece.name.E1_SP_D4": "Big Flower"
+  },
+  {
+    "piece.name.E1_SP_D5": "Elder Flower"
+  },
+  {
+    "piece.name.E1_SP_D6": "Flower Tree"
+  },
+  {
+    "piece.name.E1_SP_D7": "Big Flower Tree"
+  },
+  {
+    "piece.name.E1_SP_D8": "Elder Flower Tree"
+  },
+  {
+    "piece.name.NPC_A1": "Small Pillow"
+  },
+  {
+    "piece.name.NPC_B1": "Small Boots"
+  },
+  {
+    "piece.name.NPC_C1": "Small Axe"
+  },
+  {
+    "piece.name.NPC_D1": "Small Pearl"
+  },
+  {
+    "piece.name.NPC_E1": "Small Flute"
+  },
+  {
+    "piece.name.NPC_F1": "Small Basket"
+  },
+  {
+    "piece.name.NPC_G1": "Small Comb"
+  },
+  {
+    "piece.name.NPC_H1": "Small Drum"
+  },
+  {
+    "piece.name.NPC_I1": "Small Anchor"
+  },
+  {
+    "piece.name.NPC_J1": "Small Watering Can"
+  },
+  {
+    "piece.name.NPC_K1": "Small Mirror"
+  },
+  {
+    "piece.name.NPC_L1": "Small Shoe"
+  },
+  {
+    "piece.name.NPC_M1": "Small Wizard Hat"
+  },
+  {
+    "piece.name.PR_A1": "Wheat Sprout"
+  },
+  {
+    "piece.name.PR_A2": "Wheat Stalks"
+  },
+  {
+    "piece.name.PR_A3": "Ripened Wheat"
+  },
+  {
+    "piece.name.PR_A4": "Wheat Field"
+  },
+  {
+    "piece.name.PR_A5": "Wheat"
+  },
+  {
+    "piece.name.PR_B1": "Apple Sprout"
+  },
+  {
+    "piece.name.PR_B2": "Sapling"
+  },
+  {
+    "piece.name.PR_B3": "Blooming Tree"
+  },
+  {
+    "piece.name.PR_B4": "Apple Tree"
+  },
+  {
+    "piece.name.PR_B5": "Apple"
+  },
+  {
+    "piece.name.PR_C1": "Candy Sprout"
+  },
+  {
+    "piece.name.PR_C2": "Candy Bush"
+  },
+  {
+    "piece.name.PR_C3": "Small Tree"
+  },
+  {
+    "piece.name.PR_C4": "Candy Tree"
+  },
+  {
+    "piece.name.PR_C5": "Candies"
+  },
+  {
+    "piece.name.PR_D1": "Small Carrot"
+  },
+  {
+    "piece.name.PR_D2": "Several Carrots"
+  },
+  {
+    "piece.name.PR_D3": "Carrot Patch"
+  },
+  {
+    "piece.name.PR_D4": "Giant Carrot"
+  },
+  {
+    "piece.name.PR_D5": "Carrot"
+  },
+  {
+    "piece.name.PR_E1": "Mushroom Spore"
+  },
+  {
+    "piece.name.PR_E2": "Pile of Mushrooms"
+  },
+  {
+    "piece.name.PR_E3": "Mushroom Stump"
+  },
+  {
+    "piece.name.PR_E4": "Big Mushrooms"
+  },
+  {
+    "piece.name.PR_E5": "Mushrooms"
+  },
+  {
+    "piece.name.PR_F1": "Corn Sprout"
+  },
+  {
+    "piece.name.PR_F2": "Green Corn"
+  },
+  {
+    "piece.name.PR_F3": "Ripening Corn"
+  },
+  {
+    "piece.name.PR_F4": "Corn Field"
+  },
+  {
+    "piece.name.PR_F5": "Corn"
+  },
+  {
+    "piece.name.PR_G1": "Mango Sprout"
+  },
+  {
+    "piece.name.PR_G2": "Growing Mango"
+  },
+  {
+    "piece.name.PR_G3": "Blooming Mango"
+  },
+  {
+    "piece.name.PR_G4": "Mango Tree"
+  },
+  {
+    "piece.name.PR_G5": "Mango"
+  },
+  {
+    "piece.name.PR_H1": "Sprout"
+  },
+  {
+    "piece.name.PR_H2": "Little Flower"
+  },
+  {
+    "piece.name.PR_H3": "Flowers"
+  },
+  {
+    "piece.name.PR_H4": "Rainbow Flower"
+  },
+  {
+    "piece.name.PR_H5": "Rainbow Petals"
+  },
+  {
+    "piece.name.PR_I1": "Sugar Cane Stem"
+  },
+  {
+    "piece.name.PR_I2": "Big Sugar Cane Stem"
+  },
+  {
+    "piece.name.PR_I3": "Sugar Cane Stalks"
+  },
+  {
+    "piece.name.PR_I4": "Blooming Sugar Cane"
+  },
+  {
+    "piece.name.PR_I5": "Sugar Cubes"
+  },
+  {
+    "piece.name.PR_J1": "PR_J1"
+  },
+  {
+    "piece.name.PR_J2": "PR_J2"
+  },
+  {
+    "piece.name.PR_J3": "PR_J3"
+  },
+  {
+    "piece.name.PR_J4": "PR_J4"
+  },
+  {
+    "piece.name.PR_J5": "PR_J5"
+  },
+  {
+    "piece.name.PR_K1": "PR_K1"
+  },
+  {
+    "piece.name.PR_K2": "PR_K2"
+  },
+  {
+    "piece.name.PR_K3": "PR_K3"
+  },
+  {
+    "piece.name.PR_K4": "PR_K4"
+  },
+  {
+    "piece.name.PR_K5": "PR_K5"
+  },
+  {
+    "piece.name.CH_Free": "Free Chest"
+  },
+  {
+    "piece.name.SN_CH_Free": "Free Spring Bloom Chest"
+  },
+  {
+    "piece.name.CH_NPC": "Hero Chest"
+  },
+  {
+    "piece.name.CH1_A": "Small Chest"
+  },
+  {
+    "piece.name.CH2_A": "Big Chest"
+  },
+  {
+    "piece.name.CH3_A": "Great Chest"
+  },
+  {
+    "piece.name.CH1_B": "Small Chest"
+  },
+  {
+    "piece.name.CH2_B": "Big Chest"
+  },
+  {
+    "piece.name.CH3_B": "Great Chest"
+  },
+  {
+    "piece.name.CH1_C": "Small Chest"
+  },
+  {
+    "piece.name.CH2_C": "Big Chest"
+  },
+  {
+    "piece.name.CH3_C": "Great Chest"
+  },
+  {
+    "piece.name.CH1_D": "Small Chest"
+  },
+  {
+    "piece.name.CH2_D": "Big Chest"
+  },
+  {
+    "piece.name.CH3_D": "Great Chest"
+  },
+  {
+    "piece.name.CH1_E": "Small Chest"
+  },
+  {
+    "piece.name.CH2_E": "Big Chest"
+  },
+  {
+    "piece.name.CH3_E": "Great Chest"
+  },
+  {
+    "piece.name.CH1_F": "Small Chest"
+  },
+  {
+    "piece.name.CH2_F": "Big Chest"
+  },
+  {
+    "piece.name.CH3_F": "Great Chest"
+  },
+  {
+    "piece.name.CH1_G": "Small Chest"
+  },
+  {
+    "piece.name.CH2_G": "Big Chest"
+  },
+  {
+    "piece.name.CH3_G": "Great Chest"
+  },
+  {
+    "piece.name.CH1_H": "Small Chest"
+  },
+  {
+    "piece.name.CH2_H": "Big Chest"
+  },
+  {
+    "piece.name.CH3_H": "Great Chest"
+  },
+  {
+    "piece.name.CH1_I": "Small Chest"
+  },
+  {
+    "piece.name.CH2_I": "Big Chest"
+  },
+  {
+    "piece.name.CH3_I": "Great Chest"
+  },
+  {
+    "piece.name.CH1_J": "Small Chest"
+  },
+  {
+    "piece.name.CH2_J": "Big Chest"
+  },
+  {
+    "piece.name.CH3_J": "Great Chest"
+  },
+  {
+    "piece.name.CH1_K": "Small Chest"
+  },
+  {
+    "piece.name.CH2_K": "Big Chest"
+  },
+  {
+    "piece.name.CH3_K": "Great Chest"
+  },
+  {
+    "piece.name.E1_CH1_A": "Small Chest"
+  },
+  {
+    "piece.name.E1_CH2_A": "Big Chest"
+  },
+  {
+    "piece.name.E1_CH3_A": "Great Chest"
+  },
+  {
+    "piece.name.E1_CH1_B": "Small Chest"
+  },
+  {
+    "piece.name.E1_CH2_B": "Big Chest"
+  },
+  {
+    "piece.name.E1_CH3_B": "Great Chest"
+  },
+  {
+    "piece.name.E2_CH1_A": "Small Chest"
+  },
+  {
+    "piece.name.E2_CH2_A": "Big Chest"
+  },
+  {
+    "piece.name.E2_CH3_A": "Great Chest"
+  },
+  {
+    "piece.name.E2_CH1_B": "Small Chest"
+  },
+  {
+    "piece.name.E2_CH2_B": "Big Chest"
+  },
+  {
+    "piece.name.E2_CH3_B": "Great Chest"
+  },
+  {
+    "piece.name.SN_CH1_A": "Small Chest"
+  },
+  {
+    "piece.name.SN_CH2_A": "Big Chest"
+  },
+  {
+    "piece.name.SN_CH3_A": "Great Chest"
+  },
+  {
+    "piece.name.Mana1": "Wand"
+  },
+  {
+    "piece.name.Mana2": "Wooden Wand"
+  },
+  {
+    "piece.name.Mana3": "Oak Wand"
+  },
+  {
+    "piece.name.Mana4": "Fancy Wand"
+  },
+  {
+    "piece.name.Mana5": "Crystal Wand"
+  },
+  {
+    "piece.name.Mana6": "Jeweled Wand"
+  },
+  {
+    "piece.name.Soft1": "Bronze Dust"
+  },
+  {
+    "piece.name.Soft2": "Bronze"
+  },
+  {
+    "piece.name.Soft3": "Silver"
+  },
+  {
+    "piece.name.Soft4": "Gold"
+  },
+  {
+    "piece.name.Soft5": "Aquamarine"
+  },
+  {
+    "piece.name.Soft6": "Sapphire"
+  },
+  {
+    "piece.name.Soft7": "Amethyst"
+  },
+  {
+    "piece.name.Soft8": "Royal"
+  },
+  {
+    "piece.name.Hard1": "Ruby Dust"
+  },
+  {
+    "piece.name.Hard2": "Ruby"
+  },
+  {
+    "piece.name.Hard3": "Some Rubies"
+  },
+  {
+    "piece.name.Hard4": "Several Rubies"
+  },
+  {
+    "piece.name.Hard5": "Fistful of Rubies"
+  },
+  {
+    "piece.name.Hard6": "Mountain of Rubies"
+  },
+  {
+    "piece.name.IslandEnergy1": "Pure Energy"
+  },
+  {
+    "piece.name.Boost_WR1": "Mallet"
+  },
+  {
+    "piece.name.Boost_WR2": "Small Hammer"
+  },
+  {
+    "piece.name.Boost_WR3": "Large Hammer"
+  },
+  {
+    "piece.name.Boost_WR4": "Professional Hammer"
+  },
+  {
+    "piece.name.Boost_WR": "Instant Worker"
+  },
+  {
+    "piece.name.Boost_CR1": "Crystal Splinter"
+  },
+  {
+    "piece.name.Boost_CR2": "Crystal Piece"
+  },
+  {
+    "piece.name.Boost_CR3": "Crystal"
+  },
+  {
+    "piece.name.Boost_CR": "Magic Crystal"
+  },
+  {
+    "piece.name.SK1_PR": "Small Sack"
+  },
+  {
+    "piece.name.SK2_PR": "Medium Sack"
+  },
+  {
+    "piece.name.SK3_PR": "Big Sack"
+  },
+  {
+    "piece.name.CH1_TR": "Small Chest"
+  },
+  {
+    "piece.name.CH2_TR": "Big Chest"
+  },
+  {
+    "piece.name.CH3_TR": "Grand Chest"
+  },
+  {
+    "piece.name.NPC_Locked": "Unknown"
+  },
+  {
+    "piece.name.NPC_A": "Sleeping Beauty"
+  },
+  {
+    "piece.name.NPC_SleepingBeautyPlaid": "Sleeping Beauty Plaid"
+  },
+  {
+    "piece.name.NPC_B": "Puss in Boots"
+  },
+  {
+    "piece.name.NPC_C": "Paul Bunyan"
+  },
+  {
+    "piece.name.NPC_D": "Little Mermaid"
+  },
+  {
+    "piece.name.NPC_E": "Peter Pan"
+  },
+  {
+    "piece.name.NPC_F": "Red Riding Hood"
+  },
+  {
+    "piece.name.NPC_G": "Rapunzel"
+  },
+  {
+    "piece.name.NPC_H": "Pinocchio"
+  },
+  {
+    "piece.name.NPC_I": "Sinbad the Sailor"
+  },
+  {
+    "piece.name.NPC_J": "Thumbelina"
+  },
+  {
+    "piece.name.NPC_K": "Snow White"
+  },
+  {
+    "piece.name.NPC_L": "Cinderella"
+  },
+  {
+    "piece.name.NPC_M": "Merlin"
+  },
+  {
+    "piece.name.NPC_N": "NPC_N"
+  },
+  {
+    "piece.name.NPC_O": "NPC_O"
+  },
+  {
+    "piece.name.NPC_P": "NPC_P"
+  },
+  {
+    "piece.name.NPC_Q": "NPC_Q"
+  },
+  {
+    "piece.name.NPC_R": "NPC_R"
+  },
+  {
+    "piece.name.HL1_A": "Small Wood Planter"
+  },
+  {
+    "piece.name.HL2_A": "Wood Stump"
+  },
+  {
+    "piece.name.HL3_A": "Wood Planter"
+  },
+  {
+    "piece.name.HL4_A": "Wood Sapling"
+  },
+  {
+    "piece.name.HL5_A": "Large Wood Planter"
+  },
+  {
+    "piece.name.HL6_A": "Wood Tree"
+  },
+  {
+    "piece.name.HL1_B": "Small Stone Planter"
+  },
+  {
+    "piece.name.HL2_B": "Small Stone Stockpile"
+  },
+  {
+    "piece.name.HL3_B": "Stone Planter"
+  },
+  {
+    "piece.name.HL4_B": "Stone Stockpile"
+  },
+  {
+    "piece.name.HL5_B": "Large Stone Planter"
+  },
+  {
+    "piece.name.HL6_B": "Large Stone Stockpile"
+  },
+  {
+    "piece.name.HL1_C": "Small Wagon Planter"
+  },
+  {
+    "piece.name.HL2_C": "Small Wagon Stump"
+  },
+  {
+    "piece.name.HL3_C": "Wagon Planter"
+  },
+  {
+    "piece.name.HL4_C": "Wagon Stump"
+  },
+  {
+    "piece.name.HL5_C": "Large Wagon Planter"
+  },
+  {
+    "piece.name.HL6_C": "Large Wagon Stump"
+  },
+  {
+    "piece.name.HL1_D": "Small Coral Planter"
+  },
+  {
+    "piece.name.HL2_D": "Small Coral Reef"
+  },
+  {
+    "piece.name.HL3_D": "Coral Planter"
+  },
+  {
+    "piece.name.HL4_D": "Coral Reef"
+  },
+  {
+    "piece.name.HL5_D": "Large Coral Planter"
+  },
+  {
+    "piece.name.HL6_D": "Large Coral Reef"
+  },
+  {
+    "piece.name.HL1_E": "Small Moon Planter"
+  },
+  {
+    "piece.name.HL2_E": "Moon Pebbles"
+  },
+  {
+    "piece.name.HL3_E": "Moon Planter"
+  },
+  {
+    "piece.name.HL4_E": "Moon Rocks"
+  },
+  {
+    "piece.name.HL5_E": "Large Moon Planter"
+  },
+  {
+    "piece.name.HL6_E": "Moon Boulders"
+  },
+  {
+    "piece.name.HL1_F": "Small Oak Planter"
+  },
+  {
+    "piece.name.HL2_F": "Oak Stump"
+  },
+  {
+    "piece.name.HL3_F": "Oak Planter"
+  },
+  {
+    "piece.name.HL4_F": "Oak Sapling"
+  },
+  {
+    "piece.name.HL5_F": "Large Oak Planter"
+  },
+  {
+    "piece.name.HL6_F": "Oak Tree"
+  },
+  {
+    "piece.name.HL1_G": "Small Flower Planter"
+  },
+  {
+    "piece.name.HL2_G": "Small Flower Vine"
+  },
+  {
+    "piece.name.HL3_G": "Flower Planter"
+  },
+  {
+    "piece.name.HL4_G": "Flower Vine"
+  },
+  {
+    "piece.name.HL5_G": "Large Flower Planter"
+  },
+  {
+    "piece.name.HL6_G": "Large Flower Vine"
+  },
+  {
+    "piece.name.HL1_H": "Small Circus Planter"
+  },
+  {
+    "piece.name.HL2_H": "Small Circus Props"
+  },
+  {
+    "piece.name.HL3_H": "Circus Planter"
+  },
+  {
+    "piece.name.HL4_H": "Circus Props"
+  },
+  {
+    "piece.name.HL5_H": "Large Circus Planter"
+  },
+  {
+    "piece.name.HL6_H": "Large Circus Props"
+  },
+  {
+    "piece.name.HL1_I": "Small Lighthouse Planter"
+  },
+  {
+    "piece.name.HL2_I": "Small Lighthouse Slab"
+  },
+  {
+    "piece.name.HL3_I": "Lighthouse Planter"
+  },
+  {
+    "piece.name.HL4_I": "Lighthouse Slab"
+  },
+  {
+    "piece.name.HL5_I": "Large Lighthouse Planter"
+  },
+  {
+    "piece.name.HL6_I": "Large Lighthouse Slab "
+  },
+  {
+    "piece.name.HL1_J": "Small Lily Planter"
+  },
+  {
+    "piece.name.HL2_J": "Lily Vine Stump"
+  },
+  {
+    "piece.name.HL3_J": "Water Lily Planter"
+  },
+  {
+    "piece.name.HL4_J": "Lily Vine Trunk"
+  },
+  {
+    "piece.name.HL5_J": "Large Lily Planter"
+  },
+  {
+    "piece.name.HL6_J": "Lily Tree Pond"
+  },
+  {
+    "piece.name.HL1_K": "Small Magic Apple Pot"
+  },
+  {
+    "piece.name.HL2_K": "Small Magic Apple Pile"
+  },
+  {
+    "piece.name.HL3_K": "Magic Apple Planter"
+  },
+  {
+    "piece.name.HL4_K": "Magic Apple Pile"
+  },
+  {
+    "piece.name.HL5_K": "Large Magic Apple Planter"
+  },
+  {
+    "piece.name.HL6_K": "Large Magic Apple Pile"
+  },
+  {
+    "order.name.RC_A": "Cookies"
+  },
+  {
+    "order.name.RC_B": "Caramel Apple"
+  },
+  {
+    "order.name.RC_C": "Carrot Pie"
+  },
+  {
+    "order.name.RC_D": "Caramel Pie"
+  },
+  {
+    "order.name.RC_E": "Gingerbread"
+  },
+  {
+    "order.name.RC_F": "Soup"
+  },
+  {
+    "order.name.RC_G": "Apple Jam"
+  },
+  {
+    "order.name.RC_H": "Granola"
+  },
+  {
+    "order.name.RC_I": "Cake"
+  },
+  {
+    "order.name.RC_J": "Croissant"
+  },
+  {
+    "order.name.RC_K": "Mango Juice"
+  },
+  {
+    "order.name.RC_L": "Candy Bar"
+  },
+  {
+    "order.name.RC_M": "Mushroom Cake"
+  },
+  {
+    "order.name.RC_N": "Bubble Gum"
+  },
+  {
+    "order.name.RC_O": "Mint Cookies"
+  },
+  {
+    "order.name.RC_P": "Carrot Cake"
+  },
+  {
+    "order.name.RC_Q": "Carrot Juice"
+  },
+  {
+    "order.name.RC_R": "Apple Pie"
+  },
+  {
+    "order.name.RC_S": "Tortilla"
+  },
+  {
+    "order.name.RC_T": "Jelly"
+  },
+  {
+    "order.name.RC_U": "Pizza"
+  },
+  {
+    "order.name.RC_V": "Caramel Corn"
+  },
+  {
+    "order.name.RC_W": "Popcorn"
+  },
+  {
+    "order.name.RC_X": "Mango Pastry"
+  },
+  {
+    "order.name.RC_Y": "Fairy Burger"
+  },
+  {
+    "order.name.RC_Z": "Cornflower Ice Cream"
+  },
+  {
+    "order.name.RC_AA": "Baked Apple"
+  },
+  {
+    "order.name.RC_AB": "Mushroom Snacks"
+  },
+  {
+    "order.name.RC_AC": "Salad"
+  },
+  {
+    "order.name.RC_AD": "Corn Noodle"
+  },
+  {
+    "order.name.RC_AE": "Fritters"
+  },
+  {
+    "order.name.RC_AF": "Vegetable Beaters"
+  },
+  {
+    "order.name.RC_AG": "Fruit Kebab"
+  },
+  {
+    "order.name.RC_AH": "Stuffed Mushrooms"
+  },
+  {
+    "order.name.RC_AI": "Carrot Basket"
+  },
+  {
+    "order.name.RC_AJ": "Iridescent Juice"
+  },
+  {
+    "order.name.RC_AK": "Corn Roll"
+  },
+  {
+    "order.name.RC_AL": "Mushroom Pie"
+  },
+  {
+    "order.name.RC_AM": "Ice Cream"
+  },
+  {
+    "order.name.RC_AN": "Mango Pudding"
+  },
+  {
+    "order.name.RC_AO": "Mushroom Tapas"
+  },
+  {
+    "order.name.RC_AP": "Mushroom Cupcake"
+  },
+  {
+    "order.name.RC_AR": ""
+  },
+  {
+    "order.name.RC_AS": ""
+  },
+  {
+    "order.name.RC_AT": ""
+  },
+  {
+    "conversation.character.SleepingBeauty": "Sleeping Beauty"
+  },
+  {
+    "conversation.character.Chuck": "Chuck"
+  },
+  {
+    "conversation.character.Buck": "Buck"
+  },
+  {
+    "conversation.character.Rapunzel": "Rapunzel"
+  },
+  {
+    "conversation.character.PussInBoots": "Puss in Boots"
+  },
+  {
+    "conversation.character.RedHood": "Red Riding Hood"
+  },
+  {
+    "conversation.character.Mermaid": "Little Mermaid"
+  },
+  {
+    "conversation.character.Pinocchio": "Pinocchio"
+  },
+  {
+    "conversation.character.PeterPan": "Peter Pan"
+  },
+  {
+    "conversation.character.SnowWhite": "Snow White"
+  },
+  {
+    "conversation.character.Sinbad": "Sinbad the Sailor"
+  },
+  {
+    "conversation.character.Cinderella": "Cinderella"
+  },
+  {
+    "conversation.character.PaulBunyan": "Paul Bunyan"
+  },
+  {
+    "conversation.character.Thumbelina": "Thumbelina"
+  },
+  {
+    "conversation.character.Leprechaun": "Odran O'Greene"
+  },
+  {
+    "conversation.character.Merlin": "Merlin"
+  },
+  {
+    "quest.supermatch.title": "Make a super merge"
+  },
+  {
+    "quest.supermatch.message": "Merge {0} objects at once"
+  },
+  {
+    "quest.match.title": "Make merges"
+  },
+  {
+    "quest.match.message": "Make any merges"
+  },
+  {
+    "quest.currency.collect.soft.title": "Collect coins"
+  },
+  {
+    "quest.currency.collect.soft.message": "Collect coins"
+  },
+  {
+    "quest.currency.collect.hard.title": "Collect rubies"
+  },
+  {
+    "quest.currency.collect.hard.message": "Collect rubies"
+  },
+  {
+    "quest.collect.ingredient.title": "Collect ingredients"
+  },
+  {
+    "quest.collect.ingredient.message": "Collect ingredients"
+  },
+  {
+    "quest.use.worker.title": "Use Gnomes"
+  },
+  {
+    "quest.use.worker.message": "Assign tasks for the Gnomes"
+  },
+  {
+    "quest.kill.field.title": "Clean up dead fields"
+  },
+  {
+    "quest.kill.field.message": "Clean up dead fields"
+  },
+  {
+    "quest.open.chest.title": "Open chests"
+  },
+  {
+    "quest.open.chest.message": "Open chests"
+  },
+  {
+    "quest.complete.orders.title": "Complete orders"
+  },
+  {
+    "quest.complete.orders.message": "Complete orders"
+  },
+  {
+    "quest.spend.currency.soft.title": "Spend coins"
+  },
+  {
+    "quest.spend.currency.soft.message": "Spend coins"
+  },
+  {
+    "quest.spend.currency.hard.title": "Spend rubies"
+  },
+  {
+    "quest.spend.currency.hard.message": "Spend rubies"
+  },
+  {
+    "quest.create.piece.title": "Create object"
+  },
+  {
+    "quest.create.piece.message": "Create object"
+  },
+  {
+    "quest.clear.fog.title": "Clear fog"
+  },
+  {
+    "quest.clear.fog.message": "Clear the fog"
+  },
+  {
+    "quest.kill.tree.title": "Cut down trees"
+  },
+  {
+    "quest.kill.tree.message": "Cut down trees"
+  },
+  {
+    "quest.use.mine.title": "Use mine"
+  },
+  {
+    "quest.use.mine.message": "Use mine"
+  },
+  {
+    "quest.hit.tree.title": "Chop obstacles"
+  },
+  {
+    "quest.hit.tree.message": "Chop obstacles"
+  },
+  {
+    "quest.firefly.title": "Catch Pixies"
+  },
+  {
+    "quest.firefly.message": "Catch Pixies"
+  },
+  {
+    "quest.daily.message": "Clear all the Objectives"
+  },
+  {
+    "quest.market.title": "Purchase in Market"
+  },
+  {
+    "quest.market.message": "Purchase in Market"
+  },
+  {
+    "quest.convert.ingredient.title": "Convert ingredients"
+  },
+  {
+    "quest.convert.ingredient.message": "Convert ingredients"
+  },
+  {
+    "quest.use.monument.title": "Use Hero's Castle"
+  },
+  {
+    "quest.use.monument.message": "Use Hero's Castle to get useful goods."
+  },
+  {
+    "task.clear.fog.hint": "You can clear unlocked fog with <sprite name=icon_Mana>"
+  },
+  {
+    "task.use.worker.hint": "Workers use <sprite name=icon_Energy> to finish tasks. Tasks also take time."
+  },
+  {
+    "task.use.mine.mn_b.hint": "This mine will give you <sprite name=B1> or <sprite name=B2> until it is depleted."
+  },
+  {
+    "task.use.mine.mn_c.hint": "This mine will give you <sprite name=C1> or <sprite name=C2> until it is depleted."
+  },
+  {
+    "task.use.mine.mn_e.hint": "This mine will give you <sprite name=E1> or <sprite name=E2> until it is depleted."
+  },
+  {
+    "task.use.mine.mn_f.hint": "This mine will give you <sprite name=F1> or <sprite name=F2> until it is depleted."
+  },
+  {
+    "task.use.mine.mn_g.hint": "This mine will give you <sprite name=G1> or <sprite name=G2> until it is depleted."
+  },
+  {
+    "task.use.mine.mn_i.hint": "This mine will give you <sprite name=I1> or <sprite name=I2> until it is depleted."
+  },
+  {
+    "task.kill.tree.hint": "Use a <sprite name=icon_Worker> to cut down trees or other obstacles if you have enough <sprite name=icon_Energy>"
+  },
+  {
+    "task.hit.tree.descrition": "Use a <sprite name=icon_Worker> to get resources. The stronger the obstacle the higher the reward."
+  },
+  {
+    "task.open.chest.hint": "Chests may contain useful stuff. The bigger chests have greater rewards."
+  },
+  {
+    "task.open.chest.npc.hint": "A special chest full of artifacts to help wake fog-shrouded storybook characters."
+  },
+  {
+    "task.open.chest.free.hint": "Chests may contain useful stuff including <sprite name=icon_Coins> and <sprite name=icon_Crystals>."
+  },
+  {
+    "task.collect.ingredient.hint": "Build produce fields and harvest crops from them."
+  },
+  {
+    "task.complete.orders.hint": "To complete orders you need to harvest certain ingredients."
+  },
+  {
+    "task.kill.field.hint": "You need a <sprite name=icon_Worker> and some <sprite name=icon_Energy> to clear dead fileds."
+  },
+  {
+    "task.firefly.hint": "Lots of people see pixies around here. Just tap on them if you do."
+  },
+  {
+    "task.supermatch.hint": "Merge 5 objects at once and you'll get a bonus item of the next level."
+  },
+  {
+    "task.convert.ingredient.hint": "Convert all old ingredients to get coins."
+  },
+  {
+    "task.use.monument_a.hint": "Use this <sprite name=AM> to get a variety of useful goods."
+  },
+  {
+    "task.use.monument_b.hint": "Use this <sprite name=BM> to get a variety of useful goods."
+  },
+  {
+    "task.use.monument_c.hint": "Use this <sprite name=CM> to get a variety of useful goods."
+  },
+  {
+    "task.use.monument_d.hint": "Use this <sprite name=DM> to get a variety of useful goods."
+  },
+  {
+    "task.use.monument_e.hint": "Use this <sprite name=EM> to get a variety of useful goods."
+  },
+  {
+    "task.use.monument_f.hint": "Use this <sprite name=FM> to get a variety of useful goods."
+  },
+  {
+    "task.use.monument_g.hint": "Use this <sprite name=GM> to get a variety of useful goods."
+  },
+  {
+    "task.use.monument_h.hint": "Use this <sprite name=HM> to get a variety of useful goods."
+  },
+  {
+    "task.use.monument_i.hint": "Use this <sprite name=IM> to get a variety of useful goods."
+  },
+  {
+    "window.daily.quest.main": "Clear all objectives"
+  },
+  {
+    "window.daily.quest.title": "Daily Objectives"
+  },
+  {
+    "window.daily.quest.task.button.help": "Find"
+  },
+  {
+    "window.daily.quest.task.button.claim": "Claim"
+  },
+  {
+    "window.daily.quest.task.button.done": "Done"
+  },
+  {
+    "window.daily.quest.message.all.cleared": "New tasks are on the way!\\nCheck back in"
+  },
+  {
+    "window.daily.quest.all.cleared.task.name": "All clear"
+  },
+  {
+    "window.daily.quest.sequence.header.mask": "Complete the '{0}' quest to get today's reward"
+  },
+  {
+    "window.daily.quest.main.timer.title": "Reset in:"
+  },
+  {
+    "window.daily.quest.information.title": "Info"
+  },
+  {
+    "window.daily.quest.information.message": "Complete all Daily Objectives for a bonus that increases every day!"
+  },
+  {
+    "window.daily.quest.todays.reward.text": "Reward: Today's reward"
+  },
+  {
+    "window.daily.quest.reward.check": "Today"
+  },
+  {
+    "window.daily.error.title": "Oops!"
+  },
+  {
+    "window.daily.error.free.space": "There is no free space nearby"
+  },
+  {
+    "highlight.task.supermatch.window.title": "Make a super merge"
+  },
+  {
+    "highlight.task.firefly.window.title": "Tap to collect pixies! "
+  },
+  {
+    "window.quest.title": "Quest"
+  },
+  {
+    "window.settings.title": "Settings"
+  },
+  {
+    "window.settings.message": "Log in to save your progress!"
+  },
+  {
+    "window.settings.language": "Language"
+  },
+  {
+    "window.settings.sound": "Sound"
+  },
+  {
+    "window.settings.music": "Music"
+  },
+  {
+    "window.settings.button.profile": "Profile"
+  },
+  {
+    "window.settings.button.login": "Connect"
+  },
+  {
+    "window.settings.button.credits": "Credits"
+  },
+  {
+    "window.settings.button.support": "Support"
+  },
+  {
+    "window.settings.button.restore": "Restore Purchases"
+  },
+  {
+    "window.settings.button.termsOfUse": "Terms of Use"
+  },
+  {
+    "window.settings.button.policy": "Privacy Policy"
+  },
+  {
+    "window.settings.button.language": "English"
+  },
+  {
+    "window.settings.login.description.reward": "Login to get {0} free and save your progress into the cloud!"
+  },
+  {
+    "window.settings.login.description.no.reward": "Login to save your progress into the cloud."
+  },
+  {
+    "window.credits.title": "Credits"
+  },
+  {
+    "window.credits.trademark": "© 2019 Big Fish Games, Inc. All Rights Reserved. BIG FISH, the BIG FISH logo and EVERMERGE are trademarks of Big Fish Games, Inc."
+  },
+  {
+    "window.credits.licenses": "Attribution: Copyright 2019 Twitter, Inc and other contributors\\nLicense: {link}https://creativecommons.org/licenses/by/4.0{/link}\\n\\nM PLUS Rounded 1c\\nCopyright 2016 The Rounded M+ Project Authors.\\n{link}http://scripts.sil.org/OFL{/link}\\n\\nSunflower\\nCopyright 2008 The Sunflower Project Authors.\\n{link}http://scripts.sil.org/OFL{/link}\\n\\nNotoSans\\nCopyright 2012 Google Inc. All Rights Reserved.\\n{link}http://www.apache.org/licenses/LICENSE-2.0.html{/link}\\n\\nPoetsen One\\nCopyright 2012, Pablo Impallari and Rodrigo Fuenzalida.\\n{link}http://scripts.sil.org/OFL{/link}"
+  },
+  {
+    "window.credits.team": "{size=50}Neskin Games{/size} \\n\\n {size=30}CEO, Product Director{/size} \\n {style}Sergey Neskin{/style} \\n\\n {size=30}Project Manager{/size} \\n {style}Julia Shanovich{/style} \\n\\n {size=30}Game Design{/size} \\n {style}Alexander Titkov \\nAnton Korzun \\nAlexander Korolkov \\nAlla Neskina \\nSergey Neskin \\nMaxim Petrov{/style} \\n\\n {size=30}Development{/size} \\n {style}Oleg Dolmatovich \\nAlexandr Sorokin \\nGeorge Alekhnovitch \\nDanila Zhelenok \\nSlava Chiligin{/style} \\n\\n {size=30}Dev Ops{/size} \\n {style}Pavel Sakson{/style} \\n\\n {size=30}Quality Assurance{/size} \\n {style}Oleg Birukov \\nMariya Verinskaya \\nAlexandr Pridorozhny \\nVictoria Fomenok{/style} \\n\\n {size=30}Graphics{/size} \\n {style}Violetta Khadynskaya \\nKonstantin Bedricky \\nAnton Vankovich \\nYury Volkov{/style} \\n\\n {size=30}Sound Design{/size} \\n {style}IK-Studio{/style} \\n\\n {size=30}Special Thanks{/size} \\n {style}Valentin Merzlikin \\nDiana Sukhova \\nKarolina Kulbako \\nArtem Lytsin{/style} \\n\\n "
+  },
+  {
+    "window.credits.teamBigFish": "{size=50}Big Fish Games ™{/size}\\n\\n{size=30}General Manager{/size}\\n{style}Andrew Pedersen{/style}\\n\\n{size=30}Product Owner{/size}\\n{style}Sean Clark{/style}\\n\\n{size=30}Producers{/size}\\n{style}Chris Mahnken\\nAlyssa Askew\\nJozie Ernst{/style}\\n\\n{size=30}Product Managers{/size}\\n{style}Graham Kays\\nZach Hines{/style}\\n\\n{size=30}Game Designers{/size}\\n{style}Natasha Bates\\nLisa Boleyn{/style}\\n\\n{size=30}Narrative Designers{/size}\\n{style}Jean Ferruzola\\nChris Page{/style}\\n\\n{size=30}Marketing Team{/size}\\n{style}Hilary Goldstein\\nChristine Aldridge{/style}\\n\\n{size=30}Data Analysts{/size}\\n{style}Levi Kanwischer\\nRon Kelishek\\nJeff Lindner\\nThai Trinh{/style}\\n\\n{size=30}QA VP Technical Game Ops{/size}\\n{style}Curtis Reynolds{/style}\\n\\n{size=30}QA Manager{/size}\\n{style}Wendy Scodeller{/style}\\n\\n{size=30}QA Associate Managers{/size}\\n{style}Katie Morton\\nTeresa Thiessen\\nTK Doan{/style}\\n\\n{size=30}QA Game Leads{/size}\\n{style}Alan Heller\\nLeon Langston\\nCody Paterson{/style}\\n\\n{size=30}Lead Testers{/size}\\n{style}Grant Lamb\\nLauren Hill{/style}\\n\\n{size=30}Senior Testers{/size}\\n{style}Aaron M. Wilson\\nAlan Heller\\nCam Handyside\\nJacob Chambers\\nJason Yeager\\nKelsey Wescott\\nNigel Anderson\\nTroy Smith{/style}\\n\\n{size=30}QA Testers{/size}\\n{style}Anthony Matagi\\nBecky Wehmeyer\\nCharles Wheeler\\nCody Paterson\\nDonny Clay\\nEric Chatham\\nJay Stein\\nJuan Jimenez\\nRolando Cisneros{/style}\\n\\n{size=30}Localization Team{/size}\\n{style}Aleksandra Marenich\\nAnnette Neeb\\nArne Twigt\\nBo Qian\\nChie Stutzman\\nClaudia Heine\\nChung-Ying Huang\\nGilga Basaure\\nGwen Sauvage\\nHelene Schilders\\nJulia Ochs\\nKatrin Jackway\\nKonstantin Titukh\\nLauren Warnock\\nLaurence Millerioux\\nMatt Decker\\nMiho Lyon\\nNaoko Isenhart\\nNick Tchemitcheff\\nSolange Spanier\\nSteen Groennebaek\\nValentina Pagliai\\nValerie England\\nYun DeBond\\nYumi Okubo-Shuman\\n{/style}\\n\\n{size=30}Developer Relations Manager{/size}\\n{style}Jerry Kansky{/style}\\n\\n{size=30}Raconteurs Extraordinaire!{/size}\\n{style}Chris George\\nBrittany Dungan\\nSean Seavers\\nJennifer Bertelsen\\nElizabeth Murphy\\nSam Knight\\nVan Vu\\nMichter Shackleton{/style}\\n\\n"
+  },
+  {
+    "window.timesync.title.error": "Reconnecting: {0}"
+  },
+  {
+    "window.timesync.title.connecting": "Connecting..."
+  },
+  {
+    "window.timesync.title.success": "Connected!"
+  },
+  {
+    "window.timesync.message.error": "Please check your internet connection."
+  },
+  {
+    "window.timesync.message.connecting": "Trying to connect to the server, please wait..."
+  },
+  {
+    "window.timesync.message.success": "Thanks for your patience!"
+  },
+  {
+    "iap.failed.title": "Unable to purchase"
+  },
+  {
+    "iap.failed.message": "Whoops! Please try your purchase again later!"
+  },
+  {
+    "iap.init.failed.title": "Unable to purchase"
+  },
+  {
+    "iap.init.failed.message": "Make sure that you are logged in to your Google Play account and purchases are allowed."
+  },
+  {
+    "window.wait.message": "Please wait..."
+  },
+  {
+    "window.restore.purchase.title": "Restore"
+  },
+  {
+    "window.restore.purchase.message": "Your purchase is restored!"
+  },
+  {
+    "notifications.restore.monument.complete.title": "Magic Ritual Complete!"
+  },
+  {
+    "notifications.restore.monument.complete.message": "Let's see what was created!"
+  },
+  {
+    "notifications.build.monument.complete.title": "Building Complete!"
+  },
+  {
+    "notifications.build.monument.complete.message": "Come back to see your new building and get your reward!"
+  },
+  {
+    "notifications.timeout.daily.objectives.title": "Hurry, time is running out!"
+  },
+  {
+    "notifications.timeout.daily.objectives.message": "Daily Objectives are almost complete. Finish soon to get your reward!"
+  },
+  {
+    "notifications.restore.market.complete.title": "New offers are available!"
+  },
+  {
+    "notifications.restore.market.complete.message": "Get your FREE chest before it disappears!"
+  },
+  {
+    "notifications.restore.energy.complete.title": "Energy is restored"
+  },
+  {
+    "notifications.restore.energy.complete.message": "You have energy. Come back and rebuild the land of EverMerge!"
+  },
+  {
+    "notifications.come.back.title": "Where are you?"
+  },
+  {
+    "notifications.come.back.message": "Come back, we're lost without you :("
+  },
+  {
+    "notifications.restore.free.energy.complete.title": "Claim free energy before it expires."
+  },
+  {
+    "notifications.restore.free.energy.complete.message": "Get back to claim your bonus energy."
+  },
+  {
+    "notifications.timeout.free.energy.title": "Your free energy expires soon. Claim it now!"
+  },
+  {
+    "notifications.timeout.free.energy.message": "You only have a few minutes left to claim your free energy."
+  },
+  {
+    "notifications.build.piece.complete.title": "Building Complete!"
+  },
+  {
+    "notifications.build.piece.complete.message": "Another part of the Kingdom is restored!"
+  },
+  {
+    "notifications.build.mine.complete.title": "Mine Restored"
+  },
+  {
+    "notifications.build.mine.complete.message": "Back to work! Your resources are ready to mine!"
+  },
+  {
+    "notifications.remove.obstacle.complete.title": "Job's Done"
+  },
+  {
+    "notifications.remove.obstacle.complete.message": "One of your Gnomes is waiting for a new task."
+  },
+  {
+    "notifications.order.complete.title": "Order Complete"
+  },
+  {
+    "notifications.order.complete.message": "Come back to collect your goodies."
+  },
+  {
+    "notifications.event.build.unicorn.complete.title": "Hey, meet a Unicorn!"
+  },
+  {
+    "notifications.event.build.unicorn.complete.message": "Another Unicorn is here! Check it out!"
+  },
+  {
+    "notifications.event.build.fluffy.complete.title": "Hey, meet a new Flooficore!"
+  },
+  {
+    "notifications.event.build.fluffy.complete.message": "Another Flooficore creature is here! Check it out!"
+  },
+  {
+    "notifications.event.restore.energy.complete.title": "Event Energy is FULL!"
+  },
+  {
+    "notifications.event.restore.energy.complete.message": "Magic Energy is restored. Return to the land of EverMerge."
+  },
+  {
+    "notifications.extraworker.timeout.title": "Check out your extra worker!"
+  },
+  {
+    "notifications.extraworker.timeout.message": "You have 3 workers. Time to build!"
+  },
+  {
+    "common.network.error.message": "Can't connect to the server. Please check your connection and try again."
+  },
+  {
+    "window.island1.title": "Dream Island"
+  },
+  {
+    "window.island2.title": "Newcomer's Island"
+  },
+  {
+    "window.island3.title": "Treasure Island"
+  },
+  {
+    "window.island1.message": "Get 16 extra pieces of land, plus all these bonus items! Make all your storybook dreams come true..."
+  },
+  {
+    "window.island2.message": "Get 10 extra pieces of land, plus all these bonus items! Start your adventure with useful goods to help get you on your way."
+  },
+  {
+    "window.island3.message": "Get 26 extra pieces of land, plus all these bonus items! Heroic deeds are ahead... and the best hero is a prepared one."
+  },
+  {
+    "window.event.short.IncreaseRefillRate.title": "Energized Gnomes"
+  },
+  {
+    "window.event.short.IncreaseRefillRate.message": "Your Energy refills {0}% faster today!"
+  },
+  {
+    "window.event.short.IncreaseRefillRate.description": "A good night's sleep makes all the difference. The Gnomes are so well-rested today! "
+  },
+  {
+    "window.event.short.CatchEnergizedFireflies.title": "Enchanted Pixies"
+  },
+  {
+    "window.event.short.CatchEnergizedFireflies.message": "Get Energy for every pixie you catch today!"
+  },
+  {
+    "window.event.short.CatchEnergizedFireflies.description": "These enchanted pixies were thrown off course by the changing winds... catch them while you can!"
+  },
+  {
+    "window.event.short.ShortenConstructionTime.title": "Power Build"
+  },
+  {
+    "window.event.short.ShortenConstructionTime.message": "You can build houses {0}% faster today!"
+  },
+  {
+    "window.event.short.ShortenConstructionTime.description": "The Gnomes got into Sleeping Beauty's coffee stash and they're ready to go, go, go! "
+  },
+  {
+    "window.event.short.UseSoftInsteadOfHardInTimers.title": "Golden Timers"
+  },
+  {
+    "window.event.short.UseSoftInsteadOfHardInTimers.message": "You can speed up timers with <sprite name=icon_Coins> today!"
+  },
+  {
+    "window.event.short.UseSoftInsteadOfHardInTimers.description": "A certain mischievous Kitty talked the Gnomes into accepting <sprite name=icon_Coins> today!"
+  },
+  {
+    "window.event.GnomeRush.title": "Gnome Rush"
+  },
+  {
+    "window.event.ChestRush.title": "Treasure Hunt"
+  },
+  {
+    "window.event.OrderRush.title": "Hungry Hero"
+  },
+  {
+    "window.event.UnicornIsland.title": "Unicorn Rush"
+  },
+  {
+    "window.event.FluffyIsland.title": "Flooficore Island Event"
+  },
+  {
+    "window.event.SeasonalSpring.title": "Spring Bloom Event"
+  },
+  {
+    "window.event.GnomeRush.message": "Complete buildings to earn <sprite name=icon_Token> and win some magical prizes!"
+  },
+  {
+    "window.event.ChestRush.message": "Open or merge chests to earn <sprite name=icon_Token> and win some magical prizes!"
+  },
+  {
+    "window.event.OrderRush.message": "Cook dishes to earn <sprite name=icon_Token> and win some magical prizes!"
+  },
+  {
+    "window.event.UnicornIsland.message": "Create Unicorns to earn <sprite name=icon_EventToken> and win some magical prizes!"
+  },
+  {
+    "window.event.FluffyIsland.message": "Create Flooficores to earn <sprite name=icon_EventToken> and collect rewards along the way!"
+  },
+  {
+    "window.event.GnomeRush.message.finish": "That was great! Remember to come back for our next adventure!"
+  },
+  {
+    "window.event.ChestRush.message.finish": "That was great! Remember to come back for our next adventure!"
+  },
+  {
+    "window.event.OrderRush.message.finish": "Thanks for keeping these hungry heroes fed! Remember to come back for our next adventure!"
+  },
+  {
+    "window.event.UnicornIsland.message.finish": "That was great! Remember to come back for our next adventure!"
+  },
+  {
+    "window.event.FluffyIsland.message.finish": "Thanks for your help on Flooficore Island! Remember to come back for our next adventure!"
+  },
+  {
+    "window.event.timer": "Event Time Remaining:"
+  },
+  {
+    "window.event.GnomeRush.vip": "VIP"
+  },
+  {
+    "window.event.ChestRush.vip": "VIP"
+  },
+  {
+    "window.event.OrderRush.vip": "VIP"
+  },
+  {
+    "window.event.UnicornIsland.vip": "VIP REWARDS"
+  },
+  {
+    "window.event.UnicornIsland.reward": "Next Reward {0}"
+  },
+  {
+    "window.event.FluffyIsland.vip": "VIP REWARDS"
+  },
+  {
+    "window.event.FluffyIsland.reward": "Next Reward {0}"
+  },
+  {
+    "window.event.button.finish": "Finish"
+  },
+  {
+    "window.event.GnomeRush.preview.message": "The Gnome Rush event is coming! Don't miss out on some magical rewards!"
+  },
+  {
+    "window.event.ChestRush.preview.message": "The Treasure Hunt event is coming! Don't miss out on some magical rewards!"
+  },
+  {
+    "window.event.UnicornIsland.preview.message": "The Unicorn Rush event is coming! Don't miss out on some magical rewards!"
+  },
+  {
+    "window.event.FluffyIsland.preview.message": "What do you get when you cross a manticore and a... floofle?\\n\\nDiscover Merlin's latest experiment on Flooficore Island! Event coming soon!"
+  },
+  {
+    "window.event.UnicornIsland.timer.message": "The event is complete! Hurry and collect all of your coins & gems before they disappear!"
+  },
+  {
+    "window.event.UnicornIsland.timeout.title": "Unicorn Rush Ended"
+  },
+  {
+    "window.event.UnicornIsland.timeout.message": "The Unicorn Rush event has ended. More magical events are coming soon!"
+  },
+  {
+    "window.event.UnicornIsland.exit.message": "Are you sure you want to leave? You won't be able to return."
+  },
+  {
+    "window.event.FluffyIsland.timer.message": "The event is complete! Hurry and collect all of your coins & gems before they disappear!"
+  },
+  {
+    "window.event.FluffyIsland.timeout.title": "Event Over"
+  },
+  {
+    "window.event.FluffyIsland.timeout.message": "The Flooficore Island Event has ended. More magical events are coming soon!"
+  },
+  {
+    "window.event.FluffyIsland.exit.message": "Are you sure you want to leave? You won't be able to return."
+  },
+  {
+    "window.event.preview.timer": "Event will start in:"
+  },
+  {
+    "window.event.almost.title": "So close"
+  },
+  {
+    "window.event.almost.message": "This reward is almost yours!"
+  },
+  {
+    "window.event.almost.message2": "This is your last chance to claim this reward!"
+  },
+  {
+    "window.event.almost.mark": "One time offer!"
+  },
+  {
+    "window.event.GnomeRush.hint.message": "Complete buildings to earn <sprite name=icon_Token> and win some magical prizes!"
+  },
+  {
+    "window.event.ChestRush.hint.message": "Open or merge chests to earn <sprite name=icon_Token> and win some magical prizes!"
+  },
+  {
+    "window.event.OrderRush.hint.message": "Cook dishes to earn <sprite name=icon_Token> and win some magical prizes!"
+  },
+  {
+    "window.event.UnicornIsland.hint.message": "Create Unicorns to earn <sprite name=icon_EventToken> and win some magical prizes!"
+  },
+  {
+    "window.event.FluffyIsland.hint.message": "Create Flooficores to earn <sprite name=icon_EventToken> and win some magical prizes!"
+  },
+  {
+    "window.event.step.reward.title": "Stage Completed!"
+  },
+  {
+    "window.event.step.reward.header": "Progress: {0}/{1}"
+  },
+  {
+    "window.subscription.title": "VIP Subscription"
+  },
+  {
+    "window.subscription.message": "VIP Subscriptions and VIP Rewards are coming soon!"
+  },
+  {
+    "window.forced.update.notify.title": "Cheers! "
+  },
+  {
+    "window.forced.update.notify.message": "Update available! Please download the latest version of the game!"
+  },
+  {
+    "window.forced.update.btn.update": "Update"
+  },
+  {
+    "window.forced.update.btn.cancel": "Cancel"
+  },
+  {
+    "window.forced.update.force.title": "Update required"
+  },
+  {
+    "window.forced.update.force.message": "Whoops! It seems the old magic doesn't work anymore. Please update the game! "
+  },
+  {
+    "window.airship.reward.title": "Your Reward"
+  },
+  {
+    "window.clone.offer.title": "Special Offer"
+  },
+  {
+    "window.clone.offer.message": "Would you like to buy one more piece?"
+  },
+  {
+    "window.worker.offer.title": "Extra worker!"
+  },
+  {
+    "window.worker.counter": "{0} Gnome Worker"
+  },
+  {
+    "window.worker.button": "Buy for {0} days"
+  },
+  {
+    "window.worker.timeLeft": "Time left:"
+  },
+  {
+    "window.worker.offer.purchase.message1": "Need more hands?"
+  },
+  {
+    "window.worker.offer.purchase.message2": "Hire an extra gnome worker for {0} days for:"
+  },
+  {
+    "window.worker.offer.sale.message1": "Rehire at a discount!"
+  },
+  {
+    "window.worker.offer.onboard.message1": "Extra worker on board!"
+  },
+  {
+    "window.worker.offer.onboard.message2": "You've hired an extra gnome worker. Triple the gnome, triple the axe power!"
+  },
+  {
+    "window.worker.offer.leaving.message1": "Shift's almost up!"
+  },
+  {
+    "window.worker.offer.leaving.message2": "Your extra gnome worker's last day on the job is coming up! Need more help? Rehire him before he leaves!"
+  },
+  {
+    "social.request.error.auth.title": "Authorization Error"
+  },
+  {
+    "social.request.error.auth.message": "Can't access account "
+  },
+  {
+    "social.request.error.unknown.title": "Request Error"
+  },
+  {
+    "social.request.error.unknown.message": "Error processing server request: {0}"
+  },
+  {
+    "social.request.error.facebookauth.title": "Authorization Error"
+  },
+  {
+    "social.request.error.facebookauth.message": "Can't access Facebook. Have you changed your password recently, or re-set your access? "
+  },
+  {
+    "social.request.error.facebookauth.button": "Reconnect"
+  },
+  {
+    "social.rave.init.error.message": "Autorization service is not initialized"
+  },
+  {
+    "social.button.connect": "Connect"
+  },
+  {
+    "social.button.manage": "Manage"
+  },
+  {
+    "social.button.logout": "Logout"
+  },
+  {
+    "quit.sync.message": "Saving your progress\\nto the cloud..."
+  },
+  {
+    "dialog.logout.hint.title": "Info"
+  },
+  {
+    "dialog.logout.hint.message": "Log in again to resume playing your saved game!"
+  },
+  {
+    "cloud.button.error.title": "Error"
+  },
+  {
+    "cloud.button.error.message": "Can't sync your progress with the cloud. Active Internet connection is required."
+  },
+  {
+    "sync.profile.error.title": "Connection Error"
+  },
+  {
+    "sync.profile.error.button": "OK"
+  },
+  {
+    "sync.profile.error.client.update.required": "You are using an outdated game version. To use your current profile, please download an update."
+  },
+  {
+    "sync.profile.error.broken.file": "Your profile is corrupted and can't be used. Please contact support."
+  },
+  {
+    "sync.profile.error.connection.issue": "Unable to connect to the cloud. Please check your internet connection."
+  },
+  {
+    "sync.profile.error.unknown": "Something went wrong. Try again later or contact our support."
+  },
+  {
+    "sync.profile.error.wrong.server.response": "Bad response from the server. Try again later."
+  },
+  {
+    "sync.profile.error.network.error.message": "Unable to connect to the server. Please check your internet connection."
+  },
+  {
+    "sync.profile.completed.title": "Progress Restored"
+  },
+  {
+    "sync.profile.completed.message": "Your progress has been successfully restored."
+  },
+  {
+    "dlg.client.support.title": "Customer Support"
+  },
+  {
+    "dlg.client.support.consume.error": "Unable to connect to the server. Please check your internet connection."
+  },
+  {
+    "dlg.client.support.error.wrong.data": "Wrong data received. Please contact support."
+  },
+  {
+    "dlg.client.support.incorrect.version.error": "Incorrect game version. Please contact support."
+  },
+  {
+    "dlg.client.support.before": "Press OK to apply update from the server."
+  },
+  {
+    "dlg.client.support.after": "Success!"
+  },
+  {
+    "window.progress.override.title": "Progress Override"
+  },
+  {
+    "window.progress.override.message.server": "Are you sure you want to override your current progress with the save detected on the server? This cannot be undone!"
+  },
+  {
+    "window.progress.override.message.device": "Are you sure you want to override the save on the server with the progress from this device? This cannot be undone!"
+  },
+  {
+    "window.progress.save.title": "Found Data"
+  },
+  {
+    "window.progress.save.message": "We found a saved game in the cloud. Which would you like to use?"
+  },
+  {
+    "window.progress.save.on.logout.message": "We found a saved game in the cloud from another device. Which save would you like to keep?"
+  },
+  {
+    "window.progress.save.button.server": "Cloud Save"
+  },
+  {
+    "window.progress.save.button.device": "Device Save"
+  },
+  {
+    "window.progress.save.state.current": "Current State"
+  },
+  {
+    "window.progress.save.state.then": "{0} ago"
+  },
+  {
+    "window.flyingAd.title": "Magic Pixie"
+  },
+  {
+    "window.flyingAd.message": "Get your reward by watching a short video"
+  },
+  {
+    "window.flyingAd.item.claimed": "Claimed"
+  },
+  {
+    "window.flyingAd.item.locked": "Locked"
+  },
+  {
+    "window.flyingAd.description.soft": "Coins! They let you buy <sprite name=icon_Energy> or useful goods in the Market."
+  },
+  {
+    "window.flyingAd.description.hard": "Rubies! They allow you to speed up timers or buy useful goods in the Market."
+  },
+  {
+    "window.flyingAd.description.mana": "Use magic wands to clear this pesky Fog"
+  },
+  {
+    "window.flyingAd.description.chest": "This chest contains many different and useful items"
+  },
+  {
+    "window.flyingAd.description.piece": "Use these pieces to build houses"
+  },
+  {
+    "window.flyingAd.description.npc_artefact": "Use these items to unlock a new Hero. Guess who?"
+  },
+  {
+    "window.flyingAd.description.ingredients": "You need ingredients to complete orders and earn <sprite name=icon_Mana>"
+  },
+  {
+    "window.flyingAd.description.boost_wr": "Use this item to create a Red Gnome."
+  },
+  {
+    "window.flyingAd.description.boost_cr": "Use this item to create a Magic Crystal."
+  },
+  {
+    "window.flyingAd.error.no.internet": "Connection error. Please check your internet options."
+  },
+  {
+    "window.flyingAd.error.no.videos": "No video available at the moment. Please try a little later"
+  },
+  {
+    "window.flyingAd.error.something.wrong": "Oops! Somethng went wrong. Please try again."
+  },
+  {
+    "window.FBConnect.title": "Connect to Facebook"
+  },
+  {
+    "window.FBConnect.message": "1. Save your progress!\\n\\n2. Synchronize your progress with other devices!\\n\\n3. Get Reward {0}!\\n\\n4. Dance your happy dance!"
+  },
+  {
+    "window.FBConnect.messageBottom": "We won't post anything without asking."
+  },
+  {
+    "window.chooseLanguage.title": "Choose Language"
+  },
+  {
+    "character.unlocked": "Character Unlocked!"
+  },
+  {
+    "dialog.logout.confirmation.title": "Confirmation"
+  },
+  {
+    "dialog.logout.confirmation.message": "If you logout you'll restart from the beginning of the game. You can login again to continue playing your current progress."
+  },
+  {
+    "dialog.logout.confirmation.btn.accept": "Proceed"
+  },
+  {
+    "window.progress.override.message.on.logout.server": "Are you sure you want to keep progress from the server and remove local progress? This cannot be undone!"
+  },
+  {
+    "window.progress.override.message.on.logout.device": "Are you sure you want to override the progress on the server with local progress? This cannot be undone!"
+  },
+  {
+    "sync.error.after.successful.login.message": "Can't sync your progress with the cloud. Please check your internet connection and try again."
+  },
+  {
+    "window.migration.shuffle.title": "Dear player!"
+  },
+  {
+    "window.migration.shuffle.message": "A fairy hurricane swapped some characters in EverMerge! But don't worry, even if things look a bit different, you didn't lose any progress...\\nTo compensate for the confusion, the fairy has left you some rubies!"
+  },
+  {
+    "window.lottery.title": "Lucky Scratch Lotto"
+  },
+  {
+    "window.lottery.message": "Win up to {0} today!"
+  },
+  {
+    "apple.sign.in.error.message": "Can't sign in using Apple ID."
+  },
+  {
+    "announcer.merge5": "Merge {0}\\nBONUS!"
+  },
+  {
+    "conversation.common.message1": "All work and no play... er... Strike that, reverse it!"
+  },
+  {
+    "conversation.common.message2": "I wonder what would happen if we merged the gnomes... Settle down guys, nobody's going to merge you!"
+  },
+  {
+    "conversation.common.message3": "Even storybook tales take hard work!"
+  },
+  {
+    "conversation.common.message4": "I think we earned a coffee break! ...okay, break over."
+  },
+  {
+    "conversation.common.message5": "No time to lose, we've got work to do."
+  },
+  {
+    "conversation.common.message6": "I wonder who we may find next? So many left to save!"
+  },
+  {
+    "conversation.common.quest.complete1": ""
+  },
+  {
+    "conversation.1.message1": "Hello? Is someone there? Wow, am I glad to see you! You must have read one of our stories."
+  },
+  {
+    "conversation.1.message2": "When people stopped reading fairytales, this fog rolled in and wreaked havoc! *Yawn* I'm starving... Can you help grow a candy tree while I grab coffee?"
+  },
+  {
+    "conversation.2.message1": "You did it! And without any help... except from a big pointy finger... Great!"
+  },
+  {
+    "conversation.2.message2": "As you can see, we've got some standard curse stuff going on here: endless slumber, mysterious fog, and the land's in ruins..."
+  },
+  {
+    "conversation.2.message3": "Good thing I have you! Can you help me wake up more heroes? We need their help to rebuild!"
+  },
+  {
+    "conversation.3.message1": "Look, gnomes! They smell a bit like mulch, but they're very industrious and might know what happened to the candy garden."
+  },
+  {
+    "conversation.3.message2": "What the f... um... heck happened, Princess?"
+  },
+  {
+    "conversation.3.message3": "We were working in the garden, it got foggy, and then WHAM. Bedtime!"
+  },
+  {
+    "conversation.3.message4": "I'll tell you what the fum-heck happened. The fog came and put everybody to sleep. Now it's up to us to save EverMerge!"
+  },
+  {
+    "conversation.4.message1": "Oh no! Say it isn't so... the candy garden is ruined!!"
+  },
+  {
+    "conversation.4.message2": "Don't worry, boss. You've got your two best gnomes on the job!"
+  },
+  {
+    "conversation.5.message1": "Take that, FOG! We're coming for you!"
+  },
+  {
+    "conversation.5.message2": "Whoa! A wheat field and a new candy tree! We can cover all the basic food groups now."
+  },
+  {
+    "conversation.5.message3": "How about we make some treats?"
+  },
+  {
+    "conversation.6.message1": "Look, a quarry. What luck! We can use it to get more stones."
+  },
+  {
+    "conversation.6.message2": "Luck is my middle name, Princess!"
+  },
+  {
+    "conversation.6.message3": "Strange... I thought it was 'in'..."
+  },
+  {
+    "conversation.7.message1": "Another gnome worker! But he looks different..."
+  },
+  {
+    "conversation.7.message2": "Oh, that's Roy. Don't bother talking to him. He's only interested in building things."
+  },
+  {
+    "conversation.7.message3": "Maybe the next thing he'll build is a personality. Sick burn!"
+  },
+  {
+    "conversation.8.message1": "There's rumors of a secret, fairy island near here, just waiting to be uncovered..."
+  },
+  {
+    "conversation.8.message2": "If it's secret, how are there rumors?"
+  },
+  {
+    "conversation.8.message3": "She's got you there, bud. Let's start our search by clearing out those old trees!"
+  },
+  {
+    "conversation.9.message1": "Oh jeez, one of my mines! You wouldn't mind taking a looksie under the hood, would ya? "
+  },
+  {
+    "conversation.10.message1": "We've found old boots all over the place, should we throw them away?"
+  },
+  {
+    "conversation.10.message2": "Keep the boots! In fact, find more, I know what to do."
+  },
+  {
+    "conversation.11.message1": "Who knew I would become a collector of old boots?"
+  },
+  {
+    "conversation.11.message2": "These boots smell like wet cat! Is this enough, or do we need more?"
+  },
+  {
+    "conversation.11.message3": "Patience my gnomish friend! A few spells of merging and you'll see something amazing!"
+  },
+  {
+    "conversation.12.message1": "Aha, I knew it! My favorite kitty!"
+  },
+  {
+    "conversation.12.message2": "For the last time, do not call me KITTY. I'm Puss in Boots! Master swordsman and raconteur extraordinaire!"
+  },
+  {
+    "conversation.12.message3": "Not the reaction I expected. I think he hissed at me! Kitty, would you like some cream?"
+  },
+  {
+    "conversation.12.message4": "Oh yes, please! I would love some... grrr... Do not try to trick me with your offers of delicious cream!"
+  },
+  {
+    "conversation.12.message5": "Take it easy, Fluffy. We're going to need everybody's help!"
+  },
+  {
+    "conversation.13.message1": "What a beautiful axe! I may know who this belongs to..."
+  },
+  {
+    "conversation.13.message2": "Oh, you think the people upstairs finally processed our additional axes request?"
+  },
+  {
+    "conversation.13.message3": "No. They're still deciding if they'll let us start our cooking club, Chop It Like It's Hot."
+  },
+  {
+    "conversation.14.message1": "This is a great axe-throwing axe isn't it, Chuck?"
+  },
+  {
+    "conversation.14.message2": "I don't go axe throwing anymore. That's how we lost Tim."
+  },
+  {
+    "conversation.14.message3": "WHAT?!"
+  },
+  {
+    "conversation.14.message4": "He got lost on the way to target practice. Never did find him."
+  },
+  {
+    "conversation.14.message5": "If we keep merging axes, we might find out who they belong to!"
+  },
+  {
+    "conversation.15.message1": "The notes of pine and hickory in this one are simply superb!"
+  },
+  {
+    "conversation.15.message2": "Hey, all these axes sure are a... random AXE of kindness!"
+  },
+  {
+    "conversation.16.message1": "Wow! This blade's so sharp it could cut right through the stick up a certain Princess's..."
+  },
+  {
+    "conversation.16.message2": "How's the work coming along, boys?"
+  },
+  {
+    "conversation.16.message3": "We're... we're going to be the talk of the Northern Gnome Axe Guild at this pace!"
+  },
+  {
+    "conversation.17.message1": "Heya, everyone! How's it going?"
+  },
+  {
+    "conversation.17.message2": "So glad to see you up and about again! We were just..."
+  },
+  {
+    "conversation.17.message3": "OH MY! Mr. Bunyan! WOW, what an honor! I'm a huge fan of your work. Would you mind signing this special edition poster of yourself?"
+  },
+  {
+    "conversation.17.message4": "Err, you betcha! Happy to meet a fan! Wait a second, how'd you get this photo?"
+  },
+  {
+    "conversation.17.message5": "Would you PLEASE show us a few of your axe tricks, Mr. Bunyan? TIMBERRR! We'll clear out these dead trees in no time with your help!"
+  },
+  {
+    "conversation.17.message6": "Sorry boys, I'm setting down the axe for a bit. I've been working on a new hot dish recipe. Hungry?"
+  },
+  {
+    "conversation.18.message1": "What a beautiful pearl! Whoever misplaced it must be awfully sad."
+  },
+  {
+    "conversation.18.message2": "Give it here! If someone's lost it, Puss in Boots is on the case!"
+  },
+  {
+    "conversation.19.message1": "Aha! Another pearl! Hmm, smells a bit like the sea."
+  },
+  {
+    "conversation.19.message2": "A trail is forming! All we have to do is follow the pearls and their owner will reveal themselves..."
+  },
+  {
+    "conversation.20.message1": "Another gorgeous pearl! Don't you think it'd make for nice earrings?"
+  },
+  {
+    "conversation.20.message2": "Don't touch the evidence! There might be fingerprints. We'll need those to find its rightful owner! "
+  },
+  {
+    "conversation.20.message3": "So... uh, I'll gaurd it while we keep searching for pearls!"
+  },
+  {
+    "conversation.21.message1": "Wow! Look at the size of this pearl. What's the weight got to be on that?"
+  },
+  {
+    "conversation.21.message2": "Hmm... We'd say 30, 40 carats tops. Enough to get Cousin Vinny on the phone."
+  },
+  {
+    "conversation.21.message3": "What are you guys talking about?"
+  },
+  {
+    "conversation.21.message4": "There's no time for questions, we have to find more pearls! We, uh, need them to find their rightful owner!"
+  },
+  {
+    "conversation.22.message1": "Listen here, gnomes. I'm providing quality pearls! We had a deal, didn't we? Vinny's price is terrible, and you know it."
+  },
+  {
+    "conversation.22.message2": "You're lucky Cousin Vinny is even working with you! He's a highly sought-after gnome!"
+  },
+  {
+    "conversation.22.message3": "Yeah! He's not some small-time fence. The best tunnel-runner in EverMerge!"
+  },
+  {
+    "conversation.22.message4": "What about running? How's the search going, everyone?"
+  },
+  {
+    "conversation.22.message5": "Uh, we were just discussing possible leads..."
+  },
+  {
+    "conversation.23.message1": "*whistles* Now that's a good-looking pearl!"
+  },
+  {
+    "conversation.23.message2": "You better call up Vinny, because this cat is ready to make a sale!"
+  },
+  {
+    "conversation.23.message3": "A WHAT?! Puss in Boots, have you been trying to sell these pearls?!"
+  },
+  {
+    "conversation.23.message4": "BAD KITTY! NO! Don't make me get my spray bottle!"
+  },
+  {
+    "conversation.23.message5": "Looks like it's up to me to get these pearls back to their rightful owner!"
+  },
+  {
+    "conversation.24.message1": "Thanks for waking me! It's so nice to stretch my legs again."
+  },
+  {
+    "conversation.24.message2": "*whispers* Do you think she knows she doesn't have any?"
+  },
+  {
+    "conversation.24.message3": "Ixnay on the egslay talk, gnomes! Ahem... Little Mermaid, we've been safeguarding your pearls."
+  },
+  {
+    "conversation.24.message4": "Oh, perfect! I have so many I was just about to recycle them."
+  },
+  {
+    "conversation.24.message5": "You WHAT?!"
+  },
+  {
+    "conversation.25.message1": "Look, a flute! Why, I know someone who LOVES flutes. They practically make him float on air!"
+  },
+  {
+    "conversation.26.message1": "Hooray! This flute's got me thinking... is it time to get the band back together again, Buck?"
+  },
+  {
+    "conversation.26.message2": "You know what, I think the world's ready for The Bold & The Flute-tiful to reunite!"
+  },
+  {
+    "conversation.27.message1": "Eesh! What's that sound and what did that flute do to deserve this?"
+  },
+  {
+    "conversation.27.message2": "Buck and I are rehearsing! We're starting up the old band. What do you think?"
+  },
+  {
+    "conversation.27.message3": "Hmm. First impression: you're missing a lead singer. I have an idea, but we'll need more flutes."
+  },
+  {
+    "conversation.28.message1": "Gnomes... you've got the flutes and the spirit to get your band off the ground. Now meet your new lead singer: the one, the only... Paul Bunyan!"
+  },
+  {
+    "conversation.28.message2": "WOW! What an honor to play at your side, Mr. Bunyan!"
+  },
+  {
+    "conversation.28.message3": "Wait a second, I thought someone needed help shoveling some snow?"
+  },
+  {
+    "conversation.28.message4": "Snow? What snow? Now, let's iron out this contract."
+  },
+  {
+    "conversation.29.message1": "Fantastic! A new flute just in time. Gnomes, I booked your band's first gig at the Storybook Café. 6:00 am slot."
+  },
+  {
+    "conversation.29.message2": "A coffee shop?"
+  },
+  {
+    "conversation.29.message3": "Hey, every great flautist started somewhere!"
+  },
+  {
+    "conversation.30.message1": "Buck, what are we going to do about Mr. Bunyan? He can't sing and it's bringing down our flute tooting duet!"
+  },
+  {
+    "conversation.30.message2": "Shhh! He's coming!"
+  },
+  {
+    "conversation.30.message3": "Ya know, I wasn't sure about this band thing at first. But now look at us! When's the next show?"
+  },
+  {
+    "conversation.30.message4": "We're going to need more flutes..."
+  },
+  {
+    "conversation.31.message1": "These new flutes are getting the juices flowin'! Wanna hear a song I've been cooking up? 'Woodwind Beneath My Wings.' It's a real jammer."
+  },
+  {
+    "conversation.31.message2": "Oh... Mr. Bunyan, see... we're..."
+  },
+  {
+    "conversation.31.message3": "The band's finito! We have too much fog to clear and trees to chop. The axe business waits for no one!"
+  },
+  {
+    "conversation.31.message4": "*whispers* Plus we need a lead singer who can... sing."
+  },
+  {
+    "conversation.32.message1": "This is soooo lame."
+  },
+  {
+    "conversation.32.message2": "We agree, Peter! This fogging fog certainly is, as you say, 'lame'. That's why we need you!"
+  },
+  {
+    "conversation.32.message3": "Um, Peter? Would you please put that phone down and pay attention?"
+  },
+  {
+    "conversation.32.message4": "What are you, my mom?"
+  },
+  {
+    "conversation.33.message1": "A basket full of sweet treats! I might know who this belongs to..."
+  },
+  {
+    "conversation.34.message1": "What a lovely little basket! I know just how to put these to use..."
+  },
+  {
+    "conversation.34.message2": "We'll just need a few more!"
+  },
+  {
+    "conversation.35.message1": "What're you doing with those baskets, Princess?"
+  },
+  {
+    "conversation.35.message2": "Collecting them for the auction! I'm fundraising to combat Wicked Stepmotheritis."
+  },
+  {
+    "conversation.35.message3": "It affects more people than you know."
+  },
+  {
+    "conversation.35.message4": "Woah, sounds serious. Let us help!"
+  },
+  {
+    "conversation.36.message1": "This one's packed with reading glasses and butterscotch candies. Cozy!"
+  },
+  {
+    "conversation.36.message2": "Let's see what else we can find!"
+  },
+  {
+    "conversation.37.message1": "Fantastic! Paul, you coming to the fundraiser? We're raising money to combat Wicked Stepmotheritis!"
+  },
+  {
+    "conversation.37.message2": "Er... is that a thing?"
+  },
+  {
+    "conversation.37.message3": "Yep. My research shows that 100% of stepmothers are affected by Wicked Stepmotheritis."
+  },
+  {
+    "conversation.37.message4": "Woah! You betcha, Princess. I'll be there."
+  },
+  {
+    "conversation.37.message5": "Perfect! And you can help us find more baskets!"
+  },
+  {
+    "conversation.38.message1": "Hey Princess... we're happy to collect baskets for this fundraiser, but how do WE know we don't have Wicked Stepmotheritis?"
+  },
+  {
+    "conversation.38.message2": "Well... have you felt the urge to poison one or more new stepdaughters?"
+  },
+  {
+    "conversation.38.message3": "No..."
+  },
+  {
+    "conversation.38.message4": "Then you've got nothing to worry about!"
+  },
+  {
+    "conversation.38.message5": "We need to keep merging so we can find our guest of honor!"
+  },
+  {
+    "conversation.39.message1": "Welcome, Red Riding Hood! Your baskets were such a treat!"
+  },
+  {
+    "conversation.39.message2": "IS THAT A WOLF? Get it away from me!"
+  },
+  {
+    "conversation.39.message3": "A... what? Sweetie, it's just a fluffy Kitty!"
+  },
+  {
+    "conversation.39.message4": "I'm not sure which one of you insulted me more."
+  },
+  {
+    "conversation.39.message5": "Oh, thank goodness! I hate wolves. How can I help? Do you need something delivered?"
+  },
+  {
+    "conversation.40.message1": "Just a few more planks and this'll make a fine home!"
+  },
+  {
+    "conversation.40.message2": "WHAT?! No gnome could leave YOUR house looking like this, Mr. Bunyan. We're on it!"
+  },
+  {
+    "conversation.41.message1": "Now we're getting somewhere! What do you think of the new toilets, Mr. Bunyan?"
+  },
+  {
+    "conversation.41.message2": "Erm... They're real nice, boys! But I'm used to making do in the great outdoors."
+  },
+  {
+    "conversation.41.message3": "But... they're HEATED! *whispers* He doesn't like them, Buck."
+  },
+  {
+    "conversation.41.message4": "The answer is always more amenities!"
+  },
+  {
+    "conversation.42.message1": "Fantastic! What do you think of the new surround sound system, Mr. Bunyan?"
+  },
+  {
+    "conversation.42.message2": "When you put on this bird song, doesn't it feel like you're SURROUNDED by nature?"
+  },
+  {
+    "conversation.42.message3": "But we're already surrounded by nature! Honestly, no need to make a fuss over me. I love it all!"
+  },
+  {
+    "conversation.42.message4": "He got surround sound? What am I, chopped liver?"
+  },
+  {
+    "conversation.43.message1": "Now we're cooking! Mr. Bunyan, what do you think of the new whirlpool tub?"
+  },
+  {
+    "conversation.43.message2": "Well..."
+  },
+  {
+    "conversation.43.message3": "Oh no."
+  },
+  {
+    "conversation.43.message4": "It's nice! I just prefer a plunge in the Great Lakes. You ever been? Made them myself."
+  },
+  {
+    "conversation.43.message5": "Chuck, I have an idea for an upgrade... But we're going to need a bucket. A big bucket. And more wagons!"
+  },
+  {
+    "conversation.44.message1": "A-a-achoo! Who planted sunflowers INSIDE my wagon? I'm allergic!"
+  },
+  {
+    "conversation.44.message2": "*whispers* Abort Mission Sunny Side Up, I repeat... abort Mission Sunny Side Up."
+  },
+  {
+    "conversation.44.message3": "Roger that, Buck."
+  },
+  {
+    "conversation.44.message4": "Let's keep looking for more wagons! I bet a new idea will just pop up!"
+  },
+  {
+    "conversation.45.message1": "VOILA! We present... an in-home gym! Stay fit as a fiddle, from the comfort of home."
+  },
+  {
+    "conversation.45.message2": "Wow, so thoughtful! I just..."
+  },
+  {
+    "conversation.45.message3": "Don't tell us... you 'prefer hiking in the fresh mountain air.'"
+  },
+  {
+    "conversation.45.message4": "Has anyone seen Puss in Boots? I saw him head this way! Strange..."
+  },
+  {
+    "conversation.46.message1": "Hey, where's Sleeping Beauty? I just found Puss in Boots..."
+  },
+  {
+    "conversation.46.message2": "He's holed up in my bathroom. Said something about treating himself?"
+  },
+  {
+    "conversation.46.message3": "Come to think of it, he was wearing my robe."
+  },
+  {
+    "conversation.46.message4": "Psst... gnomes. I have a few ideas for renovations that might interest you."
+  },
+  {
+    "conversation.46.message5": "Mr. Bunyan will love them! We just need a few more wagons..."
+  },
+  {
+    "conversation.47.message1": "Welcome home! What do you think, Mr. Bunyan? Do you like the new scratching post we included?"
+  },
+  {
+    "conversation.47.message2": "We even added a giant sandbox! Just like you asked for!"
+  },
+  {
+    "conversation.47.message3": "Wow, thanks! I didn't ask for any of that, though."
+  },
+  {
+    "conversation.47.message4": "What?! Why we ouhgta..."
+  },
+  {
+    "conversation.47.message5": "Chuck, I smell a rat! I think we got swindled by the cat."
+  },
+  {
+    "conversation.47.message6": "You think Puss in Boots got to the stove?"
+  },
+  {
+    "conversation.48.message1": "YOWL! How dare you humiliate me like this, Princess! No one tugs at my collar!"
+  },
+  {
+    "conversation.48.message2": "Stop loitering at Paul's house, it's not yours! Now, if you're a good Kitty, I'll let you play with some yarn."
+  },
+  {
+    "conversation.48.message3": "Ohhh yarn! I do love to... no! Cease with your trickery!"
+  },
+  {
+    "conversation.48.message4": "Think, Chuck! What would a flannel-wearing hero who loves oatmeal want in his house?"
+  },
+  {
+    "conversation.49.message1": "By gum, I've think I've got it! Let's get back to work!"
+  },
+  {
+    "conversation.49.message2": "I love it. It's perfect! How did ya know I needed one of these, gnomes?"
+  },
+  {
+    "conversation.49.message3": "A state-of-the-art bowling alley in your basement?"
+  },
+  {
+    "conversation.49.message4": "No... this cupholder. And in my favorite armchair! There's no place like home, am I right, boys?"
+  },
+  {
+    "conversation.49.message5": "*whispers* I think he means the hole we accidentally cut during renovations."
+  },
+  {
+    "conversation.49.message6": "Anything for you, Mr. Bunyan."
+  },
+  {
+    "conversation.50.message1": "Wonderous! I love the smell of fresh coral in the morning. "
+  },
+  {
+    "conversation.51.message1": "Now it really feels like home!"
+  },
+  {
+    "conversation.51.message2": "Maybe if we keep digging around for coral we'll find buried treasure?"
+  },
+  {
+    "conversation.52.message1": "Hooray, more coral! I think I need to throw a houswarming party to celebrate. Gnomes, could you help set up?"
+  },
+  {
+    "conversation.52.message2": "Will there be lawn games? We're big on lawns."
+  },
+  {
+    "conversation.53.message1": "What else do we need for my housewarming party? Treats, maybe? Fresh sardines always go over well!"
+  },
+  {
+    "conversation.53.message2": "Finally, someone with taste!"
+  },
+  {
+    "conversation.53.message3": "Hmm... It's too quiet in here. We must fix that!"
+  },
+  {
+    "conversation.54.message1": "Excellent job, gnomes! Just testing out some music for the housewarming party now. What do you think? Isn't it beautiful?"
+  },
+  {
+    "conversation.54.message2": "Is that the sound of something dying?"
+  },
+  {
+    "conversation.54.message3": "No silly, it's the barking of seals at sunrise! So soothing."
+  },
+  {
+    "conversation.55.message1": "There's some sort of growth outside my door... is that supposed to be there?"
+  },
+  {
+    "conversation.55.message2": "Um. That's grass, Princess. It comes pretty standard here."
+  },
+  {
+    "conversation.55.message3": " 'Grass.' What an odd word."
+  },
+  {
+    "conversation.56.message1": "Oh, wow! This place is beautiful! It's just looking a bit empty... how about some decorations for the housewarming?"
+  },
+  {
+    "conversation.56.message2": "I did pick up this FANTASTIC strand of kelp the other day! "
+  },
+  {
+    "conversation.57.message1": "This new home is ALMOST perfect! Now we just need a ballroom."
+  },
+  {
+    "conversation.57.message2": "A ballroom? Like for dancing? With... legs?"
+  },
+  {
+    "conversation.57.message3": "Of course, silly!"
+  },
+  {
+    "conversation.57.message4": "*whispers* Do you want to tell her or should I, Chuck?"
+  },
+  {
+    "conversation.58.message1": "Hey Princess, where should we put these gadgets and gizmos and thingamabobs? The new basement?"
+  },
+  {
+    "conversation.58.message2": "What do you think I am, some kind of garbage collector? Recyle them!"
+  },
+  {
+    "conversation.58.message3": "You don't even want the fork? Okay, then..."
+  },
+  {
+    "conversation.58.message4": "Just a few more touches left to make before this home is complete! If only Papa could see me now. Living on land with the humans!"
+  },
+  {
+    "conversation.59.message1": "It's beautiful! It's like Papa always said, a school of fish in the mouth of a whale is two hammerheads waiting to strike!"
+  },
+  {
+    "conversation.59.message2": "*whispers* Does anyone know what that means?"
+  },
+  {
+    "conversation.59.message3": "I love my new land home! This terrible fog can't stop us if we work together!"
+  },
+  {
+    "conversation.60.message1": "Oh... a hairbrush! I know someone quite keen on hair products... can't shut up about them, actually."
+  },
+  {
+    "conversation.60.message2": "Let's find more and find out who!"
+  },
+  {
+    "conversation.61.message1": "Another brush... lovely."
+  },
+  {
+    "conversation.61.message2": "You don't sound too happy about that, Princess."
+  },
+  {
+    "conversation.61.message3": "No, of course I am! Why wouldn't I be happy about finding more perfect stupid royal combs?"
+  },
+  {
+    "conversation.61.message4": "*whispers* Seems like she's in a bad mood... let's get back to work."
+  },
+  {
+    "conversation.62.message1": "Huzzah! I'm the Lord of Hairbrushes!"
+  },
+  {
+    "conversation.62.message2": "More like the Lord of Hardly Washes! Now back to work."
+  },
+  {
+    "conversation.63.message1": "Wow! This one's shiny. And smells great."
+  },
+  {
+    "conversation.63.message2": "I don't know. Smells kind of like swamp to me."
+  },
+  {
+    "conversation.63.message3": "Uh... is something wrong, Princess?"
+  },
+  {
+    "conversation.63.message4": "No! Nothing's wrong! Keeping finding combs... if you must."
+  },
+  {
+    "conversation.64.message1": "Chuck, have you noticed our brushes mysteriously disappearing?"
+  },
+  {
+    "conversation.64.message2": "You know what they say! Hair today, gone tomorrow..."
+  },
+  {
+    "conversation.65.message1": "How many more of these do we need?"
+  },
+  {
+    "conversation.65.message2": "I'm counting: 32 of the small, 25 with the handle, carry the seven..."
+  },
+  {
+    "conversation.65.message3": "Stop! You're making my head spin. How about you make like an axe and get back to chopping!"
+  },
+  {
+    "conversation.65.message4": "But... I'm a gnome, not an axe..."
+  },
+  {
+    "conversation.66.message1": "Holy cannoli... Princess, have YOU been hoarding the combs?! We found a stash in your living room."
+  },
+  {
+    "conversation.66.message2": "I confess! It's me! I've been stealing your brushes! "
+  },
+  {
+    "conversation.66.message3": "I'm shocked! And stunned! Aghast, too!"
+  },
+  {
+    "conversation.66.message4": "I'm so sorry, my gnomish friends... it's just... Well, you'll see why when we finish merging these."
+  },
+  {
+    "conversation.67.message1": "Helloooo world! Oh, it's you. Did you finally cave in and accept my makeover offer?"
+  },
+  {
+    "conversation.67.message2": "Those ends need... help."
+  },
+  {
+    "conversation.67.message3": "No, actually! We're just here clearing out all this fog and saving the Kingdom, if you haven't noticed!"
+  },
+  {
+    "conversation.67.message4": "Sorry. Haven't. I'm too distracted by all the bad hair I'm seeing."
+  },
+  {
+    "conversation.67.message5": "Does she come with an off button?"
+  },
+  {
+    "conversation.68.message1": "An anchor! Oh, how wonderful!"
+  },
+  {
+    "conversation.68.message2": "Perhaps it belongs to a pirate... that would be delightful!"
+  },
+  {
+    "conversation.69.message1": "Yuck! An anchor. I bet it belongs to a dirty pirate. "
+  },
+  {
+    "conversation.69.message2": "Excuse you! Pirates are noble caretakers of the sea!"
+  },
+  {
+    "conversation.69.message3": "A mermaid WOULD say that. Go ahead, follow the anchors and find out yourself."
+  },
+  {
+    "conversation.70.message1": "What an elegant anchor! Ah, and it smells just like home."
+  },
+  {
+    "conversation.70.message2": "Or like a dirty scoundrel pirate."
+  },
+  {
+    "conversation.70.message3": "Enough! Surely not everyone feels as you do about pirates. Perhaps we should take a poll?"
+  },
+  {
+    "conversation.71.message1": "This anchor is so beautiful... just like your hair, Rapunzel!"
+  },
+  {
+    "conversation.71.message2": "Do you need something?"
+  },
+  {
+    "conversation.71.message3": "Well... Peter and I are taking a poll. What are your thoughts on pirates?"
+  },
+  {
+    "conversation.71.message4": "Style: good. Puffy sleeves are hot right now. Hygiene: terrible. It's a draw."
+  },
+  {
+    "conversation.71.message5": "Hmm. Maybe a few more anchors will help sort this out..."
+  },
+  {
+    "conversation.72.message1": "Doesn't this anchor make you think of pirates? "
+  },
+  {
+    "conversation.72.message2": "Not this particular one, no."
+  },
+  {
+    "conversation.72.message3": "Well, whatever. We're taking a poll. Do you like pirates, yes or no?"
+  },
+  {
+    "conversation.72.message4": "Depends. Do they have treasure?"
+  },
+  {
+    "conversation.72.message5": "I'm going to put you down as a 'no'."
+  },
+  {
+    "conversation.73.message1": "So far I have 1 neutral, 1 yes, and 1 raspberry sound on the do-we-like pirates poll. And more anchors!"
+  },
+  {
+    "conversation.73.message2": "I'm just supposed to trust your results? You're a mermaid!"
+  },
+  {
+    "conversation.73.message3": "Rude! Admittedly, some of my cousins haven't always been the nicest to humans..."
+  },
+  {
+    "conversation.74.message1": "What a high-quality anchor! Someone must have spent a lot of money on it."
+  },
+  {
+    "conversation.74.message2": "Yeah, I bet a dirty pirate DID spend a lot of stolen coin on it."
+  },
+  {
+    "conversation.74.message3": "Oh, will you quit it?! Let's keep merging and see which one of us is right!"
+  },
+  {
+    "conversation.75.message1": "Ahoy! To what do I owe this great honor?"
+  },
+  {
+    "conversation.75.message2": "I knew it! It's not a pirate, it's Sinbad!"
+  },
+  {
+    "conversation.75.message3": "Hey! I recognize you. I LOVED your show."
+  },
+  {
+    "conversation.75.message4": "What? You must be mistaken. I'm Sinbad the Sailor, the Great Adventurer, Conquerer of the Seas!"
+  },
+  {
+    "conversation.75.message5": "Three capitalized titles? Overkill much?"
+  },
+  {
+    "conversation.76.message1": "You know what would make this work go faster?"
+  },
+  {
+    "conversation.76.message2": "Oh! I know! A TIME MACHINE."
+  },
+  {
+    "conversation.76.message3": "No... I call it the Merge 5 Bonus!"
+  },
+  {
+    "conversation.76.message4": "When you merge 5 items, you get a bonus item of the next level! Every fogging time!"
+  },
+  {
+    "conversation.76.message5": "So you're saying it's a 20% improvement of the proletariat's efficiency... It's no time machine, but I'll bite."
+  },
+  {
+    "conversation.77.message1": "People tell me I have a sweet tooth... They're not wrong. Let me show you some delicious candy magic!"
+  },
+  {
+    "conversation.78.message1": "Woah! Somebody's been hiding chests in trees."
+  },
+  {
+    "conversation.78.message2": "Let's open it! There might be useful goodies inside."
+  },
+  {
+    "conversation.79.message1": "Let's see what else we can discover!"
+  },
+  {
+    "conversation.79.message2": "Magic is everywhere in the land of EverMerge!"
+  },
+  {
+    "conversation.80.message1": "In the land of EverMerge, every discovery is just a merge or two away!"
+  },
+  {
+    "conversation.80.message2": "Go ahead! We can do it!"
+  },
+  {
+    "conversation.81.message1": "Surprisingly, these gnomes are fantastic lumberjacks!"
+  },
+  {
+    "conversation.81.message2": "Oh, you're just flattering us! Please... don't let us stop you."
+  },
+  {
+    "conversation.82.message1": "Oh no... candy tree season is over! No matter, there are other delicious ingredients in the land of EverMerge!"
+  },
+  {
+    "conversation.82.message2": "Meowrvelous! Maybe we can find some sardine-growing trees now?"
+  },
+  {
+    "conversation.83.message1": "Wheat flowering season is over already?! Time flies when you're having fun!"
+  },
+  {
+    "conversation.83.message2": "I can't WHEAT to see what ingredients we find next!"
+  },
+  {
+    "conversation.84.message1": "Apple picking season is over! I didn't even get to tell my apple joke. Hey Buck, how do you make an apple turnover?"
+  },
+  {
+    "conversation.84.message2": "How?"
+  },
+  {
+    "conversation.84.message3": "Push it down a hill!"
+  },
+  {
+    "conversation.85.message1": "Carrot growing season is over! I wonder what new ingredients we'll find next!"
+  },
+  {
+    "conversation.85.message2": "Can we add cioppino to the menu yet?"
+  },
+  {
+    "conversation.86.message1": "That's enough stones to start building."
+  },
+  {
+    "conversation.86.message2": "As my friends the Little Pigs always say, go stone or don't go home. Seriously, there might be a wolf around."
+  },
+  {
+    "conversation.87.message1": "A few more stones and this will be a stalwart fortification!"
+  },
+  {
+    "conversation.87.message2": "What about additional escape routes? One can never be too careful."
+  },
+  {
+    "conversation.87.message3": "Erm... we can add some more exits?"
+  },
+  {
+    "conversation.88.message1": "Behold! What do you think, Puss in Boots? We added those emergency exits you asked about. There's even some trap doors!"
+  },
+  {
+    "conversation.88.message2": "Hmm. Perhaps it needs some sort of defense system? Are lasers in the budget?"
+  },
+  {
+    "conversation.88.message3": "Should we be worried?"
+  },
+  {
+    "conversation.89.message1": "So, update on the renovation: we couldn't get the lasers you wanted, but we did put in some scary-looking gargoyles."
+  },
+  {
+    "conversation.89.message2": "Not ideal, but I'll make it work. Every great Kingdom should have an intimidating stone keep! Can we add a moat?"
+  },
+  {
+    "conversation.89.message3": "We'll see what we can do..."
+  },
+  {
+    "conversation.90.message1": "Check it out! Waiting on a few permits for the moat install, but we did set up a fishline with some bells around the perimeter..?"
+  },
+  {
+    "conversation.90.message2": "Oh! Bells! I love playing with bells! Ahem, I mean, perfect. Yes, that seems like it should hold up."
+  },
+  {
+    "conversation.90.message3": "Against... what?"
+  },
+  {
+    "conversation.91.message1": "Those flowers are so beautiful! Almost as beautiful as my hair."
+  },
+  {
+    "conversation.92.message1": "Achoo! Are all these flowers necessary? Or maybe it's all the hair products I'm allergic to!"
+  },
+  {
+    "conversation.92.message2": "You know, I have a friend who's allergic to cats. So, like, maybe you're allergic to yourself?"
+  },
+  {
+    "conversation.92.message3": "Hilarious! Well, at least I've never been trapped in a tower by some old grandma!"
+  },
+  {
+    "conversation.93.message1": "Oh, how wonderful! A sweet little drum. I'm sure I've seen this somewhere before."
+  },
+  {
+    "conversation.94.message1": "Pa rum pum bop ba! I love a good drum beat, don't you Chuck?"
+  },
+  {
+    "conversation.94.message2": "I would believe you if you were drumming to any discernible rhythm."
+  },
+  {
+    "conversation.94.message3": "Exsqueeze me? We have rhythm in spades!"
+  },
+  {
+    "conversation.94.message4": "Oh? I bet I can drum better than you. Perhaps this calls for a drum-off?"
+  },
+  {
+    "conversation.95.message1": "Folks, we're gathering more drums for the drum-off! Everyone's invited!"
+  },
+  {
+    "conversation.95.message2": "Lovely! Just like our annual Squid Bounce at home! Admittedly, it was quite a bit more inky."
+  },
+  {
+    "conversation.95.message3": "Something tells me it's not at all like that."
+  },
+  {
+    "conversation.96.message1": "How are you feeling about this drum challenge against the gnomes, Puss in Boots? Training going okay?"
+  },
+  {
+    "conversation.96.message2": "Training? All I need is the rhythm in my bones!"
+  },
+  {
+    "conversation.96.message3": "For I am Puss in Boots, master swordsman and... legendary drummer!"
+  },
+  {
+    "conversation.96.message4": "A cat drumming? I swear I saw a video on the internet about this once."
+  },
+  {
+    "conversation.97.message1": "Great new drums, gnomes! How are you feeling before the big drum-off against Puss in Boots, boys?"
+  },
+  {
+    "conversation.97.message2": "We're feeling strong! Limber! Raring to go!"
+  },
+  {
+    "conversation.97.message3": "And we're building a team of the best drums behind us! These drums are giving it 110 percent!"
+  },
+  {
+    "conversation.98.message1": "All right, folks... Welcome to EverMerge's first-ever drumming battle!"
+  },
+  {
+    "conversation.98.message2": "In one corner we have... Puss in Boots! He once put on a pair of boots, the rest is history!"
+  },
+  {
+    "conversation.98.message3": "In the other corner... our favorite gnomes! Three-time tree-chopping EverMerge champions!"
+  },
+  {
+    "conversation.98.message4": "Let's have a good, clean, drum-off. Ready everyone?"
+  },
+  {
+    "conversation.99.message1": "We're in the middle of the drumming challenge, folks! The drums are getting bigger and louder!"
+  },
+  {
+    "conversation.99.message2": "Wait a second... I'm hearing that our participants have just gotten a bad arm cramp."
+  },
+  {
+    "conversation.99.message3": "They're checking the tapes... It's a tie between Puss in Boots and the gnomes! Maybe our special guest will weigh in?"
+  },
+  {
+    "conversation.100.message1": "What's with all the banging drums? Can't a boy be stuck in cursed fog in peace?"
+  },
+  {
+    "conversation.100.message2": "You missed one heck of a drum-off!"
+  },
+  {
+    "conversation.100.message3": "We're going to need more of your drums, kid. A rematch is in order!"
+  },
+  {
+    "conversation.100.message4": "I'd love to stick around to see how it all plays out, but I've got an appointment to not care about this later."
+  },
+  {
+    "conversation.101.message1": "WOW! These shoes are cute as a button!"
+  },
+  {
+    "conversation.102.message1": "Oh my FOG, more shoes! Is this a dream come true?"
+  },
+  {
+    "conversation.102.message2": "I need to find this shoemaker ASAP. I want a custom design!"
+  },
+  {
+    "conversation.103.message1": "This shoe has some seriously talented stitch work..."
+  },
+  {
+    "conversation.103.message2": "Oh, it says it right on the package: mousepawmade with love. I know mouse stiches when I see them!"
+  },
+  {
+    "conversation.104.message1": "Take a whiff of this shoe, what do you smell?"
+  },
+  {
+    "conversation.104.message2": "You want me to smell someone's shoe? How exciting! What a thrilling land custom."
+  },
+  {
+    "conversation.104.message3": "It smells like fresh pumpkin doesn't it? Totally weird. But it totally works."
+  },
+  {
+    "conversation.105.message1": "There are traces of fairy godmother dust on this shoe!"
+  },
+  {
+    "conversation.105.message2": "Is that good?"
+  },
+  {
+    "conversation.105.message3": "Is that good?! You're kidding, right? It's all the rage now."
+  },
+  {
+    "conversation.106.message1": "Wow! Are the jewels on this shoe beak-fastened by sparrows?"
+  },
+  {
+    "conversation.106.message2": "How can you even tell?"
+  },
+  {
+    "conversation.106.message3": "It's obvious!! It's so hard to be the only person with good taste for miles."
+  },
+  {
+    "conversation.107.message1": "There's a little soot on this shoe... no matter! A little makeup remover and it's as good as new!"
+  },
+  {
+    "conversation.107.message2": "What are you doing with all those shoes?"
+  },
+  {
+    "conversation.107.message3": "None of your beeswax, Princess! Get your own shoes!"
+  },
+  {
+    "conversation.108.message1": "What time is it? Is it midnight yet?! I've got to get going!"
+  },
+  {
+    "conversation.108.message2": "Wait! Did you design these shoes? I mean, I expected someone more impressive, but hey! I'll make it work."
+  },
+  {
+    "conversation.108.message3": "Ex...excuse me?"
+  },
+  {
+    "conversation.108.message4": "I want a custom design. I'm thinking the best material will be my own hair. You see, it's extremely beautiful and sturdy."
+  },
+  {
+    "conversation.109.message1": "Mirror, mirror, on the wall - but which wall to put it on? Decorating is so hard."
+  },
+  {
+    "conversation.110.message1": "Wow! Looks just like a talking mirror I once knew."
+  },
+  {
+    "conversation.110.message2": "That gives me an idea. I just need to find another mirror..."
+  },
+  {
+    "conversation.111.message1": "Haha! Wow! You're so funny, mirror."
+  },
+  {
+    "conversation.111.message2": "Are you... talking to that mirror?"
+  },
+  {
+    "conversation.111.message3": "Why, yes! It's a magic mirror, obviously. What? You don't speak mirror?"
+  },
+  {
+    "conversation.111.message4": "Of course I do! I'm just... rusty. So, what is it saying, then? Anything good?"
+  },
+  {
+    "conversation.111.message5": "Says fame and fortune awaits you! But only if you start giving back. Got any extra coin?"
+  },
+  {
+    "conversation.112.message1": "Here comes Rapunzel! This'll be good... Hey! I've got a message from this mirror to deliver."
+  },
+  {
+    "conversation.112.message2": "A magic mirror? I thought we got rid of those after the apple incident."
+  },
+  {
+    "conversation.112.message3": "Nope! And this one's telling me to tell you to that your current conditioner may be causing hair loss."
+  },
+  {
+    "conversation.112.message4": "Noooo, anything but my hair!!"
+  },
+  {
+    "conversation.113.message1": "Hey gnomes! Got a second? This talking mirror here has a message for you."
+  },
+  {
+    "conversation.113.message2": "You speak mirror? I haven't practiced mine in ages... ?OD UOY OD WOH, RORRIM OLLEH"
+  },
+  {
+    "conversation.113.message3": "Woah, Buck! Easy, I think you might've just insulted the mirror."
+  },
+  {
+    "conversation.113.message4": "Forgive us, oh mighty magic mirror!"
+  },
+  {
+    "conversation.114.message1": "Ah, Puss in Boots! Curious to know what this mirror has to say? It just so happens that I can speak..."
+  },
+  {
+    "conversation.114.message2": "Please, I know a scam when I see one! Nice try though, kid."
+  },
+  {
+    "conversation.115.message1": "*taps on mirror* Hello, dearest friend! How nice to meet you!"
+  },
+  {
+    "conversation.115.message2": "What... are you doing?"
+  },
+  {
+    "conversation.115.message3": "Trying to make the mirror to feel welcome! It can be scary in a new land, and I heard you're the only one who speaks mirror."
+  },
+  {
+    "conversation.116.message1": "What's going on? Are you trying to poison me?!"
+  },
+  {
+    "conversation.116.message2": "Lady, if I was trying to poison you, do you think I'd tell you?"
+  },
+  {
+    "conversation.116.message3": "Well... are you?"
+  },
+  {
+    "conversation.116.message4": "I don't know, am I?"
+  },
+  {
+    "conversation.116.message5": "What? Who are we poisoning?"
+  },
+  {
+    "conversation.117.message1": "I'll check every room to make sure it's clear of spindles!"
+  },
+  {
+    "conversation.118.message1": "Flowers would add some color to this place!"
+  },
+  {
+    "conversation.119.message1": "Something feels like it's missing... ah! A cozy napping couch, maybe?"
+  },
+  {
+    "conversation.119.message2": "Are you sure? You know what happened last time."
+  },
+  {
+    "conversation.120.message1": "It's so nice to have a castle to call home again!"
+  },
+  {
+    "conversation.121.message1": "Looking good, gnomes! But what about the scratching post room? I've got some fancy ones en route. Did we forget about it?"
+  },
+  {
+    "conversation.121.message2": "Buck, was that in the updated blueprints?"
+  },
+  {
+    "conversation.121.message3": "Always check the blueprints!"
+  },
+  {
+    "conversation.122.message1": "What on earth is that sound coming from the house?"
+  },
+  {
+    "conversation.122.message2": "That? Why, it is a recording of a lion's roar. Intimidating, isn't it?"
+  },
+  {
+    "conversation.122.message3": "Aww, the cute Kitty is vewwy scawy! Do you want a scratch under your chin?"
+  },
+  {
+    "conversation.122.message4": "Stop that! Wait, actually, a little to the left."
+  },
+  {
+    "conversation.123.message1": "This is a solid keep now, indeed. It might even stand a chance against the giant!"
+  },
+  {
+    "conversation.123.message2": "GIANT?! What are you talking about??"
+  },
+  {
+    "conversation.123.message3": "It's a long tale... but, let's just say I will not be hiding any extra cards at poker night any longer."
+  },
+  {
+    "conversation.124.message1": "FEE FI FO FUM... just kidding. Do you like my giant impression?"
+  },
+  {
+    "conversation.124.message2": "*hiss* Do not ever surprise Puss in Boots like that!"
+  },
+  {
+    "conversation.124.message3": "Fine, fine... once we're done with your keep, you won't ever have to worry about peeved giants!"
+  },
+  {
+    "conversation.125.message1": "Oooo, moon rocks! Pretty. What's the matter, Paul?"
+  },
+  {
+    "conversation.125.message2": "Oh jeez... I... I think I just had an alien encounter."
+  },
+  {
+    "conversation.125.message3": "Do we have those here? Chuck, check the files. No, not those, the Y files!"
+  },
+  {
+    "conversation.126.message1": "More moon rocks... What if aliens are infiltrating EverMerge!"
+  },
+  {
+    "conversation.126.message2": "Do we have the rights for that kind of crossover?"
+  },
+  {
+    "conversation.126.message3": "We'll need a secret base to operate our investigation! And a wall where we can put up sticky notes and draw lines between them! "
+  },
+  {
+    "conversation.127.message1": "We've gathered more moon rock samples, but your testimony will help get to the bottom of this incident."
+  },
+  {
+    "conversation.127.message2": "Care to elaborate on your alien encounter, Paul?"
+  },
+  {
+    "conversation.127.message3": "You're recording this? Oh, okay, you betcha. Well... I was doing a little gardening."
+  },
+  {
+    "conversation.127.message4": "Everything went fuzzy and bright and the alien was right there plain as day! When I came to again, it was gone."
+  },
+  {
+    "conversation.128.message1": "We have more moon rocks, but still no evidence of aliens! Confounding."
+  },
+  {
+    "conversation.128.message2": "Where is the truth! Is the truth here or there?"
+  },
+  {
+    "conversation.128.message3": "I would like the truth anywhere!"
+  },
+  {
+    "conversation.129.message1": "Perfect! Our new forensics area will run tests on these moon rocks and see if anything's amiss."
+  },
+  {
+    "conversation.129.message2": "One step ahead of you: I just analyzed them. They are rocks."
+  },
+  {
+    "conversation.129.message3": "We can't rule anything out, Kitty! Are you grumpy over your litter box again?"
+  },
+  {
+    "conversation.129.message4": "Do not speak about my litter box in public!"
+  },
+  {
+    "conversation.130.message1": "These moon rocks can only tell us so much. What else do you remember about your alien encounter, Paul? "
+  },
+  {
+    "conversation.130.message2": "Did it seem to enjoy bike rides? Did it ever use the word 'Exterminate'? Was it from a parallel underworld?"
+  },
+  {
+    "conversation.130.message3": "No! None of that stuff! Wow, you know a lot about aliens."
+  },
+  {
+    "conversation.130.message4": "I am telling you, he probably just ate something rotten."
+  },
+  {
+    "conversation.131.message1": "I'm so glad we installed this new coffee machine! Now we can really have an investigative montage."
+  },
+  {
+    "conversation.132.message1": "Is a medical exam really necessary? Can't we just keep collecting more moon rocks, follow the trail...?"
+  },
+  {
+    "conversation.132.message2": "You said you had an encounter! We have to be sure you aren't implanted with alien technology, Paul!"
+  },
+  {
+    "conversation.132.message3": "Trust no one!"
+  },
+  {
+    "conversation.133.message1": "Wow! My new place rocks! Ha, get it? Wait, what's everyone doing here?"
+  },
+  {
+    "conversation.133.message2": "We're investigating Paul's alien encounter! Did you see anything? Why are you laughing?"
+  },
+  {
+    "conversation.133.message3": "All he encountered was a rock to the head! I was practicing my pitch and he got in the way."
+  },
+  {
+    "conversation.133.message4": "Come to think of it... I do remember a high-pitched cackle as everything went dark. I thought it was how they talked!"
+  },
+  {
+    "conversation.133.message5": "See? What did I tell you."
+  },
+  {
+    "conversation.134.message1": "Sweet! A moon mine! We can use it to get more moon rocks so I can stop sleeping on Paul's couch."
+  },
+  {
+    "conversation.134.message2": "He's way too much of a morning person."
+  },
+  {
+    "conversation.135.message1": "Aha, a ship mine! Looks like we'll be able to get everything in shipshape here in no time."
+  },
+  {
+    "conversation.135.message2": "You're proud of yourself for that one, aren't you?"
+  },
+  {
+    "conversation.136.message1": "Finally! A flower mine!"
+  },
+  {
+    "conversation.136.message2": "That's a thing? Can we make organic cosmetics from the flowers? They're big right now."
+  },
+  {
+    "conversation.136.message3": "Um... Let's just start and see how it works."
+  },
+  {
+    "conversation.137.message1": "That's enough acorns to start building!"
+  },
+  {
+    "conversation.137.message2": "Wow! My very own home. I wonder what living without Grandmother will be like."
+  },
+  {
+    "conversation.138.message1": "I love how the new house is coming along, Red! Hey, what's the matter?"
+  },
+  {
+    "conversation.138.message2": "I've never lived alone before! I don't know if I'll like it."
+  },
+  {
+    "conversation.138.message3": "Nonsense! You know what would be the perfect way to celebrate...? A SLEEPOVER!"
+  },
+  {
+    "conversation.138.message4": "Once I held one that lasted years! 100 years. Okay, I was actually just asleep... that's beside the point."
+  },
+  {
+    "conversation.139.message1": "Welcome to the first official sleepover at Red's house!"
+  },
+  {
+    "conversation.139.message2": "How marvelous! What games shall we play? Swing the Jellyfish was always a childhood favorite."
+  },
+  {
+    "conversation.139.message3": "Uh... how about Truth or Dare? You'll both love it!"
+  },
+  {
+    "conversation.140.message1": "Okay, Red, time to celebrate your new place! Ready to play your first Truth or Dare? It's the perfect sleepover fare."
+  },
+  {
+    "conversation.140.message2": "*gulp* Yes... um, dare?"
+  },
+  {
+    "conversation.140.message3": "I dare you to... put chocolate syrup on a pickle and eat it!"
+  },
+  {
+    "conversation.140.message4": "WHAT?! I could never! Grandmother always said no sweets after 7pm. And never on a pickle!"
+  },
+  {
+    "conversation.141.message1": "All right, I think I understand how to play this 'Truth or Dare' game now... "
+  },
+  {
+    "conversation.141.message2": "Red, I dare you to... go outside and do the Kraken Crawl!!"
+  },
+  {
+    "conversation.141.message3": "Mermaid, nobody's ever heard of that."
+  },
+  {
+    "conversation.141.message4": "Also, I could NEVER! Grandmother says dancing is for ding-dongs trying to sell you something."
+  },
+  {
+    "conversation.142.message1": "Okay, let's keep this sleepover on track! We have GOT to find a dare you can do, Red. Hmm..."
+  },
+  {
+    "conversation.142.message2": "I dare you to... put used dishes in the sink without rinsing them first?"
+  },
+  {
+    "conversation.142.message3": "ARE YOU INSANE? Grandmother says that's how you ruin a dish! You always rinse!"
+  },
+  {
+    "conversation.143.message1": "*whispers* Between you and me, this sleepover with Red isn't going so well."
+  },
+  {
+    "conversation.143.message2": "Is this not what all sleepovers on land are like? Is it time to play Sharks and Whales yet?"
+  },
+  {
+    "conversation.144.message1": "Are you sure you're having fun? This whole sleepover was to celebrate your new home!"
+  },
+  {
+    "conversation.144.message2": "I am, promise!"
+  },
+  {
+    "conversation.144.message3": "How about a new dare, then? I dare you to... skip brushing your teeth before bedtime!"
+  },
+  {
+    "conversation.144.message4": "NEVER! Grandmother says only freeloaders don't brush their teeth before bedtime."
+  },
+  {
+    "conversation.145.message1": "Red, we've whittled down all the dares you won't do because of your Grandmother... so let's try something new!"
+  },
+  {
+    "conversation.145.message2": "I dare you to... not listen to your Grandmother for once!"
+  },
+  {
+    "conversation.145.message3": "I don't understand the dare. Is this a joke?"
+  },
+  {
+    "conversation.145.message4": "Oh for fog's sake..."
+  },
+  {
+    "conversation.146.message1": "Forget Truth or Dare. Your new house is tailormade to you! What about we just make friendship bracelets to celebrate?"
+  },
+  {
+    "conversation.146.message2": "Well... Grandmother does always say a woman's hand is what holds together the world!"
+  },
+  {
+    "conversation.146.message3": "So, I think she'd like it if we decorated them!"
+  },
+  {
+    "conversation.146.message4": "Finally! Now you can really settle into this place!"
+  },
+  {
+    "conversation.147.message1": "Achoo! We can't go on like this! Your flowers are going to be the death of me."
+  },
+  {
+    "conversation.147.message2": "You have 8 other lives, don't you?"
+  },
+  {
+    "conversation.147.message3": "Why I oughta..."
+  },
+  {
+    "conversation.148.message1": "Ohhh! The flowers around here totally remind me of a bouquet I once put together for Beast."
+  },
+  {
+    "conversation.148.message2": "For Beauty? How lovely!"
+  },
+  {
+    "conversation.148.message3": "You'd think! He just kept going on and on about roses. Roses this, roses that, blah blah blah. Like, there's all kinds of flowers out there you know?"
+  },
+  {
+    "conversation.148.message4": "I heard Beauty doesn't even LIKE roses..."
+  },
+  {
+    "conversation.149.message1": "What do you think of my renovations, Paul? Don't you just LOVE my new yoga studio?!"
+  },
+  {
+    "conversation.149.message2": "Err... you betcha. Seems real peaceful in here."
+  },
+  {
+    "conversation.149.message3": "Like I always say, got to keep your mind, body, and spirit cleansed. Also, limber enough to climb down a tower."
+  },
+  {
+    "conversation.150.message1": "Rapunzel, I was looking at the blueprints for the place... you're sure you wanted an 'all charcoal room' added?"
+  },
+  {
+    "conversation.150.message2": "Duh! Charcoal is a detoxifier. Can't you just feel the toxins flowing right out of you when you walk in?"
+  },
+  {
+    "conversation.150.message3": "*whispers* Buck, what does a toxin look like?"
+  },
+  {
+    "conversation.151.message1": "Oh, hello Sleeping Beauty. Funny you should stop by. The gnomes just installed the hair salon, finally going to let me give that 'do a whirl?"
+  },
+  {
+    "conversation.151.message2": "What's so wrong with my hair?!"
+  },
+  {
+    "conversation.151.message3": "If you have to ask..."
+  },
+  {
+    "conversation.152.message1": "Check it out, everyone! This is where the MAGIC happens... my studio. The lighting in here is great, right?"
+  },
+  {
+    "conversation.152.message2": "Rapunzel, none of the photos you're showing us look anything like you."
+  },
+  {
+    "conversation.152.message3": "Excuse me? My 1.2 million followers would disagree with you. People LOVE my hair inspiration posts!"
+  },
+  {
+    "conversation.152.message4": "It's true, I've gotten some great beard tips."
+  },
+  {
+    "conversation.153.message1": "Puss in Boots?! Is that you? You're so... fluffy! And polished?"
+  },
+  {
+    "conversation.153.message2": "It sure is! AND he smells like Bouquet of Towers. It's my signature scent, too."
+  },
+  {
+    "conversation.153.message3": "She tricked me into a makeover! You might have won the battle, Princess Hairspray, but the war is still ahead..."
+  },
+  {
+    "conversation.153.message4": "Yeah, whatever. On that note, my place is officially open for makeover montages! Any takers?"
+  },
+  {
+    "conversation.154.message1": "Canvas rolls! Perfect. A few more of these and I can start building my tent up again."
+  },
+  {
+    "conversation.155.message1": "There's only one thing that could make this place better: Charging admission!"
+  },
+  {
+    "conversation.155.message2": "Attention EverMerge residents: come one, come all! Pinocchio's Amazing Circus of Fear is open!"
+  },
+  {
+    "conversation.155.message3": "Do you dare enter and reveal your biggest fear?"
+  },
+  {
+    "conversation.156.message1": "The Circus of Fear seems scary, but... I've got a basket to deliver, and it's the fastest route through!"
+  },
+  {
+    "conversation.156.message2": "AHHHH!!! Make it stop!!!"
+  },
+  {
+    "conversation.156.message3": "Your biggest fear... is your Grandmother? I thought it was wolves?"
+  },
+  {
+    "conversation.156.message4": "You've never seen Grandmother when she's watching her stories and gets interrupted."
+  },
+  {
+    "conversation.157.message1": "A circus tent! How quaint."
+  },
+  {
+    "conversation.157.message2": "It's not just any circus... it's the Amazing Circus of Fear! Step right up. What do you see?"
+  },
+  {
+    "conversation.157.message3": "Oh my fog!!! It's me, but I don't have legs!!"
+  },
+  {
+    "conversation.157.message4": "*whispers* Seriously, should someone tell her?"
+  },
+  {
+    "conversation.158.message1": "Paul Bunyan! Do you dare enter the Amazing Circus of Fear?"
+  },
+  {
+    "conversation.158.message2": "Oh jeez, well I was just passing through, but I'll take a gander!"
+  },
+  {
+    "conversation.158.message3": "UFF DA! SPIDERS!"
+  },
+  {
+    "conversation.158.message4": "Really? But they're so... tiny."
+  },
+  {
+    "conversation.158.message5": "With four times the number of legs!"
+  },
+  {
+    "conversation.159.message1": "Welcome to the Circus of Fear, Sleeping Beauty! Do you dare enter?"
+  },
+  {
+    "conversation.159.message2": "Circus of what now? Well, I suppose! Why not? You seem very proud of it!"
+  },
+  {
+    "conversation.159.message3": "AHHH!!! It's an office kitchen. But there's only one coffee machine for everyone to share..."
+  },
+  {
+    "conversation.159.message4": "Worst of all, it's DECAF."
+  },
+  {
+    "conversation.160.message1": "A circus! Nice. Do you have those motorcycles that jump through hoops of fire? I'm into those."
+  },
+  {
+    "conversation.160.message2": "Er... not exactly. See for yourself! If you dare..."
+  },
+  {
+    "conversation.160.message3": "WHAT IN THE ACTUAL FOG. What kind of sick person would have a room full of tax returns?! I'm out of here!"
+  },
+  {
+    "conversation.161.message1": "What do we have here, Buck? *squints* Sign says it's the CIRCUS OF FEAR... cool. Let's go in!"
+  },
+  {
+    "conversation.161.message2": "I REGRET THIS DECISION IMMEDIATELY. It's just Mr. Bunyan standing in a corner telling me how disappointed he is in me!"
+  },
+  {
+    "conversation.161.message3": "I haven't felt so disappointing since we last visited Ma."
+  },
+  {
+    "conversation.162.message1": "We've all been talking about this little circus you have going, and we want our money back! You tricked us!"
+  },
+  {
+    "conversation.162.message2": "Yes, I haven't been able to face Grandmother in days!"
+  },
+  {
+    "conversation.162.message3": "No refunds, sorry. It's in the fine print."
+  },
+  {
+    "conversation.163.message1": "Sleeping Beauty?"
+  },
+  {
+    "conversation.163.message2": "Yes?"
+  },
+  {
+    "conversation.163.message3": "You are officially served with a cease and desist for defamational word choices against Pinocchio, see Section 3B of EverMerge world policy."
+  },
+  {
+    "conversation.163.message4": "What? Is that a thing? You're working for Pinocchio??"
+  },
+  {
+    "conversation.163.message5": "What can I say? The Circus of Fear is a lucrative gig, and business is booming!"
+  },
+  {
+    "conversation.164.message1": "The Circus of Fear is unstoppable! How will we ever fight against it?!"
+  },
+  {
+    "conversation.164.message2": "There's only one way we're going to get through this one, and it's a tale as old as time."
+  },
+  {
+    "conversation.164.message3": "Oh! We're getting the Beast to go intimidate Pinocchio?"
+  },
+  {
+    "conversation.164.message4": "No! We're going to march right in there and face our fears!"
+  },
+  {
+    "conversation.165.message1": "These stones are big enough to start building my lighthouse! Every island needs one."
+  },
+  {
+    "conversation.166.message1": "Ah, our work on this lighthouse reminds me of the time I shipwrecked off the coast of Bali."
+  },
+  {
+    "conversation.166.message2": "I ate nothing but coconuts to survive, until a large raven offered to take me home in exchange for one of my rings."
+  },
+  {
+    "conversation.166.message3": "Wow! A raven? Really?"
+  },
+  {
+    "conversation.167.message1": "A few more merges and we'll be up and running in no time!"
+  },
+  {
+    "conversation.167.message2": "Reminds me of the time I was shipwrecked in the Caribbean with only a matchbook and my sheer will."
+  },
+  {
+    "conversation.167.message3": "Well, that and the pod of dolphins that offered to help."
+  },
+  {
+    "conversation.168.message1": "What a lighthouse! Though it lacks in finery still, it does have such a beautiful view of the sea..."
+  },
+  {
+    "conversation.168.message2": "It reminds me of the time I shipwrecked in the Indian Ocean. I landed on an island of man-eating gorillas, and..."
+  },
+  {
+    "conversation.168.message3": "WHAT?!"
+  },
+  {
+    "conversation.169.message1": "Ah, that salty sea air! What a day to build! Ah, it reminds me of the time I was shipwrecked against the Cliffs of Moher."
+  },
+  {
+    "conversation.169.message2": "Had it not been for the giant snakes that ate my captors, well, who knows how long I'd have been there!"
+  },
+  {
+    "conversation.169.message3": "Is this... for real?"
+  },
+  {
+    "conversation.169.message4": "What, cursed fog is believable but giant snakes aren't?"
+  },
+  {
+    "conversation.170.message1": "Sinbad seems like he's settling into his new place! He sure seems to talk about getting shipwrecked a lot, though. For a sailor, that seems odd."
+  },
+  {
+    "conversation.170.message2": "The ocean kingdom has watched all of them! The one with the iceberg was certainly dramatic."
+  },
+  {
+    "conversation.170.message3": "You'd watch his shipwrecks?"
+  },
+  {
+    "conversation.170.message4": "Of course! Season two was really my favorite, though. Then they got a bit derivative."
+  },
+  {
+    "conversation.171.message1": "Wow! I love the new expansion on the place, Sinbad. The gnomes are doing some fine work!"
+  },
+  {
+    "conversation.171.message2": "They're such good listeners, too! I was just regaling them with the story of my latest shipwreck, it was on the small island of..."
+  },
+  {
+    "conversation.171.message3": "Wait. Before you go on, exactly how many times have you shipwrecked?"
+  },
+  {
+    "conversation.171.message4": "Who can keep track of such things?"
+  },
+  {
+    "conversation.172.message1": "Oh - greetings, everyone! What are we all doing at my place? Coming to see the new aquarium?"
+  },
+  {
+    "conversation.172.message2": "Sinbad, we're worried about you. You keep shipwrecking and we want to make sure you're safe. We all came together and signed you up for sailing lessons."
+  },
+  {
+    "conversation.172.message3": "ME? Sailing lessons?! How dare you insult me! Who would dare to teach Sinbad, Conqueror of the Seas, sailing?"
+  },
+  {
+    "conversation.172.message4": "Erm... that'd be me. I do a little bit of sailing myself!"
+  },
+  {
+    "conversation.173.message1": "How are the sailing lessons with Sinbad going?"
+  },
+  {
+    "conversation.173.message2": "Well, we started by covering sailing knots... but then he got himself tangled, somehow took down a sail, and we shipwrecked."
+  },
+  {
+    "conversation.173.message3": "I don't know how much I can help."
+  },
+  {
+    "conversation.174.message1": "I would like to announce my sailing lessons are over. Paul and I have decided to amicably part ways."
+  },
+  {
+    "conversation.174.message2": "But no matter! My new lighthouse has plenty of space for all of my sailing equipment. I will sail again yet!"
+  },
+  {
+    "conversation.174.message3": "*whispers* So you quit, huh?"
+  },
+  {
+    "conversation.174.message4": "You betcha."
+  },
+  {
+    "conversation.175.message1": "Apple pies, apple tarts, apple fritters... think of all the delicious apple recipes we could make!"
+  },
+  {
+    "conversation.175.message2": "Let's get more so we can start an orchard!"
+  },
+  {
+    "conversation.176.message1": "Carrots? HIYAH!"
+  },
+  {
+    "conversation.176.message2": "What are you doing, Chuck?"
+  },
+  {
+    "conversation.176.message3": "Practicing my carrot-e... I'm a yellow belt."
+  },
+  {
+    "conversation.177.message1": "Mushrooms! Remember that mushroom car I once owned?"
+  },
+  {
+    "conversation.177.message2": "It wasn't pretty, but it sure made a nice shroom shroom sound."
+  },
+  {
+    "conversation.178.message1": "Corn-gratulations! The more corn we gather, the closer we are to harvesting!"
+  },
+  {
+    "conversation.179.message1": "Mmm... mangos. Help me collect more so we can harvest them for smoothies!"
+  },
+  {
+    "conversation.179.message2": "You know what they say, it takes two to mango."
+  },
+  {
+    "conversation.180.message1": "Rainbow flowers! Delicious!"
+  },
+  {
+    "conversation.180.message2": "You can eat those?"
+  },
+  {
+    "conversation.180.message3": "Yeah, they taste like the rainbow."
+  },
+  {
+    "conversation.181.message1": "If we keep merging these, something beautiful will reveal itself!"
+  },
+  {
+    "conversation.181.message2": "You heard the lady, Chuck! Follow your nose to more of these flowers."
+  },
+  {
+    "conversation.181.message3": "The nose always knows!"
+  },
+  {
+    "conversation.182.message1": "The Princess wants us to keep picking flowers!"
+  },
+  {
+    "conversation.182.message2": "If we gather enough, maybe we can make a nice bouquet?"
+  },
+  {
+    "conversation.183.message1": "What a beautiful flower! It'd make a fine centerpiece."
+  },
+  {
+    "conversation.184.message1": "Hmm... I wonder if we can bottle up and sell it as eau de magic flower?"
+  },
+  {
+    "conversation.185.message1": "A few more merges and you'll see something amazing!"
+  },
+  {
+    "conversation.186.message1": "Ah, the rare butterflower!"
+  },
+  {
+    "conversation.186.message2": "Butterwhat?"
+  },
+  {
+    "conversation.186.message3": "Half butterfly, half flower, 100% magical."
+  },
+  {
+    "conversation.187.message1": "What's that chattering noise?"
+  },
+  {
+    "conversation.187.message2": "I think it's Puss in Boots..."
+  },
+  {
+    "conversation.187.message3": "Meowwrrr! Why do you evade me, butterfly!"
+  },
+  {
+    "conversation.187.message4": "Oh, he's chasing the butterflies again."
+  },
+  {
+    "conversation.188.message1": "These moon rocks are all over the place! Did you hear the Princess talking about UFOs? What are those, anyway?"
+  },
+  {
+    "conversation.188.message2": "I think it might stand for Unbelievably Fun Object. I think when we find it, we'll have unbelievable fun!"
+  },
+  {
+    "conversation.189.message1": "Yowza! There are four walk-in closets in this house!"
+  },
+  {
+    "conversation.189.message2": "Who needs that many closets?"
+  },
+  {
+    "conversation.189.message3": "What, doesn't everybody have one for each season?"
+  },
+  {
+    "conversation.190.message1": "What is all that racket?! Your renovations kept me up all night, Rapunzel!"
+  },
+  {
+    "conversation.190.message2": "You know, you might be less grumpy if you let me give you a makeover."
+  },
+  {
+    "conversation.190.message3": "Ha! Perfection can't be made better!"
+  },
+  {
+    "conversation.190.message4": "We'll see about that..."
+  },
+  {
+    "conversation.191.message1": "If you don't mind me asking... how'd ya get the name Sinbad the Sailor anyway?"
+  },
+  {
+    "conversation.191.message2": "The truth is, my name was once Sinbad the Seller. Someone misheard me once, and it stuck."
+  },
+  {
+    "conversation.192.message1": "Are you ready for your first sailing lesson, Sinbad?"
+  },
+  {
+    "conversation.192.message2": "I do not think it necessary, but it seems you're all convinced I should."
+  },
+  {
+    "conversation.192.message3": "Erm... let's start somewhere easy. What's this part of the boat called?"
+  },
+  {
+    "conversation.192.message4": "The part that usually runs aground?"
+  },
+  {
+    "conversation.193.message1": "WOWIE! Buck, have you seen this model yet?"
+  },
+  {
+    "conversation.193.message2": "I thought it wasn't coming out until next year!"
+  },
+  {
+    "conversation.193.message3": "I'll have to rate it on my blog, Happy Axe-idents. I have two readers now!"
+  },
+  {
+    "conversation.194.message1": "Strange! This basket's full of... cat treats? How did that get in here?"
+  },
+  {
+    "conversation.194.message2": "Aha! My order came in. I'll just be taking that..."
+  },
+  {
+    "conversation.194.message3": "Kitty, no! These are for the fundraiser! Don't you want to combat Wicked Stepmotheritis??"
+  },
+  {
+    "conversation.194.message4": "Why would I do that? Without them, what would any of us have to do?"
+  },
+  {
+    "conversation.195.message1": "More combs?! No no no! I can't face that smug, perfectly highlighted face again!"
+  },
+  {
+    "conversation.195.message2": "Hmm... Say a few more combs went missing, you wouldn't tell anyone, right?"
+  },
+  {
+    "conversation.196.message1": "Drums are alright and all... but, nothing beats a flute."
+  },
+  {
+    "conversation.197.message1": "We have to clean up these anchors! Somebody's going to lose a toe tripping over one."
+  },
+  {
+    "conversation.197.message2": "I completely agree! Perhaps we should display them in some sort of museum display that doubles as an homage to pirates?"
+  },
+  {
+    "conversation.197.message3": "Uh... I'll look into it."
+  },
+  {
+    "conversation.198.message1": "There's something odd about these... In the whole ocean, I haven't seen a single pirate with an anchor like it!"
+  },
+  {
+    "conversation.198.message2": "I wonder who it belongs to. Let's keep merging to find out!"
+  },
+  {
+    "conversation.199.message1": "These are the most beautiful shoes yet! Wait a second, Puss in Boots?! How did you get a pair?"
+  },
+  {
+    "conversation.199.message2": "What can I say? I have a shoe connection. And I do like some sparkle every now and then."
+  },
+  {
+    "conversation.200.message1": "Do you hear that?"
+  },
+  {
+    "conversation.200.message2": "Hear what?"
+  },
+  {
+    "conversation.200.message3": "SHH! That ticking sound! I think it's coming from the shoe..."
+  },
+  {
+    "conversation.201.message1": "Another mirror! What a bunch of nonsense..."
+  },
+  {
+    "conversation.201.message2": "What do you mean by 'nonsense'?"
+  },
+  {
+    "conversation.201.message3": "It said I'd find fame and fortune if I donated some coins to Pinocchio! And still nothing!"
+  },
+  {
+    "conversation.201.message4": "Really?! It said I was losing my hair! Wait a second... something smells fishy here. The puppet boy can't lie... can he?"
+  },
+  {
+    "conversation.202.message1": "More mirrors! Where's Pinocchio? He must be close by..."
+  },
+  {
+    "conversation.202.message2": "You rang?"
+  },
+  {
+    "conversation.202.message3": "You lied to us! You don't speak mirror at all, do you?! Where are my coins?"
+  },
+  {
+    "conversation.202.message4": "You should know better than that! I can't lie. However, I HAVE learned a few loopholes over the years..."
+  },
+  {
+    "conversation.203.message1": "After closer inspection and following the protocols of the Northern Gnome Axe Guild we have determined that this mirror, in fact, cannot speak."
+  },
+  {
+    "conversation.203.message2": "So if Pinocchio says he can talk to mirrors... does that mean reads mirror minds? I've never met a mirror-pathic before!"
+  },
+  {
+    "conversation.203.message3": "Chuck... that's not... no."
+  },
+  {
+    "conversation.204.message1": "Hmm... I wonder if I could use these heels to climb down a tower wall?"
+  },
+  {
+    "conversation.204.message2": "You know what I always say... make it beautiful AND functional for escaping evil witches! "
+  },
+  {
+    "conversation.205.message1": "What a lovely watering can! Perhaps we can finally get that community garden going?"
+  },
+  {
+    "conversation.206.message1": "You dare attack me with a spray bottle?! En garde!"
+  },
+  {
+    "conversation.206.message2": "Calm down, Kitty! It's just a watering can. I'm working on our community garden! Want to help?"
+  },
+  {
+    "conversation.206.message3": "Perhaps... I have a few ideas that need planting."
+  },
+  {
+    "conversation.207.message1": "Uh... Mermaid? What are you doing?"
+  },
+  {
+    "conversation.207.message2": "Is this not how you plant things in a land garden?"
+  },
+  {
+    "conversation.207.message3": "Usually you use the watering can on the PLANTS... not yourself."
+  },
+  {
+    "conversation.207.message4": "Oh! Hmm. I suppose that does make sense. But it's so refreshing!"
+  },
+  {
+    "conversation.208.message1": "Another watering can! Now we're really getting this garden going. But who's planting all these beanstalks?"
+  },
+  {
+    "conversation.208.message2": "Oh, those? Don't worry about those..."
+  },
+  {
+    "conversation.209.message1": "WATCH IT!"
+  },
+  {
+    "conversation.209.message2": "AHH! Whose idea was it to plant this extremely aggressive willow?! It nearly took my head off!"
+  },
+  {
+    "conversation.209.message3": "Well, ex-CUUUUSE-me! You were the one that said we could all use a watering can to plant something!"
+  },
+  {
+    "conversation.209.message4": "I just like a tree with some attitude."
+  },
+  {
+    "conversation.210.message1": "This community garden is just perfect to grow ingredients for Grandmother's cactus pudding recipe!"
+  },
+  {
+    "conversation.210.message2": "That sounds like a... prickly situation."
+  },
+  {
+    "conversation.211.message1": "What do ya all think of the redwood I planted? She's a beauty, isn't she? That watering can sure is powerful!"
+  },
+  {
+    "conversation.211.message2": "Paul, I love the enthusiasm, but it's taking up all the space! It's a COMMUNITY garden."
+  },
+  {
+    "conversation.211.message3": "Not as much space as all the beanstalks someone keeps planting everywhere!"
+  },
+  {
+    "conversation.212.message1": "Anyone seen a cricket in this garden? I've got a bone to pick with an old friend."
+  },
+  {
+    "conversation.212.message2": "Have you tried singing to locate your non-human friends? It always works for me!"
+  },
+  {
+    "conversation.212.message3": "No. *shudders* I don't do that anymore."
+  },
+  {
+    "conversation.213.message1": "Puss in Boots... did you just climb down from that beanstalk?"
+  },
+  {
+    "conversation.213.message2": "No, who? What?"
+  },
+  {
+    "conversation.213.message3": "What's in your hands?! Is that a bag of coins? And a HEN?!"
+  },
+  {
+    "conversation.213.message4": "What? Yes, they're mine! And on a completely unrelated note that has nothing to do with these coins or hen..."
+  },
+  {
+    "conversation.213.message5": "*gigantic growling in the distance* It might be a good idea to cut down those beanstalks now."
+  },
+  {
+    "conversation.214.message1": "Hello again, dearies! My, my, look at this garden. Did you all work on this one? It's quite... creative."
+  },
+  {
+    "conversation.214.message2": "Thumbelina! We're so pleased to see you again. We missed your decorative vision!"
+  },
+  {
+    "conversation.214.message3": "Is that *eye twitches* a patch of daisies next to the roses? No, no... we can't have that. Not at all."
+  },
+  {
+    "conversation.214.message4": "I see my work here has just begun!"
+  },
+  {
+    "conversation.215.message1": "Even the smallest buds can bloom into mighty building blocks! My new place will be up and running in no time!"
+  },
+  {
+    "conversation.216.message1": "What a charming little pond! Oh, my... is that muck?"
+  },
+  {
+    "conversation.216.message2": "It's just a little pond scum! Comes with the territory, m'am."
+  },
+  {
+    "conversation.216.message3": "Oh, is that so? Be a dear and clean it up, will you?"
+  },
+  {
+    "conversation.217.message1": "Nothing like the smell of garden getting installed in the morning! What do you think so far?"
+  },
+  {
+    "conversation.217.message2": "Hmm... we'll need plenty more greenery than that, gnomes! In fact, double the amount. And triple the flowers!"
+  },
+  {
+    "conversation.217.message3": "*whispers* She sure loves her greens."
+  },
+  {
+    "conversation.218.message1": "How's the place coming along, Thumbelina? I wanted to welcome you to the neighborhood with some treats!"
+  },
+  {
+    "conversation.218.message2": "A basket of treats? How quaint!  Hmm... I see you've brought... well, what are these?"
+  },
+  {
+    "conversation.218.message3": "Lemon Bark Brownies! Lemon tree bark is delicious this time of year. Made them myself."
+  },
+  {
+    "conversation.218.message4": "Ah, sounds... unique? I'll save them for a rainy day, thank you."
+  },
+  {
+    "conversation.219.message1": "Excuse me, you there! Young man!"
+  },
+  {
+    "conversation.219.message2": "Uh... yeah?"
+  },
+  {
+    "conversation.219.message3": "As you can see, the grass is quite overrun. The gnomes left a mower right over there. Would you be a dear?"
+  },
+  {
+    "conversation.219.message4": "What? You expect me to mow your lawn, lady?"
+  },
+  {
+    "conversation.219.message5": "Don't you be fresh with ME, Peter! Now get to it. There's only so many hours in the day and we need to keep building!"
+  },
+  {
+    "conversation.220.message1": "OUCH! What in the fog... Are these giant Venus flytraps?! One just tried to bite me!"
+  },
+  {
+    "conversation.220.message2": "Are they alright?! Did you hurt them? Oh! My poor babies! That's Hazel and Earl, aren't they just beautiful?!"
+  },
+  {
+    "conversation.220.message3": "Did I hurt THEM? I almost lost a finger!"
+  },
+  {
+    "conversation.220.message4": "Well, I think they're cool. Maybe they just, like, bite people they don't like. You make a lot of loud noises, you know?"
+  },
+  {
+    "conversation.221.message1": "Something smells delicious! What's cooking, Thumbelina?"
+  },
+  {
+    "conversation.221.message2": "My specialty: Frog leg stew."
+  },
+  {
+    "conversation.221.message3": "Frog legs? Ah. I uh, I'm more of a vegetarian myself."
+  },
+  {
+    "conversation.221.message4": "Oh? My guests say it's hoppin' good."
+  },
+  {
+    "conversation.222.message1": "What's that land plant you're growing in your garden, Thumbelina? The berries look delicious!"
+  },
+  {
+    "conversation.222.message2": "Ah! I wouldn't eat those if I were you, dearie. They're poisonous unless mixed with a little chamomile. Want me to fix you a cup?"
+  },
+  {
+    "conversation.222.message3": "Er... no thank you."
+  },
+  {
+    "conversation.223.message1": "It's so nice for someone else with taste to be here! Mind sharing some house decorating tips?"
+  },
+  {
+    "conversation.223.message2": "Of course, my dear! The first rule of settling in is simple: meet the neighbors. A friendly neighbor makes all the difference."
+  },
+  {
+    "conversation.223.message3": "You're sure there's not a different option? Ugh."
+  },
+  {
+    "conversation.224.message1": "Here's another tip for a new home: To add warmth and elegance to any room, just add some copper, brass, and silver pieces!"
+  },
+  {
+    "conversation.224.message2": "Did someone say silver pieces?"
+  },
+  {
+    "conversation.224.message3": "She's talking about decorations, Sinbad."
+  },
+  {
+    "conversation.224.message4": "Ah, well. While I'm here, you do have a fine assortment of metals. Any up for sale? I'd cut you a great deal."
+  },
+  {
+    "conversation.225.message1": "Now, the way to create a cozy space is with the right textures! I like to bring a little of the outdoors inside."
+  },
+  {
+    "conversation.225.message2": "Ooooo! What kind of rug is this, Thumbelina? Some kind of fur?"
+  },
+  {
+    "conversation.225.message3": "Oh, that? It's mole."
+  },
+  {
+    "conversation.225.message4": "*whispers* That seems oddly specific."
+  },
+  {
+    "conversation.226.message1": "Dearies, you've done such a wonderful job with the house! Now..."
+  },
+  {
+    "conversation.226.message2": "Hmm, did someone *eye twitches* rearrange the vegetable patch?"
+  },
+  {
+    "conversation.226.message3": "S-shouldn't the carrots go with the cauliflower? It's alphabetical order!"
+  },
+  {
+    "conversation.226.message4": "NO YOU IDIO... *deep breath* Nevermind that. We all make mistakes! Some of us more than others... Let's get this fixed!"
+  },
+  {
+    "conversation.227.message1": "It's absolutely perfect! What a wonderful new start in EverMerge!"
+  },
+  {
+    "conversation.227.message2": "Now, anyone up for some tea?"
+  },
+  {
+    "conversation.228.message1": "The birds are chirping, the flowers blooming, the bees buzzing... do you know what that means, my gnomish friends?"
+  },
+  {
+    "conversation.228.message2": "A-a-choooo! Time to stock up on tissues?"
+  },
+  {
+    "conversation.228.message3": "No, silly - spring is in the air! And I've thought up the perfect way to celebrate!"
+  },
+  {
+    "conversation.228.message4": "We're finally getting that axe display case installed in the break room?!"
+  },
+  {
+    "conversation.228.message5": "No... wait, what? We're going to merge our way to a very special springtime tree!"
+  },
+  {
+    "conversation.229.message1": "Now what do we have here...? A wizard's hat?"
+  },
+  {
+    "conversation.229.message2": "I wonder if there's some way to harness its magic... Hmmm, maybe I can build an app for that!"
+  },
+  {
+    "conversation.230.message1": "Ouch! This ugly hat just zapped me!"
+  },
+  {
+    "conversation.230.message2": "*snickers* You didn't know about the alarm system? It's magical. Genius, actually."
+  },
+  {
+    "conversation.230.message3": "I'm guessing its owner didn't want anyone else's grubby hands on it."
+  },
+  {
+    "conversation.230.message4": "Excuse me, puppet boy! I wouldn't be caught dead in this thing, anyway! It's WAY out of style. And smells a bit like old books."
+  },
+  {
+    "conversation.231.message1": "Ooo... is this a magician's hat?! Maybe there's a fuzzy wuzzy rabbit inside!"
+  },
+  {
+    "conversation.231.message2": "Mrrreeow! *hiss* Who dares to disturb me?!"
+  },
+  {
+    "conversation.231.message3": "AHH!! Oh, it's you. You're not a rabbit! What are you doing in that hat?"
+  },
+  {
+    "conversation.231.message4": "No, I am obviously NOT a rabbit. I am also certainly not fuzzy or wuzzy! I was, however, curling up for a nap. Now, scram!"
+  },
+  {
+    "conversation.231.message5": "*mutters* Hmph, well you're kind of fuzzy and wuzzy... and grumpy."
+  },
+  {
+    "conversation.232.message1": "Get that thing away from me!"
+  },
+  {
+    "conversation.232.message2": "Get what away from you, m'am...?"
+  },
+  {
+    "conversation.232.message3": "That hat! It's magical! Magic and I DO NOT mix well. Quick, I think it senses my fear!"
+  },
+  {
+    "conversation.232.message4": "*whispers* She's still getting over that whole apple thing, huh? Don't we have rules in place about that kind of stuff now?"
+  },
+  {
+    "conversation.232.message5": "Hmm... or maybe it was magic lamps we're not allowed to manufacture anymore..."
+  },
+  {
+    "conversation.233.message1": "Oh, hey! It's one of these things. Those hats that come with a GPS."
+  },
+  {
+    "conversation.233.message2": "I've heard of this! It's a navigation system that humans use, correct? Seems unnecessary when you can just follow a current."
+  },
+  {
+    "conversation.233.message3": "No... a Guaranteed Potions System. It doubles as a potions dispenser."
+  },
+  {
+    "conversation.234.message1": "Dearie, is something wrong? You look downright unnerved."
+  },
+  {
+    "conversation.234.message2": "I never thought I'd see one of these things again. A hat forged in the fires of Mt. Calamity... shaped by the dark flame of vengeance... It must be destroyed."
+  },
+  {
+    "conversation.234.message3": "Um... care to elaborate? I'm sure we can solve this over a spot of tea."
+  },
+  {
+    "conversation.234.message4": "*thousand-yard stare* It curses those who wear it into thinking prequel trilogies are a good idea."
+  },
+  {
+    "conversation.234.message5": "*gasp* No, it can't be!"
+  },
+  {
+    "conversation.235.message1": "AHHH! Another magical hat! Is it following me??"
+  },
+  {
+    "conversation.235.message2": "You're asking if the inanimate object is following you?"
+  },
+  {
+    "conversation.235.message3": "I swear I just put one of these hats away, and more just keep popping up! They KNOW I don't like magic! They're mocking me!"
+  },
+  {
+    "conversation.235.message4": "Oh dear... Gnomes, can we clean up these hats? They're upsetting Snow."
+  },
+  {
+    "conversation.236.message1": "Ah, perfect! Another hat. Now I can put my app to the test."
+  },
+  {
+    "conversation.236.message2": "What app is that?"
+  },
+  {
+    "conversation.236.message3": "MagicNet: Harness the power outside yourself, within. Catchy, right? No use letting all the magic in these hats go to waste! Okay... prepare to be amazed!"
+  },
+  {
+    "conversation.236.message4": "*crickets* Should something be happening?"
+  },
+  {
+    "conversation.236.message5": "Ah, ahem, maybe some modifications are in order..."
+  },
+  {
+    "conversation.237.message1": "Peter, why are you shaking that hat? Did it do something to you?"
+  },
+  {
+    "conversation.237.message2": "Listen lady, I haven't been flying much since EverMerge went fog-crazy. There has to be some fairy dust in this thing... it's magical!"
+  },
+  {
+    "conversation.237.message3": "Well, did you find any?"
+  },
+  {
+    "conversation.237.message4": "No, but weirdly enough a sword in a big stone popped out. Sword will not come out of the stone, though. I already tried."
+  },
+  {
+    "conversation.238.message1": "Oh dear! There's some dust on that hat. We've better get that out... ah, yes, there we go. Much better!"
+  },
+  {
+    "conversation.238.message2": "We can't have our EverMerge looking like a junkyard now, can we? Not if we're trying to be up with the times!"
+  },
+  {
+    "conversation.238.message3": "Now, I wonder if we can do anything about that smell..."
+  },
+  {
+    "conversation.239.message1": "Merlin! Oh, we're so glad you're back. We've been in dire need of a wizard of your talents!"
+  },
+  {
+    "conversation.239.message2": "Say, Mr. Merlin, sir - where's your hat? They were all over the place!"
+  },
+  {
+    "conversation.239.message3": "What kind of idiotic question is that? It's on my head!"
+  },
+  {
+    "conversation.239.message4": "Er... where, exactly?"
+  },
+  {
+    "conversation.239.message5": "*sigh* It's invisible. How many times must I explain? Invisible hats are the strongest for channeling magic. Every alchemist worth his salt knows this."
+  },
+  {
+    "conversation.239.message6": "Now, I hope everyone's been dutifully gathering data during this fog incident. I'll need it for my analysis."
+  },
+  {
+    "conversation.240.message1": "Oh, something new! What is that, my gnomish friends?"
+  },
+  {
+    "conversation.240.message2": "You like? It's a CASTLE FOUNDATION. You see, every building needs the right foundation to grow big and strong!"
+  },
+  {
+    "conversation.240.message3": "Should we try building a Castle on it?"
+  },
+  {
+    "conversation.241.message1": "Is that an... apple hut?! That's one way to get over your fears, Snow!"
+  },
+  {
+    "conversation.241.message2": "Trust me, I don't like it, either. But it's the safest building material!"
+  },
+  {
+    "conversation.241.message3": "The only way to protect yourself against poisonous apples is to fight fire with fire! Or, uh, apple with apple..."
+  },
+  {
+    "conversation.242.message1": "What is it that they say, Buck? An apple a day keeps the doctor away?"
+  },
+  {
+    "conversation.242.message2": "Unless it's poisonous, Chuck... then you should dial one immediately."
+  },
+  {
+    "conversation.243.message1": "Uh... where are all the mirrors in this house? Like, how do you even know if you're camera ready?"
+  },
+  {
+    "conversation.243.message2": "No mirrors allowed. At all. Last time a mirror had an opinion on me, it didn't turn out well."
+  },
+  {
+    "conversation.244.message1": "Hey, Snow, blueprints say you need four bathrooms? That right?"
+  },
+  {
+    "conversation.244.message2": "At minimum. I have seven roommates and we've already tried the whole one-bathroom thing. It wasn't pretty."
+  },
+  {
+    "conversation.245.message1": "Uh, Snow? Anyone home?"
+  },
+  {
+    "conversation.245.message2": "*peeks through curtains* Who are you? What are you holding?"
+  },
+  {
+    "conversation.245.message3": "It's a hot dish! Just wanted to welcome you to the neighborhood?"
+  },
+  {
+    "conversation.245.message4": "You look... woodsy. You're not a huntsman, are you?"
+  },
+  {
+    "conversation.245.message5": "Erm..."
+  },
+  {
+    "conversation.246.message1": "I love the new chore board in the kitchen!"
+  },
+  {
+    "conversation.246.message2": "We've had to work up to sharing house duties. It just doesn't make sense for one woman to clean up after SEVEN other folks!"
+  },
+  {
+    "conversation.246.message3": "Just doing the socks used to take all day..."
+  },
+  {
+    "conversation.247.message1": "Hello, Snow?! I've been knocking for ages! Maybe I could ask the gnomes to install a doorbell?"
+  },
+  {
+    "conversation.247.message2": "Oh no, no, no. A certain seven someones don't want one installed..."
+  },
+  {
+    "conversation.247.message3": "They say I keep letting in, 'The Evil Queen disguised as strangers bearing gifts trying to kill you.'"
+  },
+  {
+    "conversation.247.message4": "That only happened THREE times and I've never lived it down!"
+  },
+  {
+    "conversation.248.message1": "One... two... three... four..."
+  },
+  {
+    "conversation.248.message2": "What are you doing, Chuck?"
+  },
+  {
+    "conversation.248.message3": "Just making sure there's enough coat hooks for the whole house! Shoot. Now I have to start counting over..."
+  },
+  {
+    "conversation.248.message4": "Oh, brother... just mark the wall and install, Chuck!"
+  },
+  {
+    "conversation.249.message1": "Wow! This new room you added is so... full of screens. So you like watching television?"
+  },
+  {
+    "conversation.249.message2": "I call it the hub. All these little screens? They're camera feeds for eyes I've set up all over the house."
+  },
+  {
+    "conversation.249.message3": "Nothing's getting past me this time! You should invest, too. I hear there was a wolf sighting last week."
+  },
+  {
+    "conversation.249.message4": "WHAT?!"
+  },
+  {
+    "conversation.250.message1": "WOWIE! Buck, have you seen Snow's axe collection? It's superb!"
+  },
+  {
+    "conversation.250.message2": "Incredible! She even has the Wood Wrecker 3000. We didn't know you were such a collector of fine axes!"
+  },
+  {
+    "conversation.250.message3": "One can never be too prepared. You wouldn't want to run into a huntsman without one, would you?"
+  },
+  {
+    "conversation.250.message4": "Uh... no? *whispers* That's bad, right Buck?"
+  },
+  {
+    "conversation.251.message1": "*knocks* Snow? You home? I've got a proposition for you!"
+  },
+  {
+    "conversation.251.message2": "What is it, Sinbad? I've got a pantry to organize and some dwarves to wrangle."
+  },
+  {
+    "conversation.251.message3": "I'm told you might be interested in some security gear. Well, do I have a deal for you! I'm running a special on a new alarm system."
+  },
+  {
+    "conversation.251.message4": "I call it: Siren's Call - beckon your burglars to justice. Just plug it in and you're ready to keep that house safe!"
+  },
+  {
+    "conversation.251.message5": "Go on, I'm listening..."
+  },
+  {
+    "conversation.252.message1": "Uh... Snow? What are you looking at? *peers up* Are we playing a land game where we look at the sky?! How thrilling!"
+  },
+  {
+    "conversation.252.message2": "No... it's not that. Didn't you just feel that?"
+  },
+  {
+    "conversation.252.message3": "Feel what? It is a bit breezier than I'd prefer above water..."
+  },
+  {
+    "conversation.252.message4": "No, it's like someone... combined things. And the house magically increased in size... Someone's watching us, I just know it!"
+  },
+  {
+    "conversation.253.message1": "Anyone seen Sinbad? I have a bone to pick with him about the house alarm system he sold me! It's a piece of..."
+  },
+  {
+    "conversation.253.message2": "Shhh! I'm looking for him too and don't want to scare him off!"
+  },
+  {
+    "conversation.253.message3": "I bought a faulty set of loaded dice from him just last week. What's the world come to when you can't trust a guy to help you cheat?"
+  },
+  {
+    "conversation.254.message1": "Aaaaaaaand... we're done! What do ya think, Snow? Gotta say, this was a tough job. Eight of everything all over the house!"
+  },
+  {
+    "conversation.254.message2": "It's perfect, gnomes! Now we can start a whole new chapter in EverMerge... with a higher-end security system and equitable chore-sharing!"
+  },
+  {
+    "conversation.254.message3": "Now that's what I call modern amenities."
+  },
+  {
+    "conversation.255.message1": "Look! A magical apple mine!"
+  },
+  {
+    "conversation.255.message2": "Do you think it comes with caramel? Mmm.... caramel apples sound delicious."
+  },
+  {
+    "conversation.255.message3": "No, Chuck, stop trying to eat the mine! This one's for BUILDING. Go ahead, see for yourself."
+  },
+  {
+    "conversation.extra.1.message1": "Top o' the mornin' to ya! Looks like I owe you a thank you for breaking me out of that nasty fog. "
+  },
+  {
+    "conversation.extra.1.message2": "Ah, but I see you're distracted! My Emerald Isle's caught your eye... you're dreaming of all its treasures, I take it?"
+  },
+  {
+    "conversation.extra.1.message3": "Aye, it has riches! But a wee bit of advice from this leprechaun: The best treasures are often the hardest to find."
+  },
+  {
+    "conversation.extra.1.message4": "So better pull up your socks and get to work! Prove yourself, and I'll share my treasures with you soon enough. Good luck!"
+  },
+  {
+    "conversation.extra.2.message1": "What d'ya think of the new landscaping, Princess?"
+  },
+  {
+    "conversation.extra.2.message2": "It's just wonderful, my gnomish friends! I can't wait to celebrate this season again!"
+  },
+  {
+    "conversation.extra.2.message3": "I don't know about you, but it sure put a little spring in MY step."
+  },
+  {
+    "monument.unlocked": "Castle Unlocked!"
+  },
+  {
+    "tutorial.button.next": "Next"
+  },
+  {
+    "tutorial.button.restore": "Restore Progress"
+  },
+  {
+    "tutorial.message.firstMatch.1": "Will you help save EverMerge's heroes from the Fog of the Forgotten?\\n\\nTo start, DRAG and DROP a <sprite name=NPC_A1> over the other two to MERGE!"
+  },
+  {
+    "tutorial.message.firstMatch.2": "You woke up Sleeping Beauty!"
+  },
+  {
+    "tutorial.message.firstMatch.3": "MERGE 3 or more IDENTICAL PIECES to discover something NEW.\\n\\nAs you play, you'll discover NEW ITEMS, unlock NEW CHARACTERS, MAP AREAS and more!"
+  },
+  {
+    "tutorial.message.merge3.1": "DRAG and DROP one piece over the other two to MERGE!"
+  },
+  {
+    "tutorial.message.merge3.2": "Place pieces into adjecent squares to be able to merge them."
+  },
+  {
+    "tutorial.message.market.1": "Here's another tip!\\n\\nYou need <sprite name=icon_Experience> to unlock new stuff. Complete QUESTS to get <sprite name=icon_Experience>. Tap on a Quest Badge to learn more about it."
+  },
+  {
+    "tutorial.message.market.2": "Visit the MARKET to get more cool stuff!\\n\\nFind CHESTS, BOARD PIECES, and other magical RESOURCES there!"
+  },
+  {
+    "tutorial.message.crystal.1": "BOOSTERS will help you!\\n\\nMERGE <sprite name=Boost_CR3> to get a <sprite name=Boost_CR> !"
+  },
+  {
+    "tutorial.message.crystal.2": "With a  <sprite name=Boost_CR> you can MERGE 2 instead of 3 to level up to the next piece! It can replace any board piece you need."
+  },
+  {
+    "tutorial.message.merge5.1": "Here's a neat trick!\\n\\nDRAG and DROP one piece over the other four to MERGE 5!"
+  },
+  {
+    "tutorial.message.merge5.2": "Look, you created a BONUS PIECE when you MERGED 5 instead of 3!"
+  },
+  {
+    "tutorial.message.merge5.3": "Discover a BONUS PIECE every time you merge 5 identical pieces!"
+  },
+  {
+    "tutorial.message.redWorker.1": "You just built a house INSTANTLY with a Red Gnome!\\n\\nDRAG and DROP him on a building to use him. Apply him to short build times to finish INSTANTLY or reduce a long build time by 1 HOUR."
+  },
+  {
+    "tutorial.message.energy": "<sprite name=icon_Energy>\\nFREE ENERGY ready!"
+  },
+  {
+    "tutorial.message.extraWorker": "<sprite name=icon_Worker>\\nGet an EXTRA WORKER!"
+  },
+  {
+    "tutorial.hint.merge3.1": "MERGE <sprite name=PR_C1> to get <sprite name=PR_C2>"
+  },
+  {
+    "tutorial.hint.merge3.2": "MERGE <sprite name=PR_C2> to get <sprite name=PR_C3>"
+  },
+  {
+    "tutorial.hint.merge3.3": "MERGE <sprite name=PR_C3> to get <sprite name=PR_C4>"
+  },
+  {
+    "tutorial.hint.merge5": "MERGE 5 <sprite name=A1> to get 2 <sprite name=A2>"
+  },
+  {
+    "tutorial.hint.market.1": "Complete QUESTS to LEVEL UP!"
+  },
+  {
+    "tutorial.hint.market.2": "Get a free <sprite name=CH_Free> from the MARKET!"
+  },
+  {
+    "tutorial.hint.crystal.1": "MERGE <sprite name=Boost_CR3> to get <sprite name=Boost_CR>"
+  },
+  {
+    "tutorial.hint.crystal.2": "USE <sprite name=Boost_CR> to merge with <sprite name=A5>"
+  },
+  {
+    "tutorial.hint.daily": "Get <sprite name=Soft2> and <sprite name=Hard2> from Daily Objectives!"
+  },
+  {
+    "tutorial.hint.redWorker.1": "Use <sprite name=Boost_WR> to build <sprite name=A6> instantly!"
+  },
+  {
+    "tutorial.hint.redWorker.2": "Tap on <sprite name=Boost_WR> to see worker time balance!"
+  },
+  {
+    "label.download": "Download"
+  },
+  {
+    "info.message.loading.bundle.1": "Loading fun assets"
+  },
+  {
+    "info.message.loading.bundle.2": "Preparing assets for the game"
+  },
+  {
+    "info.message.loading.bundle.3": "Integrating assets into the world"
+  },
+  {
+    "message.bundle.loading.error": "Something went wrong during download. Please, try again."
+  },
+  {
+    "common.button.retry": "Retry"
+  },
+  {
+    "label.attention": "Attention"
+  },
+  {
+    "message.need.additional.content": "You need to download additional content."
+  },
+  {
+    "window.TreasureIsland.title": "Emerald Isle"
+  },
+  {
+    "window.TreasureIsland.message1": "Need more land? Seeking treasures?"
+  },
+  {
+    "window.TreasureIsland.message2": "Clear the fog on Emerald Isle and uncover new riches!"
+  },
+  {
+    "window.TreasureIsland.hint.title": "How to Play"
+  },
+  {
+    "window.TreasureIsland.hint.message": "Merge seasonal items to create rare Emerald Pixies! Catch them to help clear the fog on the Isle and recover rewards along the way. The more fog you clear, the more rewards you'll uncover! "
+  },
+  {
+    "window.SeasonalSpring.hint.title": "How to Play"
+  },
+  {
+    "window.SeasonalSpring.hint.message": "Play in Gnome Rush, Unicorn Rush, or Treasure Hunt to win chests with items to create seasonal event objects. Free Spring Bloom Chest also available in the market!"
+  },
+  {
+    "window.SeasonalSpring.descriptoion": "Spring is in the air! Create a springtime decoration for your land - pieces available for a limited time."
+  },
+  {
+    "window.SeasonalSpring.ending": "Spring Bloom season is over!"
+  },
+  {
+    "window.Seasonal.ending.description": "You can still merge and build pieces you already have, or you can trade them for Emerald Clovers!"
+  },
+  {
+    "window.Seasonal.timeLeft": "Time left:"
+  },
+  {
+    "title.new.item": "Seasonal piece"
+  },
+  {
+    "title.item.unlocked": "Unlocked!"
+  },
+  {
+    "message.help.monument.1": "Merge pieces "
+  },
+  {
+    "message.help.monument.2": "Place pieces on the foundation to build"
+  },
+  {
+    "message.help.monument.3": "Collect rewards from Castle!"
+  },
+  {
+    "title.MonumentUpgrade": "Castle Upgrade"
+  },
+  {
+    "title.MessageSlot": "Upgrade Castle to boost daily rewards:"
+  },
+  {
+    "title.RewardsSpawnIn": "Rewards will refresh in:"
+  },
+  {
+    "label.MaximumLevel": "Maximum Level"
+  },
+  {
+    "message.HowToUpgradeMonument": "Drag and drop pieces from the corresponding branch on top of your Castle to upgrade it!"
+  },
+  {
+    "title.HowToUpgrade": "How to Upgrade"
+  },
+  {
+    "message.compensation.MonumentMigration": "Merlin just cast a powerful spell: a way to magically UPGRADE CASTLES and boost daily rewards! \\n\\n Only ONE Castle of each type can be built, so Merlin zapped every duplicate Castle into 100 RUBIES for you to collect!"
+  },
+  {
+    "window.LockMine.title": "How to Unlock"
+  },
+  {
+    "window.LockMine.message": "To unlock this Mine you need to build the following Castle"
+  },
+  {
+    "window.inbox.title": "Inbox"
+  },
+  {
+    "window.inbox.master.no.messages": "Your inbox is empty. "
+  },
+  {
+    "window.inbox.detail.no.messages": "You have no new messages yet. Check back soon!"
+  },
+  {
+    "window.inbox.detail.btn.go.to.url": "Go!"
+  },
+  {
+    "window.inbox.detail.btn.claim.gift": "Claim!"
+  },
+  {
+    "window.inbox.master.expire": "Expires in"
+  }
+]
